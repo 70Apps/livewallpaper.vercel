@@ -7,7 +7,7 @@
   > li {
     display: block;
     height: 128px;
-    margin-bottom: $spacing-unit/2;
+    margin-bottom: calc($spacing-unit / 2);
 
     .post-list-link {
       display: contents;
@@ -38,7 +38,7 @@
       height: 128px;
       background-position: center;
       background-size: cover;
-      margin: 0 $spacing-unit/4 0 0;
+      margin: 0 calc($spacing-unit / 4) 0 0;
     }
 
     div.post-list-show-image-image {
@@ -62,19 +62,19 @@
     div.post-list-title {
       color: $text-color;
       font-size: $base-font-size * 1.2;
-      margin: 0 $spacing-unit/4;
-      padding-top: $spacing-unit/4;
+      margin: 0 calc($spacing-unit / 4);
+      padding-top: calc($spacing-unit / 4);
     }
 
     div.post-list-description {
       font-size: $small-font-size;
       color: $text-color-dark;
-      margin: 0 $spacing-unit/4;
+      margin: 0 calc($spacing-unit / 4);
     }
 
     div.post-list-info {
       height: 36px;
-      margin-left: $spacing-unit/4;
+      margin-left: calc($spacing-unit / 4);
 
       span.post-meta {
         font-size: $small-font-size;
@@ -98,15 +98,15 @@
       .post-list-link {
         display: contents;
         height: 128px;
-        margin-left: $spacing-unit /2;
-        margin-right: $spacing-unit /2;
+        margin-left: calc($spacing-unit / 2);
+        margin-right: calc($spacing-unit / 2);
       }
 
       div.post-list-info {
         position: absolute;
         width: 80%;
         bottom: 0;
-        margin-left: $spacing-unit/4;
+        margin-left: calc($spacing-unit / 4);
       }
     }
   }
@@ -126,8 +126,8 @@
       left: 0;
       color: $text-color;
       font-size: $base-font-size * 1.2;
-      margin: 0 $spacing-unit/4 0 130+$spacing-unit/4;
-      padding-top: $spacing-unit/4;
+      margin: 0 calc($spacing-unit / 4) 0 130+calc($spacing-unit / 4);
+      padding-top: calc($spacing-unit / 4);
     border-left: 1px solid $brand-color-dark;
     padding-left: 18px;
 
@@ -150,11 +150,11 @@
       left: 0;
       font-size: $small-font-size;
       color: $text-color-dark;
-      margin: 0 $spacing-unit/4 0 130+$spacing-unit/4;
+      margin: 0 calc($spacing-unit / 4) 0 130+calc($spacing-unit / 4);
     border-left: 1px solid $brand-color-dark;
     padding-left: 18px;
-    padding-top: $spacing-unit/4;
-    padding-bottom: $spacing-unit/2;
+    padding-top: calc($spacing-unit / 4);
+    padding-bottom: calc($spacing-unit / 2);
     ol {
       margin: 0;
       li {
@@ -168,7 +168,7 @@
       left: 0;
       top: 6px;
       width: 144px;
-      margin-left: $spacing-unit/4;
+      margin-left: calc($spacing-unit / 4);
 
       span.post-category {
         float: right;
@@ -205,13 +205,13 @@
       div.post-list-title {
       width: 440px;
         left: 0;
-        margin: 0 $spacing-unit/4 0 224+$spacing-unit/4;
+        margin: 0 calc($spacing-unit / 4) 0 224+calc($spacing-unit / 4);
         padding-left: 24px;
       }
 
       div.post-list-description {
         left: 0;
-        margin: 0 $spacing-unit/4 0 224+$spacing-unit/4;
+        margin: 0 calc($spacing-unit / 4) 0 224+calc($spacing-unit / 4);
         padding-left: 24px;
       }
 

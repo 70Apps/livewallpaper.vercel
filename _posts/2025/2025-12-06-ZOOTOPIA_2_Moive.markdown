@@ -9,7 +9,7 @@ tags : [zootopia]
 postid: 1
 headimage : ../../../../images/2025/1.jpg
 ---
-# iPad
+# iPad Wallpaper
 
 ## screenshots
 

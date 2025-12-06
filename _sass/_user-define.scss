@@ -75,7 +75,7 @@ h1#全部项目+ul {
     text-align: center;
 
     > a {
-      margin: 0 $spacing-unit /4;
+      margin: 0 calc($spacing-unit / 4);
 
       img {
         width: 128px;
@@ -112,8 +112,8 @@ h2#应用截图+p {
   flex-wrap: nowrap;
 
   > img {
-    margin: 0 $spacing-unit /4;
-    border-radius: $spacing-unit /4;
+    margin: 0 calc($spacing-unit / 4);
+    border-radius: calc($spacing-unit / 4);
     display: table;
     float: left;
     height: 480px;
@@ -128,8 +128,8 @@ h2#应用截图+p {
     height: 360px;
 
     > img {
-      margin: 0 $spacing-unit /4;
-      border-radius: $spacing-unit /4;
+      margin: 0 calc($spacing-unit / 4);
+      border-radius: calc($spacing-unit / 4);
       height: 360px;
     }
   }
