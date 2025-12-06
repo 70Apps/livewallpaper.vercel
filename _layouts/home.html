@@ -1,0 +1,81 @@
+---
+layout: default
+title: locklive livewallpaper
+---
+<div class="home">
+
+  <ul class="post-list">
+    {% for post in site.posts limit:1 %}
+    <li>
+      <a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">
+        <div class="post-list-show-image">
+          <div class="post-list-show-image-image" data-bg="{{ post.headimage }}"></div>
+        </div>
+        <div class="post-list-title">{{ post.title }}</div>
+          <div class="post-list-description">{{ post.description }}</div>
+          <div class="post-list-info">
+            <span class="post-category post-category-{{ post.category }}"></span>
+            <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
+          </div>
+      </a>
+    </li>
+    {% endfor %}
+
+    <!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+<li>
+  <a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">
+    <div class="post-list-show-image">
+      <div class="post-list-show-image-image" data-bg="{{ post.headimage }}"></div>
+    </div>
+    <div class="post-list-title">{{ post.title }}</div>
+      <div class="post-list-description">{{ post.description }}</div>
+      <div class="post-list-info">
+        <span class="post-category post-category-{{ post.category }}"></span>
+        <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
+      </div>
+  </a>
+</li>
+{% endfor %}
+
+
+  </ul>
+
+  <p></p>
+  <p class="rss-subscribe">
+    <a href="{{ "/list/" | prepend: site.baseurl }}" class="link-button">查看所有</a>
+      <!-- a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="link-button">Rss</a -->
+  </p>
+
+<!-- 分页链接 -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="/page{{ paginator.next_page }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+
+</div>
+<script>
+  // 检查浏览器是否支持webp
+  function isSupportWebP() {
+    return document.createElement('canvas').toDataURL('image/webp').indexOf('data:image/webp') == 0;
+  }
+
+  // 如果支持webp,则在img标签src上添加后缀
+  const imgList = document.querySelectorAll('.post-list-show-image-image');
+ var i=0;
+ imgList.forEach(img => {
+   let src = img.getAttribute('data-bg');
+   img.style.backgroundImage = "url('./images/icon/icon/icon/" + src + "')";
+   setTimeout(function(){img.style.opacity=1;},300+300*i);
+   i++;
+ });
+</script>
