@@ -7,10 +7,10 @@ keyword: zootopia, disney
 tagline: movie
 tags : [zootopia]
 postid: 20251201
-headimage : ../../../../images/2025/12/devshots-1764389224435.jpg
+headimage : ../../../../images/2025/12/1/devshots-1764389224435.jpg
 ---
 
-![screenshot1](../../../../images/2025/12/devshots-1764389235556.jpg)
+![screenshot1](../../../../images/2025/12/1/devshots-1764389235556.jpg)
 
 # No.20251201 凡人修仙傳最具人氣魔仙玄骨上人動態壁紙
 
@@ -44,6 +44,9 @@ iPhone users search '20251201' in xLiveWallpaper App
 
 #LiveWallpaper #LockLive #xLiveWallpaper #AnimeWallpaper #DemonicCultivator #Xianxia #SoulFire #GhostFlame #DarkFantasy
 
+<video src="../../../../images/2025/12/1/devshots-1764389224435.MOV" controls="controls" class="video_preview" >
+<source src="../../../../images/2025/12/1/devshots-1764389224435.MOV" type="video/mov">
+</video>
 
 # No.20251201 玄骨上人 動画壁紙
 
@@ -77,4 +80,4 @@ iPhone用户在xLiveWallpaper App中搜索「20251201」
 #动态壁纸 #LockLive #实况全能王 #LiveWallpaper #xLiveWallpaper #玄骨上人 #凡人修仙传 #魔修 #魂火 #幽冥
 
 
-![screenshot1](../../../../images/2025/12/devshots-1764389235556.jpg)
+![screenshot1](../../../../images/2025/12/1/devshots-1764389235556.jpg)

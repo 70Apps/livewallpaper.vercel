@@ -2,7 +2,7 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/"><img src="{{ "/images/logo.png" | prepend: site.baseurl }}" style="border-radius: 50%;width: 36px;margin-right: 5px;" title="{{ site.title }}"></a>
+    <a class="site-title" href="{{ site.baseurl }}/"><img src="{{ "/images/logo.png" | prepend: site.baseurl }}" style="border-radius: 50%;width: 36px;margin-right: 5px;" title="{{ site.title }}">{{ site.title }}</a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -15,7 +15,7 @@
 
       <div class="trigger">
       <a class="page-link" href="{{ "/" | prepend: site.baseurl }}">Home</a>
-      <a class="page-link" href="{{ "/app" | prepend: site.baseurl }}">Mobile App</a>
+      <a class="page-link" href="{{ "/app" | prepend: site.baseurl }}">App</a>
       <a class="page-link" href="{{ "/about" | prepend: site.baseurl }}">About</a>
       <!--
       {% for my_page in site.pages %}

@@ -157,3 +157,14 @@ h2#应用截图+p {
 {
   padding: 10px;
 }
+
+.video_preview {
+  width: 375px;
+}
+@include media-query($on-palm) {
+.video_preview {
+  width: 90%;
+  margin: 0 5%;
+  border: 5px solid white;
+}
+}

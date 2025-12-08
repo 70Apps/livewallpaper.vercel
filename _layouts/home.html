@@ -41,26 +41,34 @@ title: locklive livewallpaper
 
   </ul>
 
-  <p></p>
-  <p class="rss-subscribe">
-    <a href="{{ "/list/" | prepend: site.baseurl }}" class="link-button">查看所有</a>
-      <!-- a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="link-button">Rss</a -->
-  </p>
 
 <!-- 分页链接 -->
+ {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
+    <a href="{{ paginator.previous_page_path | relative_url }}">上一页</a>
   {% else %}
-    <span class="previous">Previous</span>
+    <span>上一页</span>
   {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em>{{ page }}</em>
+    {% elsif page == 1 %}
+      <a href="{{ site.paginate_path | relative_url | replace: 'page-:num/', '' }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
   {% if paginator.next_page %}
-    <a href="/page{{ paginator.next_page }}" class="next">Next</a>
+    <a href="{{ paginator.next_page_path | relative_url }}">下一页</a>
   {% else %}
-    <span class="next ">Next</span>
+    <span>下一页</span>
   {% endif %}
 </div>
+{% endif %}
+
 
 </div>
 <script>
@@ -74,7 +82,8 @@ title: locklive livewallpaper
  var i=0;
  imgList.forEach(img => {
    let src = img.getAttribute('data-bg');
-   img.style.backgroundImage = "url('./images/icon/icon/icon/" + src + "')";
+   console.log(src);
+   img.style.backgroundImage = "url('" + src + "')";
    setTimeout(function(){img.style.opacity=1;},300+300*i);
    i++;
  });

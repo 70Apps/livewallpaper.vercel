@@ -256,10 +256,11 @@
   width: 24px;
   height: 24px;
   margin: 4px 4px 4px 0;
-  background-color: $brand-color-dark;
+  -lin-background-color: $brand-color-dark;
+  background-color: #ddd;
 
   &::after {
-    content: "70";
+    content: "APP";
     font-size: 12px;
     line-height: 32px;
     color: $brand-color-light;
@@ -270,9 +271,9 @@
   }
 }
 
-.post-category-code {
+.post-category-movie {
   &::after {
-    content: "Code";
+    content: "🎬";
     letter-spacing: -0.15em;
   }
 }
