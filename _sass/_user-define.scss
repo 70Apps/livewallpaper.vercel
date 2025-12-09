@@ -168,3 +168,46 @@ h2#应用截图+p {
   border: 5px solid white;
 }
 }
+
+ul.post-tags-list,
+ul.site-tags-list { 
+  list-style-type: none;
+}
+ul.post-tags-list li ,
+ul.site-tags-list li {
+  display: inline;
+  margin-right: 10px;
+  line-height: 250%;
+}
+ul.post-tags-list li a,
+ul.site-tags-list li a {
+  padding: 5px 10px;
+  background-color: $brand-color;
+  color: white;
+  border-radius: 10px;
+  font-size: $small-font-size;
+  text-decoration: none;
+  &:hover {
+    background-color: darken($brand-color, 10%);
+  }
+}
+
+.page-content-preview-image {
+  margin: 0 auto;
+  text-align: center;
+}
+.page-content-buttons {
+  margin: 0 auto;
+  text-align: center;
+  padding:  calc($spacing-unit / 2) 0;
+}
+.page-content-buttons a {
+  display: inline-block;
+  padding:calc($spacing-unit / 4) calc($spacing-unit / 2);
+  background-color: #fb941f;
+  color: white;
+  border-radius: 10px;
+  font-size: 14px;
+  text-decoration: none;
+  margin:  calc($spacing-unit / 4);
+}

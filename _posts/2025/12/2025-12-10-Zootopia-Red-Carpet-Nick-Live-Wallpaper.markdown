@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-wallpaper
 category : movie
 title: Demonic Bone Sovereign Animation Wallpaper
 description: newest live wallpaper for zootopia 2 movie
@@ -8,6 +8,7 @@ tagline: movie
 tags : [zootopia]
 postid: 20251210
 headimage : ../../../../images/2025/12/devshots-1764488162519.jpg
+previewimage : ../../../../images/2025/12/devshots-1764488162519.jpg
 ---
 
 # No.20251216 閃電買票排隊記動態壁紙
@@ -17,7 +18,7 @@ headimage : ../../../../images/2025/12/devshots-1764488162519.jpg
 購買支持我們（安卓影片/蘋果實況格式）：
 https://locklive.gumroad.com/l/20251216
 iPhone用戶在xLiveWallpaper App中搜尋「20251216」
-AppStore下載：https://apps.apple.com/app/id6747997192
+AppStore下載：{{site.app_link}}
 #動態壁紙 #LockLive #實況全能王 #LiveWallpaper #xLiveWallpaper #瘋狂動物城 #閃電樹懶 #電影院排隊 #霓虹夜色 #幽默場景
 
 # No.20251210 Zootopia Red Carpet Nick Live Wallpaper
@@ -26,7 +27,7 @@ AppStore下載：https://apps.apple.com/app/id6747997192
 Get this wallpaper (Android Video / iOS Live Photo):
 https://locklive.gumroad.com/l/20251210
 iPhone users search '20251210' in xLiveWallpaper App
-Download: https://apps.apple.com/app/id6747997192
+Download: {{site.app_link}}
 #LiveWallpaper #LockLive #xLiveWallpaper #Zootopia #RedCarpet #NickWilde #SunglassesMove #StarAppearance
 
 # No.20251201 玄骨上人 動画壁紙
@@ -38,7 +39,7 @@ No.20251216 闪电买票排队记动态壁纸
 购买支持我们（安卓视频/苹果实况格式）：
 https://locklive.gumroad.com/l/20251216
 iPhone用户在xLiveWallpaper App中搜索「20251216」
-AppStore下载：https://apps.apple.com/app/id6747997192
+AppStore下载：{{site.app_link}}
 #动态壁纸 #LockLive #实况全能王 #LiveWallpaper #xLiveWallpaper #疯狂动物城 #闪电树懒 #电影院排队 #霓虹夜色 #幽默场景
 
 
@@ -49,9 +50,5 @@ AppStore下载：https://apps.apple.com/app/id6747997192
 购买支持我们（安卓视频/苹果实况格式）：
 https://locklive.gumroad.com/l/20251201
 iPhone用户在xLiveWallpaper App中搜索「20251201」
-AppStore下载：https://apps.apple.com/app/id6747997192
+AppStore下载：{{site.app_link}}
 #动态壁纸 #LockLive #实况全能王 #LiveWallpaper #xLiveWallpaper #玄骨上人 #凡人修仙传 #魔修 #魂火 #幽冥
-
-## screenshots
-
-![screenshot1](../../../../images/2025/12/devshots-1764488181110.jpg)

@@ -1,16 +1,15 @@
 ---
-layout: post
+layout: post-wallpaper
 category : movie
 title: Super Cute Chibi DC Comics Superheroes Say Goodnight Live Wallpaper
 description: Superheroes Wonder Woman, Flash, Batman, Superman 
 keyword: dc, Comics, Superheroes
 tagline: movie
-tags : [dc, Superhero, Superheroes]
+tags : [DC, Superheroes]
 postid: 20251202
 headimage : ../../../../images/2025/12/2/devshots-1764389651167.jpg
+previewimage : ../../../../images/2025/12/2/devshots-1764389637391.jpg
 ---
-
-![screenshot1](../../../../images/2025/12/2/devshots-1764389637391.jpg)
 
 # No.20251202 超可愛的Q版DC漫畫超級英雄神奇女俠、閃電俠、蝙蝠俠、超人推開你的房門跟你說晚安了動態壁紙
 
@@ -24,7 +23,7 @@ headimage : ../../../../images/2025/12/2/devshots-1764389651167.jpg
 
 iPhone用戶在xLiveWallpaper App中搜尋「20251202」
 
-[AppStore下載：https://apps.apple.com/app/id6747997192](https://apps.apple.com/app/id6747997192)
+[AppStore下載：{{site.app_link}}]({{site.app_link}})
 
 #動態壁紙 #LockLive #實況全能王 #LiveWallpaper #xLiveWallpaper #DC英雄 #Q版漫畫 #晚安壁紙 #超級英雄 #治癒系
 
@@ -41,7 +40,7 @@ Get this wallpaper (Android Video / iOS Live Photo):
 
 iPhone users search '20251202' in xLiveWallpaper App
 
-[Download：https://apps.apple.com/app/id6747997192](https://apps.apple.com/app/id6747997192)
+[Download：{{site.app_link}}]({{site.app_link}})
 
 #LiveWallpaper #LockLive #xLiveWallpaper #DCHeroes #ChibiStyle #GoodnightWallpaper #Superheroes #CuteWallpaper
 
@@ -61,7 +60,7 @@ iPhone users search '20251202' in xLiveWallpaper App
 
 iPhoneユーザーはxLiveWallpaperアプリで「20251202」を検索
 
-[ダウンロード：：https://apps.apple.com/app/id6747997192](https://apps.apple.com/app/id6747997192)
+[ダウンロード：：{{site.app_link}}]({{site.app_link}})
 
 #動画壁紙 #LockLive #xLiveWallpaper #ライブ壁紙 #DCヒーローズ #ちびキャラ #おやすみ壁紙 #スーパーヒーロー #癒し
 
@@ -77,7 +76,7 @@ iPhoneユーザーはxLiveWallpaperアプリで「20251202」を検索
 
 iPhone用户在xLiveWallpaper App中搜索「20251202」
 
-[AppStore下载：https://apps.apple.com/app/id6747997192](https://apps.apple.com/app/id6747997192)
+[AppStore下载：{{site.app_link}}]({{site.app_link}})
 
 #动态壁纸 #LockLive #实况全能王 #LiveWallpaper #xLiveWallpaper #DC英雄 #Q版漫画 #晚安壁纸 #超级英雄 #治愈系
 

@@ -1,16 +1,15 @@
 ---
-layout: post
+layout: post-wallpaper
 category : movie
 title: Demonic Bone Sovereign Animation Wallpaper
 description: newest live wallpaper for zootopia 2 movie
 keyword: zootopia, disney
 tagline: movie
-tags : [zootopia]
+tags : [Chinese]
 postid: 20251201
 headimage : ../../../../images/2025/12/1/devshots-1764389224435.jpg
+previewimage : ../../../../images/2025/12/1/devshots-1764389235556.jpg
 ---
-
-![screenshot1](../../../../images/2025/12/1/devshots-1764389235556.jpg)
 
 # No.20251201 凡人修仙傳最具人氣魔仙玄骨上人動態壁紙
 
@@ -24,7 +23,7 @@ headimage : ../../../../images/2025/12/1/devshots-1764389224435.jpg
 
 iPhone用戶在xLiveWallpaper App中搜尋「20251201」
 
-[AppStore下載：https://apps.apple.com/app/id6747997192](https://apps.apple.com/app/id6747997192)
+[AppStore下載：{{site.app_link}}]({{site.app_link}})
 
 #動態壁紙 #LockLive #實況全能王 #LiveWallpaper #xLiveWallpaper #玄骨上人 #凡人修仙傳 #魔修 #魂火 #幽冥
 
@@ -40,7 +39,7 @@ Get this wallpaper (Android Video / iOS Live Photo):
 
 iPhone users search '20251201' in xLiveWallpaper App
 
-[Download：https://apps.apple.com/app/id6747997192](https://apps.apple.com/app/id6747997192)
+[Download：{{site.app_link}}]({{site.app_link}})
 
 #LiveWallpaper #LockLive #xLiveWallpaper #AnimeWallpaper #DemonicCultivator #Xianxia #SoulFire #GhostFlame #DarkFantasy
 
@@ -59,7 +58,7 @@ iPhone users search '20251201' in xLiveWallpaper App
 
 iPhoneユーザーはxLiveWallpaperアプリで「20251201」を検索
 
-[ダウンロード：：https://apps.apple.com/app/id6747997192](https://apps.apple.com/app/id6747997192)
+[ダウンロード：{{site.app_link}}]({{site.app_link}})
 
 #動画壁紙 #LockLive #xLiveWallpaper #ライブ壁紙 #玄骨上人 #修仙ファンタジー #魔道 #魂炎 #幽冥界
 
@@ -75,9 +74,6 @@ iPhoneユーザーはxLiveWallpaperアプリで「20251201」を検索
 
 iPhone用户在xLiveWallpaper App中搜索「20251201」
 
-[AppStore下载：https://apps.apple.com/app/id6747997192](https://apps.apple.com/app/id6747997192)
+[AppStore下载：{{site.app_link}}]({{site.app_link}})
 
 #动态壁纸 #LockLive #实况全能王 #LiveWallpaper #xLiveWallpaper #玄骨上人 #凡人修仙传 #魔修 #魂火 #幽冥
-
-
-![screenshot1](../../../../images/2025/12/1/devshots-1764389235556.jpg)
