@@ -19,7 +19,7 @@ previewimage : ../../../../images/2025/12/2/devshots-1764389637391.jpg
 
 購買支持我們（安卓影片/蘋果實況格式）：
 
-[https://locklive.gumroad.com/l/20251202](https://locklive.gumroad.com/l/20251202)
+[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
 
 iPhone用戶在xLiveWallpaper App中搜尋「20251202」
 
@@ -36,7 +36,7 @@ iPhone用戶在xLiveWallpaper App中搜尋「20251202」
 
 Get this wallpaper (Android Video / iOS Live Photo):
 
-[https://locklive.gumroad.com/l/20251202](https://locklive.gumroad.com/l/20251202)
+[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
 
 iPhone users search '20251202' in xLiveWallpaper App
 
@@ -56,7 +56,7 @@ iPhone users search '20251202' in xLiveWallpaper App
 
 購入はこちら（Android動画/iOS Live Photo形式）：
 
-[https://locklive.gumroad.com/l/20251202](https://locklive.gumroad.com/l/20251202)
+[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
 
 iPhoneユーザーはxLiveWallpaperアプリで「20251202」を検索
 
@@ -72,7 +72,7 @@ iPhoneユーザーはxLiveWallpaperアプリで「20251202」を検索
 
 购买支持我们（安卓视频/苹果实况格式）：
 
-[https://locklive.gumroad.com/l/20251202](https://locklive.gumroad.com/l/20251202)
+[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
 
 iPhone用户在xLiveWallpaper App中搜索「20251202」
 

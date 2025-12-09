@@ -316,12 +316,14 @@
   > li {
     display: block;
     margin-bottom: calc($spacing-unit / 2);
+      height: 400px;
 
     .post-list-link {
       display: block;
       background-color: $background-color-light;
       font-size: 20px;
       color: $text-color;
+      height: 400px;
 
       &:visited {
         color: $text-color;
@@ -411,12 +413,12 @@
       margin-bottom: $spacing-unit;
       position: relative;
       width: 50%;
-      height: 320px;
+      height: 400px;
       float: left;
 
       .post-list-link {
         display: block;
-        height: 320px;
+        height: 400px;
         margin-left: calc($spacing-unit / 2);
         margin-right: calc($spacing-unit / 2);
       }
@@ -439,12 +441,12 @@
       margin-bottom: $spacing-unit;
       position: relative;
       width: 25%;
-      height: 320px;
+      height: 400px;
       float: left;
 
       .post-list-link {
         display: block;
-        height: 320px;
+        height: 400px;
         margin-left: calc($spacing-unit / 2);
         margin-right: calc($spacing-unit / 2);
       }

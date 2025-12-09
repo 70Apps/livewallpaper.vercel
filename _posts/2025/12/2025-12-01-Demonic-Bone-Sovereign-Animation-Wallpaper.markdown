@@ -19,7 +19,7 @@ previewimage : ../../../../images/2025/12/1/devshots-1764389235556.jpg
 
 購買支持我們（安卓影片/蘋果實況格式）：
 
-[https://locklive.gumroad.com/l/20251201](https://locklive.gumroad.com/l/20251201)
+[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
 
 iPhone用戶在xLiveWallpaper App中搜尋「20251201」
 
@@ -35,7 +35,7 @@ iPhone用戶在xLiveWallpaper App中搜尋「20251201」
 
 Get this wallpaper (Android Video / iOS Live Photo):
 
-[https://locklive.gumroad.com/l/20251201](https://locklive.gumroad.com/l/20251201)
+[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
 
 iPhone users search '20251201' in xLiveWallpaper App
 
@@ -54,7 +54,7 @@ iPhone users search '20251201' in xLiveWallpaper App
 🖼️紫炎が生ける蛇のように玉座を纏う｜衣紋に暗紅色の血脈が流れる｜輪廻盤の破片が反時計回りに回転｜怨霊が断続的に集合と消散を繰り返す
 購入はこちら（Android動画/iOS Live Photo形式）：
 
-[https://locklive.gumroad.com/l/20251201](https://locklive.gumroad.com/l/20251201)
+[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
 
 iPhoneユーザーはxLiveWallpaperアプリで「20251201」を検索
 
@@ -70,7 +70,7 @@ iPhoneユーザーはxLiveWallpaperアプリで「20251201」を検索
 
 购买支持我们（安卓视频/苹果实况格式）：
 
-[https://locklive.gumroad.com/l/20251201](https://locklive.gumroad.com/l/20251201)
+[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
 
 iPhone用户在xLiveWallpaper App中搜索「20251201」
 

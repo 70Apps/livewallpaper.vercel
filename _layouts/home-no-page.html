@@ -4,34 +4,32 @@ title: locklive livewallpaper
 ---
 <div class="home">
 
-<div class="post-list-container">
   <ul class="post-list">
-    <!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
-<li>
-  <a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">
-    <div class="post-list-show-image">
-      <div class="post-list-show-image-image" data-bg="{{ post.headimage }}"></div>
-    </div>
-    <div class="post-list-title">{{ post.title }}</div>
-      <div class="post-list-description">{{ post.description }}</div>
-      <div class="post-list-info">
-        <span class="post-category post-category-{{ post.category }}"></span>
-        <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
-      </div>
-  </a>
-</li>
-{% endfor %}
+    {% for post in site.posts limit:10 %}
+    <li>
+      <a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">
+        <div class="post-list-show-image">
+          <div class="post-list-show-image-image" data-bg="{{ post.previewimage }}"></div>
+        </div>
+        <div class="post-list-title">{{ post.title }}</div>
+          <div class="post-list-description">{{ post.description }}</div>
+          <div class="post-list-info">
+            <span class="post-category post-category-{{ post.category }}"></span>
+            <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
+          </div>
+      </a>
+    </li>
+    {% endfor %}
   </ul>
-</div>
+
 
 <!-- 分页链接 -->
  {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url }}">Previou</a>
+    <a href="{{ paginator.previous_page_path | relative_url }}">上一页</a>
   {% else %}
-    <span>Previou</span>
+    <span>上一页</span>
   {% endif %}
 
   {% for page in (1..paginator.total_pages) %}
@@ -45,9 +43,9 @@ title: locklive livewallpaper
   {% endfor %}
 
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url }}">Next</a>
+    <a href="{{ paginator.next_page_path | relative_url }}">下一页</a>
   {% else %}
-    <span>Next</span>
+    <span>下一页</span>
   {% endif %}
 </div>
 {% endif %}
