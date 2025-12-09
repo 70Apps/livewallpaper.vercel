@@ -9,6 +9,7 @@ tags : [DC, Superheroes]
 postid: 20251202
 headimage : ../../../../images/2025/12/2/devshots-1764389651167.jpg
 previewimage : ../../../../images/2025/12/2/devshots-1764389637391.jpg
+previewvideo : ../../../../images/2025/12/2/devshots-1764389637391.MOV
 ---
 
 # No.20251202 超可愛的Q版DC漫畫超級英雄神奇女俠、閃電俠、蝙蝠俠、超人推開你的房門跟你說晚安了動態壁紙
@@ -44,10 +45,6 @@ iPhone users search '20251202' in xLiveWallpaper App
 
 #LiveWallpaper #LockLive #xLiveWallpaper #DCHeroes #ChibiStyle #GoodnightWallpaper #Superheroes #CuteWallpaper
 
-<video src="../../../../images/2025/12/2/devshots-1764389651167.MOV" controls="controls" class="video_preview" >
-<source src="../../../../images/2025/12/2/devshots-1764389651167.MOV" type="video/mov">
-</video>
-
 # No.20251202 ちびキャラDCヒーロー ワンダーウーマン、フラッシュ、バットマン、スーパーマンがおやすみを言いにドアを開ける動画壁紙
 
 🌌月明かりの優しい寝室のドアが開くと、ちびキャラのワンダーウーマンが魔法のラッソを振り✨、フラッシュは電撃の残像を残し⚡、バットマンのマントが揺れ🦇、スーパーマンは浮かんで微笑み🦸、4人のヒーローが揃っておやすみを伝える🌙
@@ -79,5 +76,3 @@ iPhone用户在xLiveWallpaper App中搜索「20251202」
 [AppStore下载：{{site.app_link}}]({{site.app_link}})
 
 #动态壁纸 #LockLive #实况全能王 #LiveWallpaper #xLiveWallpaper #DC英雄 #Q版漫画 #晚安壁纸 #超级英雄 #治愈系
-
-![screenshot1](../../../../images/2025/12/2/devshots-1764389637391.jpg)

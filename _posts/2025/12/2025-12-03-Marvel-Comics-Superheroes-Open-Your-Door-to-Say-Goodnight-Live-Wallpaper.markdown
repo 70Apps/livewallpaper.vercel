@@ -9,6 +9,7 @@ tags : [Marvel, Superheroes]
 postid: 20251203
 headimage : ../../../../images/2025/12/3/devshots-1764390002542.jpg
 previewimage : ../../../../images/2025/12/3/devshots-1764390012479.jpg
+previewvideo : ../../../../images/2025/12/3/devshots-1764390012479.MOV
 ---
 
 # No.20251203 漫威英雄晚安計劃動態壁紙
@@ -42,10 +43,6 @@ iPhone users search '20251202' in xLiveWallpaper App
 [Download：{{site.app_link}}]({{site.app_link}})
 
 #LiveWallpaper #LockLive #xLiveWallpaper #MarvelHeroes #ChibiStyle #GoodnightWallpaper #Superheroes #CuteWallpaper
-
-<video src="../../../../images/2025/12/3/devshots-1764390002542.MOV" controls="controls" class="video_preview" >
-<source src="../../../../images/2025/12/3/devshots-1764390002542.MOV" type="video/mov">
-</video>
 
 # No.20251203 マーベルヒーローおやすみ計画 動画壁紙
 

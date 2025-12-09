@@ -158,17 +158,6 @@ h2#应用截图+p {
   padding: 10px;
 }
 
-.video_preview {
-  width: 375px;
-}
-@include media-query($on-palm) {
-.video_preview {
-  width: 90%;
-  margin: 0 5%;
-  border: 5px solid white;
-}
-}
-
 ul.post-tags-list,
 ul.site-tags-list { 
   list-style-type: none;
@@ -196,6 +185,28 @@ ul.site-tags-list li a {
   margin: 0 auto;
   text-align: center;
 }
+.page-content-preview-image img {
+  border: 5px solid white;
+}
+
+.page-content-preview-video {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.page-content-preview-video video {
+  width: 375px;
+  margin: 0 auto;
+  border: 5px solid white;
+}
+@include media-query($on-palm) {
+.page-content-preview-video video {
+    width: 90%;
+    margin: 0 auto;
+    border: 5px solid white;
+  }
+}
+
 .page-content-buttons {
   margin: 0 auto;
   text-align: center;

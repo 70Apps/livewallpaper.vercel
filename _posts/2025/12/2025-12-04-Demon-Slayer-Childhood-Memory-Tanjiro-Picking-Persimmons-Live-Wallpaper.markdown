@@ -9,6 +9,7 @@ tags : [Demon Slayer, Japanese]
 postid: 20251204
 headimage : ../../../../images/2025/12/4/devshots-1764390385820.jpg
 previewimage : ../../../../images/2025/12/4/devshots-1764390374671.jpg
+previewvideo : ../../../../images/2025/12/4/devshots-1764390374671.MOV
 ---
 
 # No.20251204 鬼滅之刃童年回憶炭治郎背著妹妹摘柿子動態壁紙
@@ -42,9 +43,6 @@ iPhone users search '20251202' in xLiveWallpaper App
 [Download：{{site.app_link}}]({{site.app_link}})
 
 #LiveWallpaper #LockLive #xLiveWallpaper #DemonSlayer #Ukiyoe #ChildhoodMemory #Tanjiro #Nezuko
-
-<video src="../../../../images/2025/12/4/devshots-1764390374671.MOV" controls="controls" class="video_preview" >
-</video>
 
 # No.20251204 鬼滅の刃 幼き日々・炭治郎が禰豆子を背負い柿もぎ 動画壁紙
 

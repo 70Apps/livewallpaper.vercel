@@ -23,8 +23,6 @@ layout: default
         </ul>
         {% endif %}
       </p>
-    
-
         <!--img src="{{ page.headimage }}" alt="{{ page.description }}" title="{{ page.description }}"-->
   </header>
 
@@ -35,6 +33,12 @@ layout: default
       <a href="{{site.app_link}}">下載 App</a>
       </div>
     {{ content }}
+
+<div class="page-content-preview-video">
+    <video src="{{page.previewvideo}}" controls="controls" class="video_preview" >
+    </video>
+</div>
+{% include wallpage-help.html %}
     <div class="page-content-preview-image"><img src="{{page.previewimage}}"></div>
     <div class="page-content-buttons">
       <a href="https://locklive.gumroad.com/l/{{page.postid}}">Get this wallpaper</a>

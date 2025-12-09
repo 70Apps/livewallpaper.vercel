@@ -9,6 +9,7 @@ tags : [Chinese]
 postid: 20251201
 headimage : ../../../../images/2025/12/1/devshots-1764389224435.jpg
 previewimage : ../../../../images/2025/12/1/devshots-1764389235556.jpg
+previewvideo : ../../../../images/2025/12/1/devshots-1764389224435.MOV
 ---
 
 # No.20251201 凡人修仙傳最具人氣魔仙玄骨上人動態壁紙
@@ -21,7 +22,7 @@ previewimage : ../../../../images/2025/12/1/devshots-1764389235556.jpg
 
 [https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
 
-iPhone用戶在xLiveWallpaper App中搜尋「20251201」
+iPhone用戶在xLiveWallpaper App中搜尋「**20251201**」
 
 [AppStore下載：{{site.app_link}}]({{site.app_link}})
 
@@ -37,15 +38,11 @@ Get this wallpaper (Android Video / iOS Live Photo):
 
 [https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
 
-iPhone users search '20251201' in xLiveWallpaper App
+iPhone users search '**20251201**' in xLiveWallpaper App
 
 [Download：{{site.app_link}}]({{site.app_link}})
 
 #LiveWallpaper #LockLive #xLiveWallpaper #AnimeWallpaper #DemonicCultivator #Xianxia #SoulFire #GhostFlame #DarkFantasy
-
-<video src="../../../../images/2025/12/1/devshots-1764389224435.MOV" controls="controls" class="video_preview" >
-<source src="../../../../images/2025/12/1/devshots-1764389224435.MOV" type="video/mov">
-</video>
 
 # No.20251201 玄骨上人 動画壁紙
 
@@ -56,7 +53,7 @@ iPhone users search '20251201' in xLiveWallpaper App
 
 [https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
 
-iPhoneユーザーはxLiveWallpaperアプリで「20251201」を検索
+iPhoneユーザーはxLiveWallpaperアプリで「**20251201**」を検索
 
 [ダウンロード：{{site.app_link}}]({{site.app_link}})
 
