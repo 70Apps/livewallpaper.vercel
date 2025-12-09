@@ -256,11 +256,10 @@
   width: 24px;
   height: 24px;
   margin: 4px 4px 4px 0;
-  -lin-background-color: $brand-color-dark;
-  background-color: #ddd;
+  background-color: $brand-color-dark;
 
   &::after {
-    content: "APP";
+    content: "📱";
     font-size: 12px;
     line-height: 32px;
     color: $brand-color-light;
@@ -278,61 +277,36 @@
   }
 }
 
-.post-category-web {
+.post-category-game {
   &::after {
-    content: "Web";
+    content: "🎮";
   }
 }
 
-.post-category-iOS {
+.post-category-holiday {
   &::after {
-    content: "iOS";
+    content: "🎉";
   }
 }
 
-.post-category-software {
+.post-category-scenes{
   &::after {
-    content: "Soft";
+    content: "🌄";
   }
 }
 
-.post-category-app {
+.post-category-pets {
   &::after {
-    content: "App";
+    content: "🐾";
   }
 }
 
-.post-category-google {
+.post-category-city {
   &::after {
-    content: "G";
-    font-size: 18px;
-    font-weight: bolder;
+    content: "🏙";
   }
 }
 
-.post-category-ux {
-  &::after {
-    content: "UX";
-    font-size: 18px;
-    font-weight: bolder;
-  }
-}
-
-.post-category-3c {
-  &::after {
-    content: "3C";
-    font-size: 18px;
-    font-weight: bolder;
-  }
-}
-
-.post-category-ai {
-  &::after {
-    content: "AI";
-    font-size: 18px;
-    font-weight: bolder;
-  }
-}
 
 .blog-list,
 .post-list {
