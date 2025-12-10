@@ -2,9 +2,8 @@
 layout: post-wallpaper
 category : movie
 title: Demonic Bone Sovereign Animation Wallpaper
-description: newest live wallpaper for zootopia 2 movie
-keyword: zootopia, disney
-tagline: movie
+description: 凡人修仙傳最具人氣魔仙玄骨上人動態壁紙
+keyword: 凡人修仙传, 玄骨上人, 凡人, 韩立, 凡人修仙傳
 tags : [Chinese]
 postid: 20251201
 headimage : ../../../../images/2025/12/1/devshots-1764389224435.jpg
@@ -22,7 +21,7 @@ previewvideo : ../../../../images/2025/12/1/devshots-1764389224435.MOV
 
 [https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
 
-iPhone用戶在xLiveWallpaper App中搜尋「**20251201**」
+iPhone用戶在xLiveWallpaper App中搜尋「`{{page.postid}}`」
 
 [AppStore下載：{{site.app_link}}]({{site.app_link}})
 
@@ -38,7 +37,7 @@ Get this wallpaper (Android Video / iOS Live Photo):
 
 [https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
 
-iPhone users search '**20251201**' in xLiveWallpaper App
+iPhone users search '`{{page.postid}}`' in xLiveWallpaper App
 
 [Download：{{site.app_link}}]({{site.app_link}})
 
@@ -53,7 +52,7 @@ iPhone users search '**20251201**' in xLiveWallpaper App
 
 [https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
 
-iPhoneユーザーはxLiveWallpaperアプリで「**20251201**」を検索
+iPhoneユーザーはxLiveWallpaperアプリで「`{{page.postid}}`」を検索
 
 [ダウンロード：{{site.app_link}}]({{site.app_link}})
 
@@ -69,7 +68,7 @@ iPhoneユーザーはxLiveWallpaperアプリで「**20251201**」を検索
 
 [https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
 
-iPhone用户在xLiveWallpaper App中搜索「20251201」
+iPhone用户在xLiveWallpaper App中搜索「`{{page.postid}}`」
 
 [AppStore下载：{{site.app_link}}]({{site.app_link}})
 
