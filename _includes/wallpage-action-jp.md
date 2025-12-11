@@ -1,4 +1,4 @@
-購入はこちら（Android動画/iOS Live Photo形式）：
+HD版の購入はこちら（Android動画/iOS Live Photo形式対応）：  
 
 [https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
 

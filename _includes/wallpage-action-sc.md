@@ -1,7 +1,7 @@
-購買支持我們（安卓影片/蘋果實況格式）：
+购买支持我们（安卓视频/苹果实况格式）：
 
 [https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
 
-iPhone用戶在xLiveWallpaper App中搜尋「`{{page.postid}}`」
+iPhone用户在xLiveWallpaper App中搜索「`{{page.postid}}`」
 
-[AppStore下載：{{site.app_link}}]({{site.app_link}})
+[AppStore下载：{{site.app_link}}]({{site.app_link}})
