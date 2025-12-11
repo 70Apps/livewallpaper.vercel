@@ -5,10 +5,6 @@ title: SpongeBob Traffic Light Dance Party Live Wallpaper
 description: 海綿寶寶交通燈熱舞派對動態壁紙
 keyword: SpongeBob
 tags : [SpongeBob]
-postid: 20251207
-headimage : ../../../../images/2025/12/7/devshots-1764391891586.jpg
-previewimage : ../../../../images/2025/12/7/devshots-1764391901981.jpg
-previewvideo : ../../../../images/2025/12/7/devshots-1764391901981.MOV
 ---
 
 # No.20251207 海綿寶寶交通燈熱舞派對動態壁紙

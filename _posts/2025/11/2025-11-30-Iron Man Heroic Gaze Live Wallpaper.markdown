@@ -5,10 +5,6 @@ title: Iron Man Heroic Gaze Live Wallpaper
 description: 鋼鐵人英雄凝視動態壁紙
 keyword: Marvel, Comics, Superheroes
 tags : [Marvel]
-postid: 20251130
-headimage : ../../../../images/2025/11/01h.jpg
-previewimage : ../../../../images/2025/12/01p.jpg
-previewvideo : ../../../../images/2025/12/01p.MOV
 ---
 
 # No.20251130⚙️鋼鐵人英雄凝視動態壁紙

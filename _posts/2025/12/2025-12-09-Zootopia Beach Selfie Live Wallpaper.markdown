@@ -1,15 +1,11 @@
 ---
 layout: post-wallpaper
 category : movie
-title: ZZootopia Beach Selfie Live Wallpaper
+title: Zootopia Beach Selfie Live Wallpaper
 description: 瘋狂動物城海灘自拍動態壁紙
 keyword: zootopia, disney
 tagline: movie
 tags : [zootopia]
-postid: 20251209
-headimage : ../../../../images/2025/12/9/devshots-1764394899377.jpg
-previewimage : ../../../../images/2025/12/9/devshots-1764394881309.jpg
-previewvideo : ../../../../images/2025/12/9/devshots-1764394881309.MOV
 ---
 
 # No.20251209 瘋狂動物城海灘自拍動態壁紙

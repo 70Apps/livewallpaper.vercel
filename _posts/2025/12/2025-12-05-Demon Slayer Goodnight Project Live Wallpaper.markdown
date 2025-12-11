@@ -5,10 +5,6 @@ title: Demon Slayer Goodnight Project Live Wallpaper
 description: 鬼滅之刃晚安計劃動態壁紙
 keyword: Demon Slayer, 炭治郎, 鬼滅之刃, 鬼灭之刃, 鬼滅の刃
 tags : [Demon Slayer, Japanese]
-postid: 20251205
-headimage : ../../../../images/2025/12/5/devshots-1764391188580.jpg
-previewimage : ../../../../images/2025/12/5/devshots-1764391196585.jpg
-previewvideo : ../../../../images/2025/12/5/devshots-1764391196585.MOV
 ---
 
 # No.20251205 鬼滅之刃晚安計劃動態壁紙

@@ -1,16 +1,11 @@
 ---
 layout: post
-category : app
-title:  如何設定動態桌布：安卓影片檔與iPhone實況格式完整操作指南
+category : Tutorial
+title:  如何設定動態桌布：安卓影片檔與iPhone實況格式操作指南
 description: 無論是安卓的影片桌布還是iPhone的原況照片效果，本指南將詳細教學如何下載並設定本網站提供的專用動態桌布檔案。
 keyword: lock screen, live photo, screensavers, live wallpaper
 tags : [App]
-postid: 20250422
-headimage : ../../../../images/app/locklive.jpg
-ogimage : https://70apps.com/blog/images/app/locklive_og.jpg
-previewimage : ../../../../images/app/locklive_og.jpg
-appicon : https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/63/84/0b638403-ae84-dfa7-7a90-ddd43430a8c9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.png
-appstorelink : https://apps.apple.com/app/id6742252309?ct=70apps
+ogimage : /images/2025/04/20250423_og.jpg
 ---
 
 

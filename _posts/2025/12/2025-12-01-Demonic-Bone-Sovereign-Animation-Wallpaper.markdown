@@ -3,12 +3,8 @@ layout: post-wallpaper
 category : movie
 title: Demonic Bone Sovereign Animation Wallpaper
 description: 凡人修仙傳最具人氣魔仙玄骨上人動態壁紙
-keyword: 凡人修仙传, 玄骨上人, 凡人, 韩立, 凡人修仙傳
-tags : [Chinese]
-postid: 20251201
-headimage : ../../../../images/2025/12/1/devshots-1764389224435.jpg
-previewimage : ../../../../images/2025/12/1/devshots-1764389235556.jpg
-previewvideo : ../../../../images/2025/12/1/devshots-1764389224435.MOV
+keyword: Cartoon, 凡人修仙传, 玄骨上人, 凡人, 韩立, 凡人修仙傳
+tags : [Cartoon, Chinese]
 ---
 
 # No.20251201 凡人修仙傳最具人氣魔仙玄骨上人動態壁紙

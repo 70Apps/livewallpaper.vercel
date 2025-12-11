@@ -6,10 +6,6 @@ description: 瘋狂動物城伊甸園情景劇動態壁紙
 keyword: zootopia, disney
 tagline: movie
 tags : [zootopia]
-postid: 20251208
-headimage : ../../../../images/2025/12/8/devshots-1764394120093.jpg
-previewimage : ../../../../images/2025/12/8/devshots-1764488162519.jpg
-previewvideo : ../../../../images/2025/12/8/devshots-1764488162519.MOV
 ---
 
 # No.20251208 瘋狂動物城伊甸園情景劇動態壁紙

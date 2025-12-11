@@ -23,29 +23,30 @@ layout: default
         </ul>
         {% endif %}
       </p>
+        <!-- mobile image -->
         <!--img src="{{ page.headimage }}" alt="{{ page.description }}" title="{{ page.description }}"-->
   </header>
 
   <div class="post-content" itemprop="articleBody">
 
-    <div class="page-content-preview-image"><img src="{{page.previewimage}}"></div>
+    <div class="page-content-preview-image"><img src="{{ page.date | date: "/images/%Y/%m/%Y%m%d.jpg" }}"></div>
     <div class="page-content-buttons">
-      <a href="https://locklive.gumroad.com/l/{{page.postid}}">購買支持我們</a>
+      <a href="https://locklive.gumroad.com/l/{{ page.date | date: "%Y%m%d" }}">購買支持我們</a>
       <a href="{{site.app_link}}">下載 App</a>
       </div>
 
     {{ content }}
 
 <div class="page-content-preview-video">
-    <video src="{{page.previewvideo}}" controls="controls" class="video_preview" >
+    <video src="{{ page.date | date: "/images/%Y/%m/%Y%m%d.mov" }}" controls="controls" class="video_preview" >
     </video>
 </div>
 
 {% include wallpage-help.html %}
 
-    <div class="page-content-preview-image"><img src="{{page.previewimage}}"></div>
+    <div class="page-content-preview-image"><img src="{{ page.date | date: "/images/%Y/%m/%Y%m%d.jpg" }}"></div>
     <div class="page-content-buttons">
-      <a href="https://locklive.gumroad.com/l/{{page.postid}}">Get this wallpaper</a>
+      <a href="https://locklive.gumroad.com/l/{{ page.date | date: "%Y%m%d" }}">Get this wallpaper</a>
       <a href="{{site.app_link}}">Download App</a>
       </div>
 
@@ -66,7 +67,7 @@ layout: default
 </article>
 <style>
   .page-content:before {
-    background-image: url('{{ page.headimage }}');
+    background-image: url('{{ page.date | date: "/images/%Y/%m/%Y%m%d.jpg" }}');
     display: block;
   }
 

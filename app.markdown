@@ -2,8 +2,7 @@
 layout: page
 linkName: Apps
 title: Apps
-permalink: /app/
-headimage: https://ugc.hitv.com/32/230724013151149f7e1afc60a2a26670c1d25c3ed22f/ESCpEa0.jpeg
+permalink: /apps/
 ---
 
 <div class="home">
@@ -32,7 +31,7 @@ headimage: https://ugc.hitv.com/32/230724013151149f7e1afc60a2a26670c1d25c3ed22f/
 </div>
 <style>
   .page-content:before {
-    background-image: url('{{ page.headimage }}');
+    background-image: url('/images/{{ page.title }}.jpg');
     display: block;
   }
 

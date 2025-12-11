@@ -6,10 +6,6 @@ description: 瘋狂動物城紅毯尼克動態壁紙
 keyword: zootopia, disney
 tagline: movie
 tags : [zootopia]
-postid: 20251211
-headimage : ../../../../images/2025/12/11/devshots-1764489032482.jpg
-previewimage : ../../../../images/2025/12/11/devshots-1764488995553.jpg
-previewvideo : ../../../../images/2025/12/11/devshots-1764488995553.MOV
 ---
 
 # No.20251210 瘋狂動物城紅毯朱迪動態壁紙

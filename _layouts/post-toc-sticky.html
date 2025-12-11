@@ -7,7 +7,6 @@ layout: default
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta"><span class="post-category post-category-{{ page.category }}"></span><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%Y年%m月%d日" }}</time>{% if page.author %} • <span
         itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-    <img src="{{ page.headimage }}" alt="{{ page.description }}" title="{{ page.description }}">
   </header>
 
   <div class="toc toc-sticky">
@@ -25,7 +24,7 @@ layout: default
 </article>
 <style>
   .page-content:before {
-    background-image: url('{{ page.headimage }}');
+    background-image: url('{{ page.date | date: "/images/%Y/%m/%Y%m%d.jpg" }}');
     display: block;
   }
 

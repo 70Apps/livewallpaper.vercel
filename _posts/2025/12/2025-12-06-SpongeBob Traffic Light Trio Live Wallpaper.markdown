@@ -5,10 +5,6 @@ title: SpongeBob Traffic Light Trio Live Wallpaper
 description: 海綿寶寶交通燈三人組動態壁紙
 keyword: SpongeBob
 tags : [SpongeBob]
-postid: 20251206
-headimage : ../../../../images/2025/12/6/devshots-1764391640661.jpg
-previewimage : ../../../../images/2025/12/6/devshots-1764391628359.jpg
-previewvideo : ../../../../images/2025/12/6/devshots-1764391628359.MOV
 ---
 
 # No.20251206 海綿寶寶交通燈三人組動態壁紙
