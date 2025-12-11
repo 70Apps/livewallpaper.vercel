@@ -18,15 +18,7 @@ previewvideo : ../../../../images/2025/12/9/devshots-1764394881309.MOV
 
 🖼️海浪輕輕拍打沙灘｜INS相框閃爍可愛貼紙｜尼克尾巴悠閒搖擺｜朱迪耳朵隨風舞動｜拍照瞬間閃光燈閃爍
 
-購買支持我們（安卓影片/蘋果實況格式）：
-
-
-
-[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
-
-iPhone用戶在xLiveWallpaper App中搜尋「`{{page.postid}}`」
-
-[AppStore下載：{{site.app_link}}]({{site.app_link}})
+{% include wallpage-action-tc.md %}
 
 #動態壁紙 #LockLive #實況全能王 #LiveWallpaper #xLiveWallpaper #瘋狂動物城 #海灘自拍 #尼克朱迪 #INS風 #度假時光
 
@@ -36,13 +28,7 @@ iPhone用戶在xLiveWallpaper App中搜尋「`{{page.postid}}`」
 
 🖼️Waves gently lap the shore｜Instagram frame sparkles with cute stickers｜Nick's tail sways leisurely｜Judy's ears dance in the breeze｜Camera flash flickers at shooting moment
 
-Get this wallpaper (Android Video / iOS Live Photo):
-
-[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
-
-iPhone users search '`{{page.postid}}`' in xLiveWallpaper App
-
-[Download：{{site.app_link}}]({{site.app_link}})
+{% include wallpage-action-en.md %}
 
 #LiveWallpaper #LockLive #xLiveWallpaper #Zootopia #BeachSelfie #NickJudy #InstagramStyle #VacationTime
 
@@ -52,13 +38,7 @@ iPhone users search '`{{page.postid}}`' in xLiveWallpaper App
 
 🖼️波が砂浜を優しく打つ｜インスタフレームが可愛いステッカーで輝く｜ニックの尾がのんびり揺れる｜ジュディの耳が風に踊る｜撮影瞬間にフラッシュが光る
 
-購入はこちら（Android動画/iOS Live Photo形式）：
-
-[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
-
-iPhoneユーザーはxLiveWallpaperアプリで「`{{page.postid}}`」を検索
-
-[ダウンロード：：{{site.app_link}}]({{site.app_link}})
+{% include wallpage-action-jp.md %}
 
 #動画壁紙 #LockLive #xLiveWallpaper #ライブ壁紙 #ズートピア #海辺セルフィー #ニックジュディ #インスタ風 #バカンス
 
@@ -69,13 +49,6 @@ iPhoneユーザーはxLiveWallpaperアプリで「`{{page.postid}}`」を検索
 
 🖼️海浪轻轻拍打沙滩｜INS相框闪烁可爱贴纸｜尼克尾巴悠闲摇摆｜朱迪耳朵随风舞动｜拍照瞬间闪光灯闪烁
 
-购买支持我们（安卓视频/苹果实况格式）：
-
-
-[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
-
-iPhone用户在xLiveWallpaper App中搜索「`{{page.postid}}`」
-
-[AppStore下载：{{site.app_link}}]({{site.app_link}})
+{% include wallpage-action-sc.md %}
 
 #动态壁纸 #LockLive #实况全能王 #LiveWallpaper #xLiveWallpaper #疯狂动物城 #海滩自拍 #尼克朱迪 #INS风 #度假时光

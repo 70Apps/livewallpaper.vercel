@@ -17,13 +17,7 @@ previewvideo : ../../../../images/2025/12/4/devshots-1764390374671.MOV
 
 🖼️柿葉隨風緩緩飄落｜禰豆子在夢中微微呼吸｜炭治郎髮帶輕輕飄動｜浮世繪雲層緩慢流轉｜柿子枝條微微搖曳
 
-購買支持我們（安卓影片/蘋果實況格式）：
-
-[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
-
-iPhone用戶在xLiveWallpaper App中搜尋「`{{page.postid}}`」
-
-[AppStore下載：{{site.app_link}}]({{site.app_link}})
+{% include wallpage-action-tc.md %}
 
 #動態壁紙 #LockLive #實況全能王 #LiveWallpaper #xLiveWallpaper #鬼滅之刃 #浮世繪 #童年回憶 #炭治郎 #禰豆子
 
@@ -33,13 +27,7 @@ iPhone用戶在xLiveWallpaper App中搜尋「`{{page.postid}}`」
 
 🖼️Persimmon leaves drift slowly in the wind｜Nezuko breathes softly in her sleep｜Tanjiro's hair ribbon flutters gently｜Ukiyo-e clouds flow gradually｜Persimmon branches sway lightly
 
-Get this wallpaper (Android Video / iOS Live Photo):
-
-[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
-
-iPhone users search '`{{page.postid}}`' in xLiveWallpaper App
-
-[Download：{{site.app_link}}]({{site.app_link}})
+{% include wallpage-action-en.md %}
 
 #LiveWallpaper #LockLive #xLiveWallpaper #DemonSlayer #Ukiyoe #ChildhoodMemory #Tanjiro #Nezuko
 
@@ -49,13 +37,7 @@ iPhone users search '`{{page.postid}}`' in xLiveWallpaper App
 
 🖼️柿の葉が風にゆっくり舞い落ちる｜禰豆子が眠りの中で息づく｜炭治郎の髪飾りが優しく揺れる｜浮世絵の雲がゆったり流れる｜柿の枝がかすかに揺れる
 
-購入はこちら（Android動画/iOS Live Photo形式）：
-
-[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
-
-iPhoneユーザーはxLiveWallpaperアプリで「`{{page.postid}}`」を検索
-
-[ダウンロード：：{{site.app_link}}]({{site.app_link}})
+{% include wallpage-action-jp.md %}
 
 #動画壁紙 #LockLive #xLiveWallpaper #ライブ壁紙 #鬼滅の刃 #浮世絵 #幼き日々 #炭治郎 #禰豆子
 
@@ -65,12 +47,6 @@ iPhoneユーザーはxLiveWallpaperアプリで「`{{page.postid}}`」を検索
 
 🖼️柿叶随风缓缓飘落｜祢豆子在梦中微微呼吸｜炭治郎发带轻轻飘动｜浮世绘云层缓慢流转｜柿子枝条微微摇曳
 
-购买支持我们（安卓视频/苹果实况格式）：
-
-[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
-
-iPhone用户在xLiveWallpaper App中搜索「`{{page.postid}}`」
-
-[AppStore下载：{{site.app_link}}]({{site.app_link}})
+{% include wallpage-action-sc.md %}
 
 #动态壁纸 #LockLive #实况全能王 #LiveWallpaper #xLiveWallpaper #鬼灭之刃 #浮世绘 #童年回忆 #炭治郎 #祢豆子

@@ -18,13 +18,7 @@ previewvideo : ../../../../images/2025/12/10/devshots-1764488181110.MOV
 
 🖼️墨鏡緩緩滑下鼻梁｜尼克眼眸閃爍著俏皮光芒｜禮服領結隨風輕微飄動｜紅毯周圍閃光燈此起彼伏｜彩色紙屑從空中緩緩飄落
 
-購買支持我們（安卓影片/蘋果實況格式）：
-
-[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
-
-iPhone用戶在xLiveWallpaper App中搜尋「`{{page.postid}}`」
-
-[AppStore下載：{{site.app_link}}]({{site.app_link}})
+{% include wallpage-action-tc.md %}
 
 #動態壁紙 #LockLive #實況全能王 #LiveWallpaper #xLiveWallpaper #瘋狂動物城 #紅毯時刻 #尼克狐星 #帥氣亮相 #墨鏡殺
 
@@ -34,13 +28,7 @@ iPhone用戶在xLiveWallpaper App中搜尋「`{{page.postid}}`」
 
 🖼️Sunglasses slide slowly down his nose｜Nick's eyes sparkle with playful charm｜Bow tie sways gently in the breeze｜Camera flashes pop around the red carpet｜Colorful confetti drifts slowly from above
 
-Get this wallpaper (Android Video / iOS Live Photo):
-
-[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
-
-iPhone users search '`{{page.postid}}`' in xLiveWallpaper App
-
-[Download：{{site.app_link}}]({{site.app_link}})
+{% include wallpage-action-en.md %}
 
 #LiveWallpaper #LockLive #xLiveWallpaper #Zootopia #RedCarpet #NickWilde #SunglassesMove #StarAppearance
 
@@ -50,13 +38,7 @@ iPhone users search '`{{page.postid}}`' in xLiveWallpaper App
 
 🖼️サングラスがゆっくり鼻を滑り落ちる｜ニックの瞳に戯れのある光がきらめく｜タキシードの蝶ネクタイが風に揺れる｜レッドカーペット周辺で閃光が絶え間なく｜色とりどりの紙吹雪が空中から舞い落ちる
 
-購入はこちら（Android動画/iOS Live Photo形式）：
-
-[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
-
-iPhoneユーザーはxLiveWallpaperアプリで「`{{page.postid}}`」を検索
-
-[ダウンロード：：{{site.app_link}}]({{site.app_link}})
+{% include wallpage-action-jp.md %}
 
 #動画壁紙 #LockLive #xLiveWallpaper #ライブ壁紙 #ズートピア #レッドカーペット #ニック狐 #サングラス決め #スター登場
 
@@ -66,12 +48,6 @@ iPhoneユーザーはxLiveWallpaperアプリで「`{{page.postid}}`」を検索
 
 🖼️墨镜缓缓滑下鼻梁｜尼克眼眸闪烁着俏皮光芒｜礼服领结随风轻微飘动｜红毯周围闪光灯此起彼伏｜彩色纸屑从空中缓缓飘落
 
-购买支持我们（安卓视频/苹果实况格式）：
-
-[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
-
-iPhone用户在xLiveWallpaper App中搜索「`{{page.postid}}`」
-
-[AppStore下载：{{site.app_link}}]({{site.app_link}})
+{% include wallpage-action-sc.md %}
 
 #动态壁纸 #LockLive #实况全能王 #LiveWallpaper #xLiveWallpaper #疯狂动物城 #红毯时刻 #尼克狐星 #帅气亮相 #墨镜杀

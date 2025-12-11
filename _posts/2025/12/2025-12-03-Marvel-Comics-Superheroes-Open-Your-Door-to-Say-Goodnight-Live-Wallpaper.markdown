@@ -2,7 +2,7 @@
 layout: post-wallpaper
 category : movie
 title: Super Cute Chibi Marvel Superheroes Say Goodnight Live Wallpaper
-description: 漫威英雄晚安計劃動態壁紙
+description: Q版漫威英雄晚安計劃動態壁紙
 keyword: Marvel, Comics, Superheroes
 tagline: movie
 tags : [Marvel, Superheroes]
@@ -18,13 +18,7 @@ previewvideo : ../../../../images/2025/12/3/devshots-1764390012479.MOV
 
 🖼️房門輕啟透出溫暖光暈｜英雄們輪流眨眼微笑｜鋼鐵人反應爐柔和脈動｜蜘蛛人制服紋理微微反光｜雷神之錘偶爾迸發星火
 
-購買支持我們（安卓影片/蘋果實況格式）：
-
-[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
-
-iPhone用戶在xLiveWallpaper App中搜尋「`{{page.postid}}`」
-
-[AppStore下載：{{site.app_link}}]({{site.app_link}})
+{% include wallpage-action-tc.md %}
 
 #動態壁紙 #LockLive #實況全能王 #LiveWallpaper #xLiveWallpaper #漫威英雄 #Q版漫畫 #晚安壁紙 #超級英雄 #治癒系
 
@@ -34,13 +28,7 @@ iPhone用戶在xLiveWallpaper App中搜尋「`{{page.postid}}`」
 
 🖼️Door opens with warm glow｜Heroes take turns blinking and smiling｜Iron Man's reactor pulses gently｜Spider-Man suit texture glimmers｜Thor's hammer occasionally sparks
 
-Get this wallpaper (Android Video / iOS Live Photo):
-
-[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
-
-iPhone users search '`{{page.postid}}`' in xLiveWallpaper App
-
-[Download：{{site.app_link}}]({{site.app_link}})
+{% include wallpage-action-en.md %}
 
 #LiveWallpaper #LockLive #xLiveWallpaper #MarvelHeroes #ChibiStyle #GoodnightWallpaper #Superheroes #CuteWallpaper
 
@@ -50,13 +38,7 @@ iPhone users search '`{{page.postid}}`' in xLiveWallpaper App
 
 🖼️ドアが温かな光を放ち開く｜ヒーローが順番に瞬きと微笑み｜アイアンマンのアークリアクターが優しく脈動｜スパイダーマンスーツの質感がきらめく｜ソーのハンマーが時々火花を散らす
 
-購入はこちら（Android動画/iOS Live Photo形式）：
-
-[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
-
-iPhoneユーザーはxLiveWallpaperアプリで「`{{page.postid}}`」を検索
-
-[ダウンロード：：{{site.app_link}}]({{site.app_link}})
+{% include wallpage-action-jp.md %}
 
 #動画壁紙 #LockLive #xLiveWallpaper #ライブ壁紙 #マーベルヒーロー #ちびキャラ #おやすみ壁紙 #スーパーヒーロー #癒し
 
@@ -68,10 +50,6 @@ iPhoneユーザーはxLiveWallpaperアプリで「`{{page.postid}}`」を検索
 
 购买支持我们（安卓视频/苹果实况格式）：
 
-[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
-
-iPhone用户在xLiveWallpaper App中搜索「`{{page.postid}}`」
-
-[AppStore下载：{{site.app_link}}]({{site.app_link}})
+{% include wallpage-action-sc.md %}
 
 #动态壁纸 #LockLive #实况全能王 #LiveWallpaper #xLiveWallpaper #漫威英雄 #Q版漫画 #晚安壁纸 #超级英雄 #治愈系

@@ -2,7 +2,7 @@
 layout: post-wallpaper
 category : movie
 title: Super Cute Chibi DC Comics Superheroes Say Goodnight Live Wallpaper
-description: 超可愛的Q版DC漫畫超級英雄神奇女俠、閃電俠、蝙蝠俠、超人跟你說晚安了動態壁紙
+description: Q版DC漫畫超級英雄神奇女俠、閃電俠、蝙蝠俠、超人說晚安動態壁紙
 keyword: dc, Comics, Superheroes
 tagline: movie
 tags : [DC, Superheroes]
@@ -18,13 +18,7 @@ previewvideo : ../../../../images/2025/12/2/devshots-1764389637391.MOV
 
 🖼️門軸緩緩轉動發出微光｜英雄們眨眼擺頭可愛互動｜魔法套索流光閃爍｜閃電俠周身電流脈動｜超人披風隨風輕飄
 
-購買支持我們（安卓影片/蘋果實況格式）：
-
-[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
-
-iPhone用戶在xLiveWallpaper App中搜尋「`{{page.postid}}`」
-
-[AppStore下載：{{site.app_link}}]({{site.app_link}})
+{% include wallpage-action-tc.md %}
 
 #動態壁紙 #LockLive #實況全能王 #LiveWallpaper #xLiveWallpaper #DC英雄 #Q版漫畫 #晚安壁紙 #超級英雄 #治癒系
 
@@ -35,13 +29,7 @@ iPhone用戶在xLiveWallpaper App中搜尋「`{{page.postid}}`」
 
 🖼️Door glows while slowly opening｜Heroes blink and nod cutely｜Magic lasso shimmers｜Flash's body pulses with lightning｜Superman's cape sways gently
 
-Get this wallpaper (Android Video / iOS Live Photo):
-
-[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
-
-iPhone users search '`{{page.postid}}`' in xLiveWallpaper App
-
-[Download：{{site.app_link}}]({{site.app_link}})
+{% include wallpage-action-en.md %}
 
 #LiveWallpaper #LockLive #xLiveWallpaper #DCHeroes #ChibiStyle #GoodnightWallpaper #Superheroes #CuteWallpaper
 
@@ -51,13 +39,7 @@ iPhone users search '`{{page.postid}}`' in xLiveWallpaper App
 
 🖼️ドアがゆっくり光りながら開く｜ヒーローたちが瞬きして可愛く互動｜魔法のラッソが輝く｜フラッシュ全身に電流が走る｜スーパーマンのマントが風に揺れる
 
-購入はこちら（Android動画/iOS Live Photo形式）：
-
-[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
-
-iPhoneユーザーはxLiveWallpaperアプリで「`{{page.postid}}`」を検索
-
-[ダウンロード：：{{site.app_link}}]({{site.app_link}})
+{% include wallpage-action-jp.md %}
 
 #動画壁紙 #LockLive #xLiveWallpaper #ライブ壁紙 #DCヒーローズ #ちびキャラ #おやすみ壁紙 #スーパーヒーロー #癒し
 
@@ -67,12 +49,6 @@ iPhoneユーザーはxLiveWallpaperアプリで「`{{page.postid}}`」を検索
 
 🖼️门轴缓缓转动发出微光｜英雄们眨眼摆头可爱互动｜魔法套索流光闪烁｜闪电侠周身电流脉动｜超人披风随风轻飘
 
-购买支持我们（安卓视频/苹果实况格式）：
-
-[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
-
-iPhone用户在xLiveWallpaper App中搜索「`{{page.postid}}`」
-
-[AppStore下载：{{site.app_link}}]({{site.app_link}})
+{% include wallpage-action-sc.md %}
 
 #动态壁纸 #LockLive #实况全能王 #LiveWallpaper #xLiveWallpaper #DC英雄 #Q版漫画 #晚安壁纸 #超级英雄 #治愈系

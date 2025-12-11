@@ -17,13 +17,7 @@ previewvideo : ../../../../images/2025/12/7/devshots-1764391901981.MOV
 
 🖼️信號燈隨音樂節奏閃爍｜海綿寶寶四肢靈活擺動｜派大星肚皮波浪式起伏｜蟹老闆鉗子打著硬幣節拍｜背景車輛燈光流光溢彩
 
-購買支持我們（安卓影片/蘋果實況格式）：
-
-[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
-
-iPhone用戶在xLiveWallpaper App中搜尋「`{{page.postid}}`」
-
-[AppStore下載：{{site.app_link}}]({{site.app_link}})
+{% include wallpage-action-tc.md %}
 
 #動態壁紙 #LockLive #實況全能王 #LiveWallpaper #xLiveWallpaper #海綿寶寶 #派大星 #蟹老闆 #交通燈舞蹈 #卡通熱舞
 
@@ -33,13 +27,7 @@ iPhone用戶在xLiveWallpaper App中搜尋「`{{page.postid}}`」
 
 🖼️Traffic lights flash to musical beats｜SpongeBob's limbs swing flexibly｜Patrick's belly undulates in waves｜Mr. Krabs' claws keep coin rhythm｜Background vehicle lights create colorful streams
 
-Get this wallpaper (Android Video / iOS Live Photo):
-
-[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
-
-iPhone users search '`{{page.postid}}`' in xLiveWallpaper App
-
-[Download：{{site.app_link}}]({{site.app_link}})
+{% include wallpage-action-en.md %}
 
 #LiveWallpaper #LockLive #xLiveWallpaper #SpongeBob #PatrickStar #MrKrabs #TrafficLightDance #CartoonDance
 
@@ -49,13 +37,7 @@ iPhone users search '`{{page.postid}}`' in xLiveWallpaper App
 
 🖼️信号機が音楽のリズムで点滅｜スポンジ・ボブの手足が生き生きと動く｜パトリックのお腹が波のように動く｜カーニさんのハサミがコインのリズムを刻む｜背景の車のライトが色とりどりに流れる
 
-購入はこちら（Android動画/iOS Live Photo形式）：
-
-[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
-
-iPhoneユーザーはxLiveWallpaperアプリで「`{{page.postid}}`」を検索
-
-[ダウンロード：：{{site.app_link}}]({{site.app_link}})
+{% include wallpage-action-jp.md %}
 
 #動画壁紙 #LockLive #xLiveWallpaper #ライブ壁紙 #スポンジボブ #パトリック #カーニさん #信号機ダンス #卡通ダンス
 
@@ -66,12 +48,6 @@ iPhoneユーザーはxLiveWallpaperアプリで「`{{page.postid}}`」を検索
 
 🖼️信号灯随音乐节奏闪烁｜海绵宝宝四肢灵活摆动｜派大星肚皮波浪式起伏｜蟹老板钳子打着硬币节拍｜背景车辆灯光流光溢彩
 
-购买支持我们（安卓视频/苹果实况格式）：
-
-[https://locklive.gumroad.com/l/{{page.postid}}](https://locklive.gumroad.com/l/{{page.postid}})
-
-iPhone用户在xLiveWallpaper App中搜索「`{{page.postid}}`」
-
-[AppStore下载：{{site.app_link}}]({{site.app_link}})
+{% include wallpage-action-sc.md %}
 
 #动态壁纸 #LockLive #实况全能王 #LiveWallpaper #xLiveWallpaper #海绵宝宝 #派大星 #蟹老板 #交通灯舞蹈 #卡通热舞
