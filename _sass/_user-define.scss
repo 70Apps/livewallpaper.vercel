@@ -1,5 +1,21 @@
 // user images resize specializes
 
+.home-title-1,
+.home-title-2,
+.home-title-3 {
+  margin: 0 auto;
+  text-align: center;
+}
+@include media-query($on-palm) {
+.home-title-1,
+.home-title-2,
+.home-title-3 {
+  display: none;
+}
+}
+
+
+
 img[alt="appicon"] {
   width: 128px;
   margin: 4px;
@@ -159,7 +175,7 @@ h2#应用截图+p {
 }
 
 ul.post-tags-list,
-ul.site-tags-list { 
+ul.site-tags-list {
   list-style-type: none;
 }
 ul.post-tags-list li ,
@@ -206,6 +222,7 @@ ul.site-tags-list li a {
     border: 5px solid white;
   }
 }
+
 
 .page-content-buttons {
   margin: 0 auto;

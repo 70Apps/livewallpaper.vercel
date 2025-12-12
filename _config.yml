@@ -18,13 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: xLiveWallpaper
+sitename: xLiveWallpaper
+title: xLiveWallpaper iPhone & iPad Live Wallpapers - Free 4K Animated Wallpapers for Mobile
 email: lockliveapp@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  No. 1 iPhone live wallpaper app in AppStore Awards 2026.
-  Create your own live wallpapers with ease.
-  Enjoy stunning live wallpapers on your iPhone.
-  Get xLiveWallpaper now and bring your iPhone to live!
+  Browse and download over 100+ live wallpapers in 4K resolution for your mobile devices. Choose from various categories such as movie, anime, gaming, car, nature, and more.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
@@ -32,6 +30,12 @@ github_username:
 me: xLiveWallpaper
 copyright: '&copy; 2025 xLiveWallpaper. All rights reserved.'
 app_link: https://apps.apple.com/app/apple-store/id6747997192?pt=611621&ct=gpwzw&mt=8
+
+ad: >- # this means to ignore newlines until "baseurl:"
+  No. 1 iPhone live wallpaper app in AppStore Awards 2026.
+  Create your own live wallpapers with ease.
+  Enjoy stunning live wallpapers on your iPhone.
+  Get xLiveWallpaper now and bring your iPhone to live!
 
 # Build settings
 theme: minima
