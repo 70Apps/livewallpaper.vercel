@@ -247,6 +247,7 @@
     }
   }
 }
+
 // user define
 
 .post-category {
@@ -450,7 +451,27 @@
         margin-left: calc($spacing-unit / 2);
         margin-right: calc($spacing-unit / 2);
       }
+      a.post-list-link:hover {
+        
 
+          div.post-list-show-image {
+            height: 400px;
+          }
+
+          div.post-list-show-image-image {
+            height: 400px;
+          }
+          div.post-list-title {
+            position: relative;
+            z-index: 2;
+            top:-80px;
+          }
+          div.post-list-description,
+          div.post-list-info {
+            display: none
+          }
+
+      } 
       div.post-list-info {
         position: absolute;
         width: 80%;
