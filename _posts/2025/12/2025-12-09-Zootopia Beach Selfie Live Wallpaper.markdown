@@ -2,13 +2,13 @@
 layout: post-wallpaper
 category : movie
 title: Zootopia Beach Selfie Live Wallpaper
-description: 瘋狂動物城海灘自拍動態壁紙
+description: 動物方城市海灘自拍動態壁紙
 keyword: zootopia, disney
 tagline: movie
 tags : [zootopia]
 ---
 
-# No.20251209 瘋狂動物城海灘自拍動態壁紙
+# No.20251209 動物方城市海灘自拍動態壁紙
 
 🌌蔚藍海岸灑滿金色陽光🌊，狐狸尼克戴墨鏡俏皮舉著INS風相框🦊，兔子朱迪露燦爛笑容擺出V字手勢🐰，兩人在粉色火烈鳥游泳圈前開心自拍📸
 

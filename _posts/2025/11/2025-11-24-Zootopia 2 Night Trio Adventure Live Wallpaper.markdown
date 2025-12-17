@@ -2,7 +2,7 @@
 layout: post-wallpaper
 category : comics
 title: Zootopia 2 Night Trio Adventure Live Wallpaper
-description: 动物方城市2夜遊三俠动态壁纸
+description: 動物方城市2夜遊三俠动态壁纸
 keyword: Zootopia, Zootopia 2, Night Adventure, Trio, Animal City
 tags : [Zootopia]
 ---

@@ -2,13 +2,13 @@
 layout: post-wallpaper
 category : movie
 title: Zootopia Sweet Heart-shaped Selfie Live Wallpaper
-description: 瘋狂動物城甜蜜比心自拍動態壁紙
+description: 動物方城市甜蜜比心自拍動態壁紙
 keyword: zootopia, disney
 tagline: movie
 tags : [zootopia]
 ---
 
-# No.20251212 瘋狂動物城甜蜜比心自拍動態壁紙
+# No.20251212 動物方城市甜蜜比心自拍動態壁紙
 
 🌌陽光明媚的動物城繁華街區🏙️，狐狸尼克與兔子朱迪並肩而立🦊🐰，同時伸出手臂在空中拼出完整愛心💖，對著鏡頭露出幸福笑容📸
 
