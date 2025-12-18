@@ -256,12 +256,12 @@
   display: inline-block;
   width: 24px;
   height: 24px;
-  margin: 4px 4px 4px 0;
+  margin: 0 4px 4px 0;
   background-color: $brand-color-dark;
 
   &::after {
-    content: "📱";
-    font-size: 12px;
+    content: "❤️";
+    font-size: 20px;
     line-height: 32px;
     color: $brand-color-light;
     text-align: center;
@@ -270,44 +270,6 @@
     zoom: 0.75;
   }
 }
-
-.post-category-movie {
-  &::after {
-    content: "🎬";
-    letter-spacing: -0.15em;
-  }
-}
-
-.post-category-game {
-  &::after {
-    content: "🎮";
-  }
-}
-
-.post-category-holiday {
-  &::after {
-    content: "🎉";
-  }
-}
-
-.post-category-scenes{
-  &::after {
-    content: "🌄";
-  }
-}
-
-.post-category-pets {
-  &::after {
-    content: "🐾";
-  }
-}
-
-.post-category-city {
-  &::after {
-    content: "🏙";
-  }
-}
-
 
 .blog-list,
 .post-list {
@@ -452,7 +414,7 @@
         margin-right: calc($spacing-unit / 2);
       }
       a.post-list-link:hover {
-        
+
 
           div.post-list-show-image {
             height: 400px;
@@ -471,7 +433,7 @@
             display: none
           }
 
-      } 
+      }
       div.post-list-info {
         position: absolute;
         width: 80%;
