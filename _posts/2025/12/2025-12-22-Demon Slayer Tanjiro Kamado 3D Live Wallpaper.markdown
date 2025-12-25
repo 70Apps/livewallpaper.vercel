@@ -2,7 +2,7 @@
 layout: post-wallpaper
 category : comics
 title: Demon Slayer Tanjiro Kamado 3D Live Wallpaper
-description: 鬼灭之刃灶门炭治郎炫彩3D动态壁纸
+description: No.20251222 鬼灭之刃灶门炭治郎炫彩3D动态壁纸
 keyword: Demon Slayer, Kimetsu no Yaiba, Tanjiro Kamado, 3D, Water Breathing, Anime
 tags : [Demon Slayer]
 ---

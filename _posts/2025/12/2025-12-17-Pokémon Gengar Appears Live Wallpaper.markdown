@@ -2,7 +2,7 @@
 layout: post-wallpaper
 category : comics
 title: Pokémon Gengar Appears Live Wallpaper
-description: 精靈寶可夢耿鬼降臨動態壁紙
+description: No.20251217 精靈寶可夢耿鬼降臨動態壁紙
 keyword: Pokémon, Pokemon, Gengar
 tags : [Pokémon]
 ---

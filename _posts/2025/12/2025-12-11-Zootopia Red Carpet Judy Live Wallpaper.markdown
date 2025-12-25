@@ -2,7 +2,7 @@
 layout: post-wallpaper
 category : movie
 title: Demonic Bone Sovereign Animation Wallpaper
-description: 動物方城市紅毯尼克動態壁紙
+description: No.20251211 動物方城市紅毯尼克動態壁紙
 keyword: zootopia, disney
 tagline: movie
 tags : [zootopia]

@@ -2,7 +2,7 @@
 layout: post-wallpaper
 category : game
 title: Angry Birds Traffic Light Takeover Live Wallpaper
-description: 愤怒的小鸟红黄绿三小只强占交通灯动态壁纸
+description: No.20251224 愤怒的小鸟红黄绿三小只强占交通灯动态壁纸
 keyword: Angry Birds, Red Bird, Yellow Bird, Green Bird, Traffic Light, Game, Rovio
 tags : [Angry Birds]
 ---

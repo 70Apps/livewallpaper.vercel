@@ -2,7 +2,7 @@
 layout: post-wallpaper
 category : movie
 title: Zootopia Pink Fashion Selfie Live Wallpaper
-description: 疯狂动物城粉红时尚眼镜自拍动态壁纸
+description: No.20251220 疯狂动物城粉红时尚眼镜自拍动态壁纸
 keyword: Zootopia, Nick Wilde, Judy Hopps, Selfie, Pink, Fashion, Glasses, Romance
 tags : [Zootopia]
 ---

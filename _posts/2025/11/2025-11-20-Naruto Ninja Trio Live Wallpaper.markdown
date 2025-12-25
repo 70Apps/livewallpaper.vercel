@@ -2,7 +2,7 @@
 layout: post-wallpaper
 category : comics
 title: Naruto Ninja Trio Live Wallpaper
-description: 火影忍者火影三人组动态壁纸
+description: No.20251120 火影忍者火影三人組動態壁紙
 keyword: Naruto, Naruto Uzumaki, Sasuke Uchiha, Sakura Haruno, Ninja, Anime, Manga
 tags : [Naruto]
 ---

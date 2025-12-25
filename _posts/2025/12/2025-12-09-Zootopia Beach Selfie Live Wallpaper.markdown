@@ -2,7 +2,7 @@
 layout: post-wallpaper
 category : movie
 title: Zootopia Beach Selfie Live Wallpaper
-description: 動物方城市海灘自拍動態壁紙
+description: No.20251209 動物方城市海灘自拍動態壁紙
 keyword: zootopia, disney
 tagline: movie
 tags : [zootopia]

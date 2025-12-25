@@ -2,7 +2,7 @@
 layout: post-wallpaper
 category : comics
 title: Toy Story Buzz Lightyear Space Salute Live Wallpaper
-description: 玩具总动员巴斯光年宇宙敬礼动态壁纸
+description: No.20251123 玩具总动员巴斯光年宇宙敬礼动态壁纸
 keyword: Toy Story, Buzz Lightyear, Space, Salute, Astronaut, Disney Pixar
 tags : [Toy Story]
 ---

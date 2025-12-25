@@ -2,7 +2,7 @@
 layout: post-wallpaper
 category : movie
 title: DC Batman Gotham Guardian Live Wallpaper
-description: DC哥谭守护者蝙蝠侠动态壁纸
+description: No.20251227 DC哥谭守护者蝙蝠侠动态壁纸
 keyword: DC, Batman, Gotham, Guardian, Rain, Night, Wayne Tower, Superhero
 tags : [DC]
 ---

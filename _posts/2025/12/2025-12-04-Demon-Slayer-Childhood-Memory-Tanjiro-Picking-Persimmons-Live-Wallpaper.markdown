@@ -2,7 +2,7 @@
 layout: post-wallpaper
 category : comics
 title: Demon Slayer Childhood Memory - Tanjiro Picking Persimmons Live Wallpaper
-description: 鬼滅之刃童年回憶炭治郎背著妹妹摘柿子動態壁紙
+description: No.20251204 鬼滅之刃童年回憶炭治郎背著妹妹摘柿子動態壁紙
 keyword: Demon Slayer, 炭治郎, 鬼滅之刃, 鬼灭之刃, 鬼滅の刃
 tags : [Demon Slayer, Japanese]
 ---

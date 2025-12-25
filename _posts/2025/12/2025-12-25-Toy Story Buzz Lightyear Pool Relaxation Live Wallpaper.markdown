@@ -2,7 +2,7 @@
 layout: post-wallpaper
 category : movie
 title: Toy Story Buzz Lightyear Pool Relaxation Live Wallpaper
-description: 玩具总动员巴斯光年泳池休憩动态壁纸
+description: No.20251225 玩具总动员巴斯光年泳池休憩动态壁纸
 keyword: Toy Story, Buzz Lightyear, Pool, Relax, Surfboard, Summer, Disney Pixar
 tags : [Toy Story]
 ---

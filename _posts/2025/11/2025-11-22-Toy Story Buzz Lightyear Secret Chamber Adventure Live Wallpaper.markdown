@@ -2,7 +2,7 @@
 layout: post-wallpaper
 category : movie
 title: Toy Story Buzz Lightyear Secret Chamber Adventure Live Wallpaper
-description: 玩具总动员巴斯光年密室探宝动态壁纸
+description: No.20251122 玩具总动员巴斯光年密室探宝动态壁纸
 keyword: Toy Story, Buzz Lightyear, Adventure, Secret Chamber, Treasure, Discovery, Disney Pixar
 tags : [Toy Story]
 ---

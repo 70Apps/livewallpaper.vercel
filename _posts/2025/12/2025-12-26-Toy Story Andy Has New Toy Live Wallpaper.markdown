@@ -2,7 +2,7 @@
 layout: post-wallpaper
 category : movie
 title: Toy Story Andy Has New Toy Live Wallpaper
-description: 玩具总动员安迪又有新玩具动态壁纸
+description: No.20251226 玩具总动员安迪又有新玩具动态壁纸
 keyword: Toy Story, Andy, New Toy, Doorbell, Surprise, Toys Reaction, Disney Pixar
 tags : [Toy Story]
 ---

@@ -2,7 +2,7 @@
 layout: post-wallpaper
 category : comics
 title: SpongeBob Traffic Light Dance Party Live Wallpaper
-description: 海綿寶寶交通燈熱舞派對動態壁紙
+description: No.20251207 海綿寶寶交通燈熱舞派對動態壁紙
 keyword: SpongeBob
 tags : [SpongeBob]
 ---

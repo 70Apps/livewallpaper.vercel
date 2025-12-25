@@ -2,7 +2,7 @@
 layout: post-wallpaper
 category : Apple
 title: Apple Sanlitun Beijing Commemorative Live Wallpaper
-description: 北京三里屯蘋果店紀念壁紙動態壁紙
+description: No.20251213 北京三里屯蘋果店紀念壁紙動態壁紙
 keyword: Apple, iPhone
 tags : [Apple, Chinese]
 ---

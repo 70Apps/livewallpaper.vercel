@@ -2,7 +2,7 @@
 layout: post-wallpaper
 category : movie
 title: Zootopia Sweet Heart-shaped Selfie Live Wallpaper
-description: 動物方城市甜蜜比心自拍動態壁紙
+description: No.20251215 動物方城市甜蜜比心自拍動態壁紙
 keyword: zootopia, disney
 tagline: movie
 tags : [zootopia]

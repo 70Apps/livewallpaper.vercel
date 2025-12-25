@@ -2,7 +2,7 @@
 layout: post-wallpaper
 category : movie
 title: Super Cute Chibi DC Comics Superheroes Say Goodnight Live Wallpaper
-description: Q版DC漫畫超級英雄神奇女俠、閃電俠、蝙蝠俠、超人說晚安動態壁紙
+description: No.20251202 Q版DC漫畫超級英雄神奇女俠、閃電俠、蝙蝠俠、超人說晚安動態壁紙
 keyword: dc, Comics, Superheroes
 tagline: movie
 tags : [DC, Superheroes]

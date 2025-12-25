@@ -2,7 +2,7 @@
 layout: post-wallpaper
 category : Comics
 title: Luffy Wall Peek Live Wallpaper
-description: 魯夫牆洞探險動態壁紙
+description: No.20251129 魯夫牆洞探險動態壁紙
 keyword: Luffy, Comics, OnePiece
 tags : [OnePiece, Japanese]
 ---

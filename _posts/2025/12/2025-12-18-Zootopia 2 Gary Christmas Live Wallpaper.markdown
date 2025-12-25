@@ -2,7 +2,7 @@
 layout: post-wallpaper
 category : movie
 title: Zootopia 2 Gary Christmas Surprise Live Wallpaper
-description: 疯狂动物城2盖瑞圣诞惊喜动态壁纸
+description: No.20251218 疯狂动物城2盖瑞圣诞惊喜动态壁纸
 keyword: Zootopia 2, Gary, Christmas, Snake, Surprise, Holiday, Animated Movie
 tags : [Zootopia]
 ---

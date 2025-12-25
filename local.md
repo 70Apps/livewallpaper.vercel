@@ -19,7 +19,7 @@ bash jekyll.sh
 ~~~
 cd /Volumes/User/Github/livewallpaper.vercel
 export PATH=/opt/homebrew/lib/ruby/gems/3.0.0/bin:$PATH
-bundle exec jekyll serve --port 4003 --future
+bundle exec jekyll serve --port 4001 --future
 ~~~
 
  * 访问

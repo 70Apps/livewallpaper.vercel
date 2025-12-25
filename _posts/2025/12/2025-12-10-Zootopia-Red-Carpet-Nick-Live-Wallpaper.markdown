@@ -2,7 +2,7 @@
 layout: post-wallpaper
 category : movie
 title: Zootopia Red Carpet Nick Live Wallpaper
-description: 動物方城市紅毯尼克動態壁紙
+description: No.20251210 動物方城市紅毯尼克動態壁紙
 keyword: zootopia, disney
 tagline: movie
 tags : [zootopia]

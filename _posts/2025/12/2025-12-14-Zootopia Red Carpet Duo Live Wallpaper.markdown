@@ -2,7 +2,7 @@
 layout: post-wallpaper
 category : movie
 title: Zootopia Red Carpet Duo Live Wallpaper
-description: 動物方城市紅毯雙星動態壁紙
+description: No.20251214 動物方城市紅毯雙星動態壁紙
 keyword: zootopia, disney
 tagline: movie
 tags : [zootopia]
