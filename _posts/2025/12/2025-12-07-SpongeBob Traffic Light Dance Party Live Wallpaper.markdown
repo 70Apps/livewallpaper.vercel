@@ -1,49 +1,58 @@
 ---
 layout: post-wallpaper
-category : comics
+category : cartoon
 title: SpongeBob Traffic Light Dance Party Live Wallpaper
-description: No.20251207 海綿寶寶交通燈熱舞派對動態壁紙
-keyword: SpongeBob
-tags : [SpongeBob]
+description: No.20251207 海绵宝宝红绿灯舞会动态壁纸
+keyword: SpongeBob SquarePants, SpongeBob, Patrick Star, Squidward, Dance, Traffic Light, Party, Cartoon
+tags : [SpongeBob SquarePants]
 ---
-
-# No.20251207 海綿寶寶交通燈熱舞派對動態壁紙
-
-🌌夕陽映照的比基尼海灘十字路口🚦，海綿寶寶在紅燈上扭動方塊舞步🔴，派大星在黃燈上搖擺粉色身軀🟡，蟹老闆在綠燈上舉著硬幣踢踏舞動🟢，三人隨著交通節奏歡快起舞💃
-
-🖼️信號燈隨音樂節奏閃爍｜海綿寶寶四肢靈活擺動｜派大星肚皮波浪式起伏｜蟹老闆鉗子打著硬幣節拍｜背景車輛燈光流光溢彩
-
-{% include wallpage-action-tc.md %}
-
-#動態壁紙 #LockLive #實況全能王 #LiveWallpaper #xLiveWallpaper #海綿寶寶 #派大星 #蟹老闆 #交通燈舞蹈 #卡通熱舞
 
 # No.20251207 SpongeBob Traffic Light Dance Party Live Wallpaper
 
-🌌At the crossroads of Bikini Bottom under the sunset🚦, SpongeBob twists his square dance moves on the red light🔴, Patrick sways his pink body on the yellow light🟡, and Mr. Krabs tap dances holding coins on the green light🟢, all dancing joyfully to the traffic rhythm💃
+🐱SpongeBob, Patrick Star, and Squidward dance joyfully to the rhythm of traffic lights that flash in sync with their moves!💃 The yellow light shines on SpongeBob's energetic dance, the pink light illuminates Patrick's silly moves, and the blue light highlights Squidward's reluctant yet amusing grooving—a colorful, musical street party under the night sky✨.
 
-🖼️Traffic lights flash to musical beats｜SpongeBob's limbs swing flexibly｜Patrick's belly undulates in waves｜Mr. Krabs' claws keep coin rhythm｜Background vehicle lights create colorful streams
+🖼️Traffic lights flash in rhythm with the characters' dance moves｜SpongeBob jumps happily in yellow light｜Patrick sways goofily in pink light｜Squidward dances reluctantly in blue light｜Musical notes float in the air around them.
 
 {% include wallpage-action-en.md %}
 
-#LiveWallpaper #LockLive #xLiveWallpaper #SpongeBob #PatrickStar #MrKrabs #TrafficLightDance #CartoonDance
+#LiveWallpaper #LockLive #xLiveWallpaper #SpongeBob #SpongeBobSquarePants #PatrickStar #Squidward #DanceParty #TrafficLight #Cartoon #NightStreet #MusicalFun
 
-# No.20251207 スポンジ・ボブ信号機ダンスパーティー 動画壁紙
+# No.20251207 海綿寶寶紅綠燈舞會動態壁紙
 
-🌌夕焼けのビキニタウン交差点🚦、スポンジ・ボブが赤信号の上で四角いダンスステップ🔴、パトリックは黄色信号の上でピンクの体を揺らし🟡、カーニさんは青信号の上でコインを持ってタップダンス🟢、3人が交通のリズムに合わせて楽しく踊る💃
+🐱海綿寶寶、派大星和章魚哥隨著交通燈的節奏歡快地跳舞！💃黃燈照亮海綿寶寶活力四射的舞姿，粉紅燈照亮派大星滑稽的動作，藍燈映照出章魚哥勉強卻有趣的扭動——一場夜空下多彩又帶有音樂感的街頭派對✨。
 
-🖼️信号機が音楽のリズムで点滅｜スポンジ・ボブの手足が生き生きと動く｜パトリックのお腹が波のように動く｜カーニさんのハサミがコインのリズムを刻む｜背景の車のライトが色とりどりに流れる
+🖼️交通燈隨著角色舞蹈節奏閃爍｜海綿寶寶在黃燈中快樂跳躍｜派大星在粉紅燈中傻氣搖擺｜章魚哥在藍燈中不情願地跳舞｜音符在他們周圍空氣中漂浮。
+
+{% include wallpage-action-tc.md %}
+
+#動態壁紙 #LockLive #實況全能王 #LiveWallpaper #xLiveWallpaper #海綿寶寶 #派大星 #章魚哥 #跳舞派對 #交通燈 #卡通 #夜晚街頭 #音樂趣味
+
+# No.20251207 स्पंजबॉब ट्रैफ़िक लाइट डांस पार्टी लाइव वॉलपेपर
+
+🐱स्पंजबॉब, पैट्रिक स्टार, और स्क्विडवर्ड ट्रैफ़िक लाइट की लय के साथ खुशी-खुशी नाचते हैं, जो उनकी हरकतों के साथ तालमेल में जलती-बुझती हैं!💃 पीली रोशनी स्पंजबॉब के ऊर्जावान नृत्य को रोशन करती है, गुलाबी रोशनी पैट्रिक की मूर्खतापूर्ण हरकतों को उजागर करती है, और नीली रोशनी स्क्विडवर्ड के अनिच्छुक पर मनोरंजक डांस को हाइलाइट करती है—रात के आकाश के नीचे एक रंगीन, संगीतमय सड़क पार्टी✨।
+
+🖼️ट्रैफ़िक लाइट पात्रों के नृत्य की लय के साथ जलती-बुझती हैं｜स्पंजबॉब पीली रोशनी में खुशी से कूदता है｜पैट्रिक गुलाबी रोशनी में मूर्खतापूर्ण तरीके से झूमता है｜स्क्विडवर्ड नीली रोशनी में अनिच्छा से नाचता है｜संगीत के नोट उनके चारों ओर हवा में तैरते हैं।
+
+{% include wallpage-action-in.md %}
+
+#LiveWallpaper #LockLive #xLiveWallpaper #SpongeBob #SpongeBobSquarePants #PatrickStar #Squidward #DanceParty #TrafficLight #Cartoon #NightStreet #MusicalFun
+
+# No.20251207 スポンジ・ボブ 信号機ダンスパーティ 動画壁紙
+
+🐱スポンジ・ボブ、パトリック・スター、イカルドが信号機のリズムに合わせて楽しそうに踊っています！💃 黄色の灯りがスポンジ・ボブのエネルギッシュなダンスを照らし、ピンクの灯りがパトリックの間抜けな動きを照らし、青の灯りがイカルドの不本意ながらも面白いダンスを浮かび上がらせます——夜空の下でのカラフルで音楽的なストリートパーティー✨。
+
+🖼️信号機がキャラクターのダンスのリズムに合わせて点滅｜スポンジ・ボブが黄色の灯りの中で嬉しそうに跳ねる｜パトリックがピンクの灯りの中でバカみたいに揺れる｜イカルドが青の灯りの中でしぶしぶ踊る｜音符が彼らの周りの空中に漂う。
 
 {% include wallpage-action-jp.md %}
 
-#動画壁紙 #LockLive #xLiveWallpaper #ライブ壁紙 #スポンジボブ #パトリック #カーニさん #信号機ダンス #卡通ダンス
+#動画壁紙 #LockLive #xLiveWallpaper #ライブ壁紙 #スポンジボブ #パトリックスター #イカルド #ダンスパーティ #信号機 #アニメ #夜の街 #音楽的楽しさ
 
+# No.20251207 海绵宝宝红绿灯舞会动态壁纸
 
-# No.20251207 海绵宝宝交通灯热舞派对动态壁纸
+🐱海绵宝宝、派大星和章鱼哥随着交通灯的节奏欢快地跳舞！💃黄灯照亮海绵宝宝活力四射的舞姿，粉红灯照亮派大星滑稽的动作，蓝灯映照出章鱼哥勉强却有趣的扭动——一场夜空下多彩又带有音乐感的街头派对✨。
 
-🌌夕阳映照的比基尼海滩十字路口🚦，海绵宝宝在红灯上扭动方块舞步🔴，派大星在黄灯上摇摆粉色身躯🟡，蟹老板在绿灯上举着硬币踢踏舞动🟢，三人随着交通节奏欢快起舞💃
-
-🖼️信号灯随音乐节奏闪烁｜海绵宝宝四肢灵活摆动｜派大星肚皮波浪式起伏｜蟹老板钳子打着硬币节拍｜背景车辆灯光流光溢彩
+🖼️交通灯随着角色舞蹈节奏闪烁｜海绵宝宝在黄灯中快乐跳跃｜派大星在粉红灯中傻气摇摆｜章鱼哥在蓝灯中不情愿地跳舞｜音符在他们周围空气中漂浮。
 
 {% include wallpage-action-sc.md %}
 
-#动态壁纸 #LockLive #实况全能王 #LiveWallpaper #xLiveWallpaper #海绵宝宝 #派大星 #蟹老板 #交通灯舞蹈 #卡通热舞
+#动态壁纸 #LockLive #实况全能王 #LiveWallpaper #xLiveWallpaper #海绵宝宝 #派大星 #章鱼哥 #跳舞派对 #交通灯 #卡通 #夜晚街头 #音乐趣味

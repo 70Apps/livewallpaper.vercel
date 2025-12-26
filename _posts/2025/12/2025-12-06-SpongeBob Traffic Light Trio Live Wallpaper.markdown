@@ -1,50 +1,58 @@
 ---
 layout: post-wallpaper
 category : comics
-title: SpongeBob Traffic Light Trio Live Wallpaper
-description: No.20251206 海綿寶寶交通燈三人組動態壁紙
-keyword: SpongeBob
-tags : [SpongeBob]
+title: Demon Slayer Goodnight Live Wallpaper
+description: No.20251205 鬼灭之刃晚安计划动态壁纸
+keyword: Demon Slayer, Kimetsu no Yaiba, Tanjiro, Nezuko, Zenitsu, Inosuke, Goodnight, Q Version, Cute
+tags : [Demon Slayer]
 ---
 
-# No.20251206 海綿寶寶交通燈三人組動態壁紙
+# No.20251205 Demon Slayer Goodnight Live Wallpaper
 
-🌌蔚藍比基尼海灘的天空下🚦，海綿寶寶站在紅燈上歡快揮手🔴，派大星在黃燈上憨笑眨眼🟡，蟹老闆在綠燈上數著硬幣🟢，三人隨著信號燈變化輪流閃耀🌟
+🎎Q-version Tanjiro smiles warmly while waving, carrying his signature wooden box🎋. Nezuko peeks out from the box, her bamboo muzzle wiggling slightly as she blinks her big eyes⚡. Zenitsu cautiously peers from behind a corner, and Inosuke's boar mask tilts playfully—all four main characters come together to wish you a sweet goodnight!🌙
 
-🖼️交通燈三色循環閃爍｜海綿寶寶方塊身體彈性晃動｜派大星粉色肚皮微微起伏｜蟹老闆鉗子夾著硬幣叮噹作響｜背景雲朵緩慢飄移
-
-{% include wallpage-action-tc.md %}
-
-#動態壁紙 #LockLive #實況全能王 #LiveWallpaper #xLiveWallpaper #海綿寶寶 #派大星 #蟹老闆 #交通燈 #卡通壁紙
-
-
-# No.20251206 SpongeBob Traffic Light Trio Live Wallpaper
-
-🌌Under the sky of Bikini Bottom🚦, SpongeBob waves cheerfully on the red light🔴, Patrick winks with a goofy smile on the yellow light🟡, and Mr. Krabs counts coins on the green light🟢, the trio taking turns to shine with the traffic light changes🌟
-
-🖼️Traffic light cycles through three colors｜SpongeBob's rectangular body bounces elastically｜Patrick's pink belly rises and falls gently｜Mr. Krabs' claw clinks with coins｜Background clouds drift slowly
+🖼️Tanjiro waves with a gentle smile｜Nezuko blinks from inside the wooden box｜Zenitsu peeks timidly from behind｜Inosuke's boar mask sways side to side｜Soft moonlight illuminates the cozy nighttime scene.
 
 {% include wallpage-action-en.md %}
 
-#LiveWallpaper #LockLive #xLiveWallpaper #SpongeBob #PatrickStar #MrKrabs #TrafficLight #CartoonWallpaper
+#LiveWallpaper #LockLive #xLiveWallpaper #DemonSlayer #KimetsuNoYaiba #Tanjiro #Nezuko #Zenitsu #Inosuke #Goodnight #QVersion #Cute #Bedtime
 
-# No.20251206 スポンジ・ボブ信号機トリオ 動画壁紙
+# No.20251205 鬼滅之刃晚安計劃動態壁紙
 
-🌌ビキニタウンの青空の下🚦、スポンジ・ボブが赤信号の上で楽しげに手を振り🔴、パトリックは黄色信号の上で間の抜けた笑顔でウインク🟡、カーニさんは青信号の上でコインを数え🟢、3人が信号の変化に合わせて順番に輝く🌟
+🎎Q版炭治郎背著木箱揮手微笑🎋，禰豆子從箱中探頭，竹筒微動眨著大眼⚡，善逸從角落膽怯張望，伊之助的野豬頭套俏皮搖晃——四位主角齊聚一堂，向你送上甜蜜晚安！🌙
 
-🖼️信号機が三色循環点滅｜スポンジ・ボブの四角い体が弾むように揺れる｜パトリックのピンクのお腹がふわふわ動く｜カーニさんのハサミがコインでチリンチリンと鳴る｜背景の雲がゆっくり流れる
+🖼️炭治郎帶著溫柔微笑揮手｜禰豆子在木箱中眨眼｜善逸從後方怯生生探頭｜伊之助的野豬頭套左右搖擺｜柔和的月光照亮溫馨夜晚場景。
+
+{% include wallpage-action-tc.md %}
+
+#動態壁紙 #LockLive #實況全能王 #LiveWallpaper #xLiveWallpaper #鬼滅之刃 #晚安計劃 #竈門炭治郎 #竈門禰豆子 #我妻善逸 #嘴平伊之助 #Q版 #可愛 #睡前時光
+
+# No.20251205 दिमॉन स्लेयर गुडनाइट लाइव वॉलपेपर
+
+🎎क्यू-वर्ज़न तानजिरो गर्मजोशी से मुस्कुराता हुआ हाथ हिलाता है, अपना प्रतिष्ठित लकड़ी का बक्सा लादे हुए🎋। नेजुको बक्से से झाँकती है, उसका बांस का मुखावरण हल्का हिलता है जब वह अपनी बड़ी आँखें झपकाती है⚡। ज़ेनित्सू एक कोने के पीछे से सावधानी से देखता है, और इनोसुके का सूअर मास्क चंचलता से झुकता है—चारों मुख्य पात्र एक साथ आते हैं ताकि आपको एक मीठी गुडनाइट कह सकें!🌙
+
+🖼️तानजिरो कोमल मुस्कान के साथ हाथ हिलाता है｜नेजुको लकड़ी के बक्से के अंदर से झपकाती है｜ज़ेनित्सू पीछे से डरते-डरते झाँकता है｜इनोसुके का सूअर मास्क इधर-उधर हिलता है｜कोमल चाँदनी आरामदायक रात के दृश्य को रोशन करती है।
+
+{% include wallpage-action-in.md %}
+
+#LiveWallpaper #LockLive #xLiveWallpaper #DemonSlayer #KimetsuNoYaiba #Tanjiro #Nezuko #Zenitsu #Inosuke #Goodnight #QVersion #Cute #Bedtime
+
+# No.20251205 鬼滅の刃 おやすみプロジェクト 動画壁紙
+
+🎎Q版炭治郎が木箱を背負い手を振って微笑み🎋、禰豆子が箱から顔を出し、竹筒をちょっと動かしながら大きな目をぱちくり⚡、善逸が隅からおずおずと覗き、伊之助の猪頭が遊び心で揺れる——四人の主人公が勢ぞろいして、あなたに甘いおやすみを届けます！🌙
+
+🖼️炭治郎が優しい笑顔で手を振る｜禰豆子が木箱の中からまばたきする｜善逸が後ろからおずおずと顔を出す｜伊之助の猪頭が左右に揺れる｜柔らかな月明かりが温かな夜の情景を照らす。
 
 {% include wallpage-action-jp.md %}
 
-#動画壁紙 #LockLive #xLiveWallpaper #ライブ壁紙 #スポンジボブ #パトリック #カーニさん #信号機 #卡通壁紙
+#動画壁紙 #LockLive #xLiveWallpaper #ライブ壁紙 #鬼滅の刃 #おやすみプロジェクト #竈門炭治郎 #竈門禰豆子 #我妻善逸 #嘴平伊之助 #Q版 #かわいい #就寝時間
 
+# No.20251205 鬼灭之刃晚安计划动态壁纸
 
-# No.20251206 海绵宝宝交通灯三人组动态壁纸
+🎎Q版炭治郎背着木箱挥手微笑🎋，祢豆子从箱中探头，竹筒微动眨着大眼⚡，善逸从角落胆怯张望，伊之助的野猪头套俏皮摇晃——四位主角齐聚一堂，向你送上甜蜜晚安！🌙
 
-🌌蔚蓝比基尼海滩的天空下🚦，海绵宝宝站在红灯上欢快挥手🔴，派大星在黄灯上憨笑眨眼🟡，蟹老板在绿灯上数着硬币🟢，三人随着信号灯变化轮流闪耀🌟
-
-🖼️交通灯三色循环闪烁｜海绵宝宝方块身体弹性晃动｜派大星粉色肚皮微微起伏｜蟹老板钳子夹着硬币叮当作响｜背景云朵缓慢飘移
+🖼️炭治郎带着温柔微笑挥手｜祢豆子在木箱中眨眼｜善逸从后方怯生生探头｜伊之助的野猪头套左右摇摆｜柔和的月光照亮温馨夜晚场景。
 
 {% include wallpage-action-sc.md %}
 
-#动态壁纸 #LockLive #实况全能王 #LiveWallpaper #xLiveWallpaper #海绵宝宝 #派大星 #蟹老板 #交通灯 #卡通壁纸
+#动态壁纸 #LockLive #实况全能王 #LiveWallpaper #xLiveWallpaper #鬼灭之刃 #晚安计划 #灶门炭治郎 #灶门祢豆子 #我妻善逸 #嘴平伊之助 #Q版 #可爱 #睡前时光

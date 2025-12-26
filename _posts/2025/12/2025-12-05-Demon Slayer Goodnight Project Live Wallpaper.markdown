@@ -1,49 +1,58 @@
 ---
 layout: post-wallpaper
 category : comics
-title: Demon Slayer Goodnight Project Live Wallpaper
-description: No.20251205 鬼滅之刃晚安計劃動態壁紙
-keyword: Demon Slayer, 炭治郎, 鬼滅之刃, 鬼灭之刃, 鬼滅の刃
-tags : [Demon Slayer, Japanese]
+title: Demon Slayer Goodnight Live Wallpaper
+description: No.20251205 鬼灭之刃晚安计划动态壁纸
+keyword: Demon Slayer, Kimetsu no Yaiba, Tanjiro, Nezuko, Zenitsu, Inosuke, Goodnight, Q Version, Cute
+tags : [Demon Slayer]
 ---
 
-# No.20251205 鬼滅之刃晚安計劃動態壁紙
+# No.20251205 Demon Slayer Goodnight Live Wallpaper
 
-🌌月光灑落的日式臥室門輕輕滑動，Q版炭治郎背著木箱揮手微笑🎎，禰豆子竹筒微動眨著大眼🎋，善逸裹著被子探頭張望⚡，伊之助頭套搖晃活潑跳躍🐗，四位主角齊聲說晚安🌙
+🎎Q-version Tanjiro smiles warmly while waving, carrying his signature wooden box🎋. Nezuko peeks out from the box, her bamboo muzzle wiggling slightly as she blinks her big eyes⚡. Zenitsu cautiously peers from behind a corner, and Inosuke's boar mask tilts playfully—all four main characters come together to wish you a sweet goodnight!🌙
 
-🖼️障子門緩緩滑開透出暖光｜炭治郎額上傷疤微微發亮｜禰豆子粉色和服飄帶輕揚｜善逸金色頭髮流光閃爍｜伊之助野豬頭套俏皮擺動
-
-{% include wallpage-action-tc.md %}
-
-#動態壁紙 #LockLive #實況全能王 #LiveWallpaper #xLiveWallpaper #鬼滅之刃 #Q版 #晚安壁紙 #炭治郎 #禰豆子
-
-
-# No.20251205 Demon Slayer Goodnight Project Live Wallpaper
-
-🌌In a moonlit Japanese bedroom, the sliding door gently opens to reveal chibi Tanjiro waving with a smile, carrying his wooden box🎎, Nezuko blinking her large eyes with bamboo muzzle🎋, Zenitsu peeking out wrapped in a quilt⚡, and Inosuke bouncing energetically in his boar mask🐗, all wishing you goodnight in unison🌙
-
-🖼️Shoji door slides open with warm light｜Tanjiro's forehead scar glows softly｜Nezuko's pink kimono ribbons flutter｜Zenitsu's golden hair shimmers｜Inosuke's boar mask wiggles playfully
+🖼️Tanjiro waves with a gentle smile｜Nezuko blinks from inside the wooden box｜Zenitsu peeks timidly from behind｜Inosuke's boar mask sways side to side｜Soft moonlight illuminates the cozy nighttime scene.
 
 {% include wallpage-action-en.md %}
 
-#LiveWallpaper #LockLive #xLiveWallpaper #DemonSlayer #ChibiStyle #GoodnightWallpaper #Tanjiro #Nezuko
+#LiveWallpaper #LockLive #xLiveWallpaper #DemonSlayer #KimetsuNoYaiba #Tanjiro #Nezuko #Zenitsu #Inosuke #Goodnight #QVersion #Cute #Bedtime
 
-# No.20251205 鬼滅の刃 おやすみ計画 動画壁紙
+# No.20251205 鬼滅之刃晚安計劃動態壁紙
 
-🌌月明かりの和室で障子が静かに開き、ちびキャラの炭治郎が木箱を背に手を振って微笑み🎎、禰豆子は竹筒が揺れ大きな目をぱちくり🎋、善逸は布団に包まりながら顔を覗かせ⚡、伊之助は猪頭を被って元気に跳ね🐗、4人の主人公が揃っておやすみを伝える🌙
+🎎Q版炭治郎背著木箱揮手微笑🎋，禰豆子從箱中探頭，竹筒微動眨著大眼⚡，善逸從角落膽怯張望，伊之助的野豬頭套俏皮搖晃——四位主角齊聚一堂，向你送上甜蜜晚安！🌙
 
-🖼️障子がゆっくり開き温かな光が漏れる｜炭治郎の額の傷が優しく光る｜禰豆子のピンクの着物の帯が揺れる｜善逸の金髪がきらめく｜伊之助の猪頭が可愛く動く
+🖼️炭治郎帶著溫柔微笑揮手｜禰豆子在木箱中眨眼｜善逸從後方怯生生探頭｜伊之助的野豬頭套左右搖擺｜柔和的月光照亮溫馨夜晚場景。
+
+{% include wallpage-action-tc.md %}
+
+#動態壁紙 #LockLive #實況全能王 #LiveWallpaper #xLiveWallpaper #鬼滅之刃 #晚安計劃 #竈門炭治郎 #竈門禰豆子 #我妻善逸 #嘴平伊之助 #Q版 #可愛 #睡前時光
+
+# No.20251205 दिमॉन स्लेयर गुडनाइट लाइव वॉलपेपर
+
+🎎क्यू-वर्ज़न तानजिरो गर्मजोशी से मुस्कुराता हुआ हाथ हिलाता है, अपना प्रतिष्ठित लकड़ी का बक्सा लादे हुए🎋। नेजुको बक्से से झाँकती है, उसका बांस का मुखावरण हल्का हिलता है जब वह अपनी बड़ी आँखें झपकाती है⚡। ज़ेनित्सू एक कोने के पीछे से सावधानी से देखता है, और इनोसुके का सूअर मास्क चंचलता से झुकता है—चारों मुख्य पात्र एक साथ आते हैं ताकि आपको एक मीठी गुडनाइट कह सकें!🌙
+
+🖼️तानजिरो कोमल मुस्कान के साथ हाथ हिलाता है｜नेजुको लकड़ी के बक्से के अंदर से झपकाती है｜ज़ेनित्सू पीछे से डरते-डरते झाँकता है｜इनोसुके का सूअर मास्क इधर-उधर हिलता है｜कोमल चाँदनी आरामदायक रात के दृश्य को रोशन करती है।
+
+{% include wallpage-action-in.md %}
+
+#LiveWallpaper #LockLive #xLiveWallpaper #DemonSlayer #KimetsuNoYaiba #Tanjiro #Nezuko #Zenitsu #Inosuke #Goodnight #QVersion #Cute #Bedtime
+
+# No.20251205 鬼滅の刃 おやすみプロジェクト 動画壁紙
+
+🎎Q版炭治郎が木箱を背負い手を振って微笑み🎋、禰豆子が箱から顔を出し、竹筒をちょっと動かしながら大きな目をぱちくり⚡、善逸が隅からおずおずと覗き、伊之助の猪頭が遊び心で揺れる——四人の主人公が勢ぞろいして、あなたに甘いおやすみを届けます！🌙
+
+🖼️炭治郎が優しい笑顔で手を振る｜禰豆子が木箱の中からまばたきする｜善逸が後ろからおずおずと顔を出す｜伊之助の猪頭が左右に揺れる｜柔らかな月明かりが温かな夜の情景を照らす。
 
 {% include wallpage-action-jp.md %}
 
-#動画壁紙 #LockLive #xLiveWallpaper #ライブ壁紙 #鬼滅の刃 #ちびキャラ #おやすみ壁紙 #炭治郎 #禰豆子
+#動画壁紙 #LockLive #xLiveWallpaper #ライブ壁紙 #鬼滅の刃 #おやすみプロジェクト #竈門炭治郎 #竈門禰豆子 #我妻善逸 #嘴平伊之助 #Q版 #かわいい #就寝時間
 
 # No.20251205 鬼灭之刃晚安计划动态壁纸
 
-🌌月光洒落的日式卧室门轻轻滑动，Q版炭治郎背着木箱挥手微笑🎎，祢豆子竹筒微动眨着大眼🎋，善逸裹着被子探头张望⚡，伊之助头套摇晃活泼跳跃🐗，四位主角齐声说晚安🌙
+🎎Q版炭治郎背着木箱挥手微笑🎋，祢豆子从箱中探头，竹筒微动眨着大眼⚡，善逸从角落胆怯张望，伊之助的野猪头套俏皮摇晃——四位主角齐聚一堂，向你送上甜蜜晚安！🌙
 
-🖼️障子门缓缓滑开透出暖光｜炭治郎额上伤疤微微发亮｜祢豆子粉色和服飘带轻扬｜善逸金色头发流光闪烁｜伊之助野猪头套俏皮摆动
+🖼️炭治郎带着温柔微笑挥手｜祢豆子在木箱中眨眼｜善逸从后方怯生生探头｜伊之助的野猪头套左右摇摆｜柔和的月光照亮温馨夜晚场景。
 
 {% include wallpage-action-sc.md %}
 
-#动态壁纸 #LockLive #实况全能王 #LiveWallpaper #xLiveWallpaper #鬼灭之刃 #Q版 #晚安壁纸 #炭治郎 #祢豆子
+#动态壁纸 #LockLive #实况全能王 #LiveWallpaper #xLiveWallpaper #鬼灭之刃 #晚安计划 #灶门炭治郎 #灶门祢豆子 #我妻善逸 #嘴平伊之助 #Q版 #可爱 #睡前时光
