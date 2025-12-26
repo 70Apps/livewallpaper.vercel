@@ -33,7 +33,7 @@ tags : [Toy Story]
 
 🖼️बज़ सर्फ़बोर्ड पर एक आरामदायक मुद्रा में लेटा है｜सर्फ़बोर्ड के आसपास पानी नरम लहरें बनाता है｜धूप पूल की सतह से परावर्तित होकर चमकदार हाइलाइट्स बनाती है｜ताड़ के पत्ते हवा में धीरे से हिलते हैं｜बज़ के हाथ में पेय में एक छोटी छतरी और संघनन की बूंदें हैं।
 
-{% include wallpage-action-id.md %}
+{% include wallpage-action-in.md %}
 
 #LiveWallpaper #LockLive #xLiveWallpaper #ToyStory #BuzzLightyear #PoolDay #Relaxation #SummerVibes #DisneyPixar #Surfboard #ChillTime #AnimatedMovie
 

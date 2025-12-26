@@ -33,7 +33,7 @@ tags : [Demon Slayer]
 
 🖼️निचिरिन ब्लेड की गति से बहते पानी के निशान प्रभाव पीछे छूटते हैं｜वॉटर ब्रीदिंग उनके शरीर के चारों ओर घूमती धाराएं बनाती है｜तानजिरो के झुमके गति के साथ धीरे से हिलते हैं｜छोटी पारदर्शी पानी की बूंदें उनके चेहरे पर छिटकती हैं｜चांदनी पानी के पर्दे से होकर इंद्रधनुषी रंगों में अपवर्तित होती है
 
-{% include wallpage-action-id.md %}
+{% include wallpage-action-in.md %}
 
 #LiveWallpaper #LockLive #xLiveWallpaper #DemonSlayer #KimetsuNoYaiba #TanjiroKamado #WaterBreathing #3DAnimation #AnimeWallpaper #WaterEffects #MoonlitScene
 

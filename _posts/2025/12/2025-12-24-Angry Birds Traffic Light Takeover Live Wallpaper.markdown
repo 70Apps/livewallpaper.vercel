@@ -33,7 +33,7 @@ tags : [Angry Birds]
 
 🖼️हर पक्षी अपनी मेल खाती ट्रैफ़िक लाइट पर गर्व से बैठा है｜वे अपने बसेरे पर हल्का-हल्का हिलती और उछलती हैं｜ट्रैफ़िक लाइट उनके रंगों के साथ तालमेल में स्थिरता से चमकती है｜नीचे की कारें हास्यास्पद ढंग से रुकती हैं और हॉर्न बजाती हैं｜पृष्ठभूमि में एनिमेटेड वाहनों के साथ शहरी सड़क दृश्य।
 
-{% include wallpage-action-id.md %}
+{% include wallpage-action-in.md %}
 
 #LiveWallpaper #LockLive #xLiveWallpaper #AngryBirds #RedBird #YellowBird #GreenBird #TrafficLight #GameCharacters #FunnyScene #MobileGame #Rovio
 

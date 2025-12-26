@@ -33,7 +33,7 @@ tags : [Toy Story]
 
 🖼️खिलौने कार्रवाई के बीच में जम जाते हैं, आँखें आश्चर्य से फैल जाती हैं｜कुछ खिलौने फ़र्नीचर के पीछे या कुशन के नीचे छिप जाते हैं｜वुडी हाथ-पैर मारकर सभी को शांत करने की कोशिश करता है｜बज़ गलती से ब्लॉकों का ढेर गिरा देता है｜पृष्ठभूमि में दरवाज़े से गलियारे की रोशनी आ रही है।
 
-{% include wallpage-action-id.md %}
+{% include wallpage-action-in.md %}
 
 #LiveWallpaper #LockLive #xLiveWallpaper #ToyStory #Andy #NewToy #Doorbell #Surprise #ToysReaction #DisneyPixar #Comedy #Chaos
 

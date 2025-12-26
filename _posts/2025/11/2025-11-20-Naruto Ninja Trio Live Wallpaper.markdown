@@ -33,7 +33,7 @@ tags : [Naruto]
 
 🖼️तीन पात्र उल्टे त्रिकोण में व्यवस्थित हैं｜प्रत्येक निंजा के चारों ओर चक्र ऊर्जा हल्की चमक देती है｜उनके हेडबैंड धात्विक चमक के साथ प्रकाश को दर्शाते हैं｜पृष्ठभूमि में धुंधला कोनोहा गाँव का दृश्य है｜गतिशील हवा प्रभाव उनके बालों और कपड़ों को धीरे से हिलाता है।
 
-{% include wallpage-action-id.md %}
+{% include wallpage-action-in.md %}
 
 #LiveWallpaper #LockLive #xLiveWallpaper #Naruto #NarutoUzumaki #SasukeUchiha #SakuraHaruno #NinjaTrio #AnimeWallpaper #ChakraAura #Konoha
 

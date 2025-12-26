@@ -33,7 +33,7 @@ tags : [Toy Story]
 
 🖼️वुडी अपनी काउबॉय हैट को हल्का सा झुकाते हुए एक दोस्ताना मुस्कान देता है｜बज़ एक क्लासिक सैल्यूट पोज़ बनाता है｜गतिशील प्रकाश किरणें उनके चारों ओर विकीर्ण होती हैं｜खिलौना-थीम वाले पैटर्न पृष्ठभूमि में घूमते हैं｜एंडी के कमरे की दीवारों पर ग्लो-इन-द-डार्क स्टार स्टिकर चिपके हैं।
 
-{% include wallpage-action-id.md %}
+{% include wallpage-action-in.md %}
 
 #LiveWallpaper #LockLive #xLiveWallpaper #ToyStory5 #Woody #BuzzLightyear #OfficialPoster #DisneyPixar #AnimatedMovie #Nostalgia #AdventureAwaits
 

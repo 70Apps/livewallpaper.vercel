@@ -33,7 +33,7 @@ tags : [DC]
 
 🖼️सुपरमैन लाल स्ट्रीटलैंप के नीचे ऊँचा खड़ा है｜उसकी केप पर घिसावट के निशान हैं लेकिन गतिशील रूप से लहराती है｜शहर की रोशनी गीले फुटपाथ पर परावर्तित होती है｜लाल लैंप की रोशनी में बारिश की बूंदें चमकती हैं｜मेट्रोपोलिस के गगनचुंबी इमारतें दूर की पृष्ठभूमि में चमकती हैं।
 
-{% include wallpage-action-id.md %}
+{% include wallpage-action-in.md %}
 
 #LiveWallpaper #LockLive #xLiveWallpaper #DC #Superman #ClarkKent #Metropolis #Guardian #RedLantern #Superhero #Hope #Resilience
 

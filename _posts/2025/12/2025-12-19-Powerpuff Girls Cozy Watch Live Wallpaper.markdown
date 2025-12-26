@@ -33,7 +33,7 @@ tags : [Powerpuff Girls]
 
 🖼️लड़कियां मुलायम तकियों के साथ आराम से लेटी हुई हैं｜पॉपकॉर्न तीनों के बीच खुशी-खुशी साझा किया जा रहा है｜टीवी जीवंत, रंगीन कार्टून दृश्य दिखा रहा है｜कमरे में गर्म, मुलायम रोशनी भरी हुई है｜शो की कहानी के साथ उनके भाव बदलते हैं—हंसती, हैरान होती और मुस्कुराती हैं।
 
-{% include wallpage-action-id.md %}
+{% include wallpage-action-in.md %}
 
 #LiveWallpaper #LockLive #xLiveWallpaper #PowerpuffGirls #Blossom #Bubbles #Buttercup #BingeWatch #CartoonNetwork #CozyVibes #Relaxation #HomeComfort
 

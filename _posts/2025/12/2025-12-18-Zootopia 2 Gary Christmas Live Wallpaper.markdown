@@ -33,7 +33,7 @@ tags : [Zootopia]
 
 🖼️बर्फ के टुकड़े स्क्रीन पर धीरे-धीरे गिरते हैं｜सांटा टोपी गिरते समय घूमती है｜टोपी गैरी के सिर पर सटीक बैठती है｜गैरी के भाव हैरानी से शुद्ध खुशी में बदलते हैं｜दूर में टिमटिमाती रोशनी वाला एक आरामदायक क्रिसमस सड़क दृश्य कोमलता से जगमगाता है।
 
-{% include wallpage-action-id.md %}
+{% include wallpage-action-in.md %}
 
 #LiveWallpaper #LockLive #xLiveWallpaper #Zootopia2 #Gary #Snake #Christmas #SantaHat #HolidayMagic #DisneyAnimation #SurpriseMoment #CuteAnimals
 

@@ -33,7 +33,7 @@ tags : [Toy Story]
 
 🖼️वुडी और बज़ एक साथ टॉर्च पकड़े हुए हैं｜प्रकाश किरण अंधेरे में एक स्पष्ट शंकु आकार बनाती है｜धूल कण प्रकाश के भीतर नृत्य करते हैं｜समय अंक सिस्टम घड़ी के साथ सहजता से अपडेट होते हैं｜पात्रों की आँखें चमक को कोमलता से दर्शाती हैं।
 
-{% include wallpage-action-id.md %}
+{% include wallpage-action-in.md %}
 
 #LiveWallpaper #LockLive #xLiveWallpaper #ToyStory #Woody #BuzzLightyear #Flashlight #TimeDisplay #BlackTheme #DisneyPixar #FunctionalWallpaper
 

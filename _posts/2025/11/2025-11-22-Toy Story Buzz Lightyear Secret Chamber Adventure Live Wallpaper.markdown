@@ -33,7 +33,7 @@ tags : [Toy Story]
 
 🖼️बज़ एक चमकती लाइट स्टिक पकड़े हुए है जो आसपास को रोशन करती है｜प्राचीन खिलौना अवशेष धूल में आधे दबे हुए हैं｜दीवारों पर अजीब प्रतीक हल्की चमक देते हैं｜मकड़ी के जाले हवा के प्रवाह में धीरे से हिलते हैं｜धूल के कण प्रकाश की किरण में तैरते हैं।
 
-{% include wallpage-action-id.md %}
+{% include wallpage-action-in.md %}
 
 #LiveWallpaper #LockLive #xLiveWallpaper #ToyStory #BuzzLightyear #Adventure #SecretChamber #TreasureHunt #Discovery #DisneyPixar #Mystery #Exploration
 

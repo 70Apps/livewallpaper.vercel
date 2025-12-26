@@ -33,7 +33,7 @@ tags : [DC]
 
 🖼️बारिश दिखाई देने वाली धाराओं में बह रही है｜बैटमैन का केप हवा में लहराता है｜वेन टॉवर दूर के आकाश में चमकता है｜बिजली रुक-रुक कर चमकती है, नाटकीय छायाएँ बनाती है｜गोथम की नीयन लाइटें गीली छत की सतह पर परावर्तित होती हैं।
 
-{% include wallpage-action-id.md %}
+{% include wallpage-action-in.md %}
 
 #LiveWallpaper #LockLive #xLiveWallpaper #DC #Batman #Gotham #Guardian #RainyNight #WayneTower #Superhero #DarkKnight #ComicBookMovie
 
