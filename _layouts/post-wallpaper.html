@@ -29,7 +29,7 @@ layout: default
 
   <div class="post-content" itemprop="articleBody">
 
-    <div class="page-content-preview-image"><img src="{{ page.date | date: "/images/%Y/%m/%Y%m%d.jpg" }}"></div>
+    <div class="page-content-preview-image"><img src="{{ page.date | date: "/images/%Y/%m/%Y%m%d.webp" }}"></div>
     <div class="page-content-buttons">
       <a href="https://locklive.gumroad.com/l/{{ page.date | date: "%Y%m" }}">購買支持我們</a>
       <a href="{{site.app_link}}">下載 App</a>
@@ -37,34 +37,40 @@ layout: default
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4189184568187692"
            crossorigin="anonymous"></script>
       <ins class="adsbygoogle"
-           style="display:block; text-align:center;"
+           style="display:none; text-align:center;"
            data-ad-layout="in-article"
            data-ad-format="fluid"
            data-ad-client="ca-pub-4189184568187692"
            data-ad-slot="6305085632"></ins>
-      <script>
-           (adsbygoogle = window.adsbygoogle || []).push({});
-      </script>
+<script>
+  // 如果域名中包含 70apps.com 就显示广告
+  if(location.href.indexOf('70apps.com') > -1){
+     (adsbygoogle = window.adsbygoogle || []).push({});
+  }
+</script>
     {{ content }}
 
 <div class="page-content-preview-video">
-    <video src="{{ page.date | date: "/images/%Y/%m/%Y%m%d.mov" }}" controls="controls" class="video_preview" Webkit-playsinline="true" disablePictureInPicture="true" disableRemotePlayback="true" autoplay="autoplay" loop="loop" playsinline="playsinline"></video>
+    <video src="{{ page.date | date: "/images/%Y/%m/%Y%m%d.mp4" }}" class="video_preview" Webkit-playsinline="true" disablePictureInPicture="true" disableRemotePlayback="true" autoplay="autoplay" loop="loop" playsinline="playsinline"></video>
 </div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4189184568187692"
      crossorigin="anonymous"></script>
 <!-- xLiveWallpaper-banner -->
 <ins class="adsbygoogle"
-     style="display:block"
+     style="display:none;"
      data-ad-client="ca-pub-4189184568187692"
      data-ad-slot="5231677111"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 <script>
+  // 如果域名中包含 70apps.com 就显示广告
+  if(location.href.indexOf('70apps.com') > -1){
      (adsbygoogle = window.adsbygoogle || []).push({});
+  }
 </script>
 {% include wallpage-help-tc.html %}
 
-    <div class="page-content-preview-image"><img src="{{ page.date | date: "/images/%Y/%m/%Y%m%d.jpg" }}"></div>
+    <div class="page-content-preview-image"><img src="{{ page.date | date: "/images/%Y/%m/%Y%m%d.webp" }}"></div>
     <div class="page-content-buttons">
       <a href="https://locklive.gumroad.com/l/{{ page.date | date: "%Y%m" }}">Get this wallpaper</a>
       <a href="{{site.app_link}}">Download App</a>

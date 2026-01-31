@@ -10,13 +10,16 @@ title: locklive livewallpaper
        crossorigin="anonymous"></script>
   <!-- xLiveWallpaper-banner -->
   <ins class="adsbygoogle"
-       style="display:block"
+       style="display:none"
        data-ad-client="ca-pub-4189184568187692"
        data-ad-slot="5231677111"
        data-ad-format="auto"
        data-full-width-responsive="true"></ins>
   <script>
-       (adsbygoogle = window.adsbygoogle || []).push({});
+  // 如果域名中包含 70apps.com 就显示广告
+  if(location.href.indexOf('70apps.com') > -1){
+     (adsbygoogle = window.adsbygoogle || []).push({});
+  }
   </script>
 <div class="post-list-container">
   <ul class="post-list">
@@ -25,7 +28,7 @@ title: locklive livewallpaper
 <li>
   <a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">
     <div class="post-list-show-image">
-      <div class="post-list-show-image-image" data-bg="{{ post.date | date: "/images/%Y/%m/%Y%m%d.jpg" }}"></div>
+      <div class="post-list-show-image-image" data-bg="{{ post.date | date: "/images/%Y/%m/%Y%m%d.webp" }}"></div>
     </div>
     <div class="post-list-title">{{ post.title }}</div>
       <div class="post-list-description">{{ post.description }}</div>
@@ -67,21 +70,15 @@ title: locklive livewallpaper
 {% endif %}
 </div>
 <script>
-  // 检查浏览器是否支持webp
-  function isSupportWebP() {
-    return document.createElement('canvas').toDataURL('image/webp').indexOf('data:image/webp') == 0;
-  }
-
-  // 如果支持webp,则在img标签src上添加后缀
   const imgList = document.querySelectorAll('.post-list-show-image-image');
- var i=0;
- imgList.forEach(img => {
-   let src = img.getAttribute('data-bg');
-   console.log(src);
-   img.style.backgroundImage = "url('" + src + "')";
-   setTimeout(function(){img.style.opacity=1;},300+300*i);
-   i++;
- });
- const h1 = document.querySelectorAll('h1.home-title-1');
- h1[0].innerHTML = "xLiveWallpaper"
+  var i = 0;
+  imgList.forEach(img => {
+    let src = img.getAttribute('data-bg');
+    //console.log(src);
+    img.style.backgroundImage = "url('" + src + "')";
+    setTimeout(function () { img.style.opacity = 1; }, 300 + 300 * i);
+    i++;
+  });
+  const h1 = document.querySelectorAll('h1.home-title-1');
+  h1[0].innerHTML = "xLiveWallpaper"
 </script>
