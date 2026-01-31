@@ -48,8 +48,7 @@ layout: default
     {{ content }}
 
 <div class="page-content-preview-video">
-    <video src="{{ page.date | date: "/images/%Y/%m/%Y%m%d.mov" }}" controls="controls" class="video_preview" Webkit-playsinline="true" disablePictureInPicture="true" disableRemotePlayback="true">
-    </video>
+    <video src="{{ page.date | date: "/images/%Y/%m/%Y%m%d.mov" }}" controls="controls" class="video_preview" Webkit-playsinline="true" disablePictureInPicture="true" disableRemotePlayback="true" autoplay="autoplay" loop="loop" playsinline="playsinline"></video>
 </div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4189184568187692"
      crossorigin="anonymous"></script>
