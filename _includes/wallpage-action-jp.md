@@ -1,6 +1,6 @@
-今月のHDライブ壁紙コレクションを購入できるようになりました。Androidビデオ形式とiOSライブフォト形式の両方に対応しています。
+今なら早期割引価格でライブ壁紙クラブにご参加いただけます。Android ビデオと iOS ライブフォトの両フォーマットに対応しています。
 
-[https://locklive.gumroad.com/l/{{ page.date | date: "%Y%m" }}](https://locklive.gumroad.com/l/{{ page.date | date: "%Y%m" }})
+[https://locklive.gumroad.com/l/vip](https://locklive.gumroad.com/l/vip)
 
 iPhoneユーザーはxLiveWallpaperアプリで「`{{ page.date | date: "%Y%m%d" }}`」を検索
 

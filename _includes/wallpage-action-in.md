@@ -1,6 +1,6 @@
-अब आप मासिक HD लाइव वॉलपेपर संग्रह खरीद सकते हैं, जो एंड्रॉइड वीडियो और आईओएस लाइव फोटो दोनों प्रारूपों का समर्थन करता है।
+अब आप हमारे लाइव वॉलपेपर क्लब में आर्ली बर्ड कीमत पर शामिल हो सकते हैं, जो Android वीडियो और iOS लाइव फोटो प्रारूपों दोनों का समर्थन करता है।
 
-[https://locklive.gumroad.com/l/{{ page.date | date: "%Y%m" }}](https://locklive.gumroad.com/l/{{ page.date | date: "%Y%m" }})
+[https://locklive.gumroad.com/l/vip](https://locklive.gumroad.com/l/vip)
 
 iPhone उपयोगकर्ताओं को xLiveWallpaper ऐप में '`{{ page.date | date: "%Y%m%d" }}`' खोजें
 

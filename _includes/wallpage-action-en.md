@@ -1,6 +1,6 @@
-You can now purchase the monthly HD live wallpaper collection, supporting both Android video and iOS Live Photo formats.
+You can now join our live wallpaper club at early-bird price, supporting both Android video and iOS Live Photo formats.
 
-[https://locklive.gumroad.com/l/{{ page.date | date: "%Y%m" }}](https://locklive.gumroad.com/l/{{ page.date | date: "%Y%m" }})
+[https://locklive.gumroad.com/l/vip](https://locklive.gumroad.com/l/vip)
 
 iPhone users search '`{{ page.date | date: "%Y%m%d" }}`' in xLiveWallpaper App
 

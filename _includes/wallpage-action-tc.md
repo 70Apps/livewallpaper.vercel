@@ -1,6 +1,6 @@
-您現可購買月度高清動態壁紙合集，同時支援安卓視頻/蘋果實況格式
+現在您可以以早鳥價加入我們的動態桌布俱樂部，同時支援 Android 影片與 iOS 實況照片格式。
 
-[https://locklive.gumroad.com/l/{{ page.date | date: "%Y%m" }}](https://locklive.gumroad.com/l/{{ page.date | date: "%Y%m" }})
+[https://locklive.gumroad.com/l/vip](https://locklive.gumroad.com/l/vip)
 
 iPhone用戶在xLiveWallpaper App中搜尋「`{{ page.date | date: "%Y%m%d" }}`」
 
