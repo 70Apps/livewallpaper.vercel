@@ -1,3 +1,4 @@
+_cdn
 _local
 _design
 
@@ -8,3 +9,4 @@ _site
 vendor
 .DS_Store
 .ftpconfig
+.agents
