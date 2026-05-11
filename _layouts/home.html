@@ -1,11 +1,32 @@
 ---
 layout: default
-title: locklive livewallpaper
+title: xLiveWallpaper
 ---
-<h1 class="home-title-1">Live Wallpaper</h1>
-<h2 class="home-title-2">iPhone & iPad Live Wallpapers</h2>
-<h3 class="home-title-3">LiveWallpaper Team</h3>
+
 <div class="home">
+  <!-- Hero Section -->
+  <section class="hero-section">
+    <h1 class="hero-title">xLiveWallpaper</h1>
+    <p class="hero-subtitle">iPhone & iPad Live Wallpapers</p>
+    
+    <!-- Stats -->
+    <div class="hero-stats">
+      <div class="stat-item">
+        <span class="stat-value">500+</span>
+        <span class="stat-label">Wallpapers</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-value">4K</span>
+        <span class="stat-label">Ultra HD</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-value">Daily</span>
+        <span class="stat-label">Updates</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Ads Section -->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4189184568187692"
        crossorigin="anonymous"></script>
   <!-- xLiveWallpaper-banner -->
@@ -21,64 +42,121 @@ title: locklive livewallpaper
      (adsbygoogle = window.adsbygoogle || []).push({});
   }
   </script>
-<div class="post-list-container">
-  <ul class="post-list">
-    <!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
-<li>
-  <a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">
-    <div class="post-list-show-image">
-      <div class="post-list-show-image-image" data-bg="{{ post.date | date: "/images/%Y/%m/%Y%m%d.webp" }}"></div>
+
+  <!-- Stats Bar -->
+  <div class="stats-bar">
+    <span class="stats-text">Showing {{ paginator.total_posts }} wallpapers</span>
+    <div class="sort-options">
+      <span class="sort-option active">Latest</span>
+      <span class="sort-option">Popular</span>
     </div>
-    <div class="post-list-title">{{ post.title }}</div>
-      <div class="post-list-description">{{ post.description }}</div>
-      <div class="post-list-info">
-        <span class="post-category post-category-{{ post.category }}"></span>
-        <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
-      </div>
-  </a>
-</li>
-{% endfor %}
-  </ul>
-</div>
+  </div>
 
-<!-- 分页链接 -->
- {% if paginator.total_pages > 1 %}
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url }}">Previou</a>
-  {% else %}
-    <span>Previou</span>
+  <!-- Wallpaper Grid -->
+  <div class="wallpaper-grid-container">
+    <div class="wallpaper-grid">
+      {% for post in paginator.posts %}
+      <a class="wallpaper-item" href="{{ post.url | prepend: site.baseurl }}">
+        <div class="iphone-frame">
+          <div class="iphone-notch"></div>
+          <div class="iphone-screen">
+            <div class="wallpaper-preview" data-bg="{{ post.date | date: "/images/%Y/%m/%Y%m%d_preview.webp" }}"></div>
+          </div>
+          <div class="iphone-home-bar"></div>
+        </div>
+        <div class="wallpaper-item-info">
+          <div class="wallpaper-item-title">{{ post.title }}</div>
+          <div class="wallpaper-item-meta">
+            <span class="wallpaper-item-category">{{ post.category | default: "Live" }}</span>
+            <span class="wallpaper-item-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+          </div>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+
+  <!-- Pagination -->
+  {% if paginator.total_pages > 1 %}
+  <div class="pagination-wrapper">
+    <div class="pagination-scroll-indicator left" id="pagination-prev">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="15 18 9 12 15 6"></polyline>
+      </svg>
+    </div>
+    <div class="pagination" id="pagination-container">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | relative_url }}">Prev</a>
+      {% else %}
+        <span>Prev</span>
+      {% endif %}
+
+      {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+          <em>{{ page }}</em>
+        {% elsif page == 1 %}
+          <a href="{{ site.paginate_path | relative_url | replace: 'page-:num/', '' }}">{{ page }}</a>
+        {% else %}
+          <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+        {% endif %}
+      {% endfor %}
+
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | relative_url }}">Next</a>
+      {% else %}
+        <span>Next</span>
+      {% endif %}
+    </div>
+    <div class="pagination-scroll-indicator right" id="pagination-next">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="9 18 15 12 9 6"></polyline>
+      </svg>
+    </div>
+  </div>
   {% endif %}
-
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <em>{{ page }}</em>
-    {% elsif page == 1 %}
-      <a href="{{ site.paginate_path | relative_url | replace: 'page-:num/', '' }}">{{ page }}</a>
-    {% else %}
-      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
-    {% endif %}
-  {% endfor %}
-
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url }}">Next</a>
-  {% else %}
-    <span>Next</span>
-  {% endif %}
 </div>
-{% endif %}
-</div>
+
 <script>
-  const imgList = document.querySelectorAll('.post-list-show-image-image');
-  var i = 0;
-  imgList.forEach(img => {
-    let src = img.getAttribute('data-bg');
-    //console.log(src);
-    img.style.backgroundImage = "url('" + src + "')";
-    setTimeout(function () { img.style.opacity = 1; }, 300 + 300 * i);
-    i++;
+  // Lazy load wallpaper previews with fade-in animation
+  const wallpaperList = document.querySelectorAll('.wallpaper-preview');
+  wallpaperList.forEach((preview, index) => {
+    let src = preview.getAttribute('data-bg');
+    const imgElement = new Image();
+    imgElement.onload = function() {
+      preview.style.backgroundImage = "url('" + src + "')";
+      setTimeout(function () { 
+        preview.style.opacity = 1; 
+        preview.classList.add('loaded');
+      }, 200 + 100 * index);
+    };
+    imgElement.src = src;
   });
-  const h1 = document.querySelectorAll('h1.home-title-1');
-  h1[0].innerHTML = "xLiveWallpaper"
+
+  // Pagination scroll indicators
+  const paginationContainer = document.getElementById('pagination-container');
+  const prevIndicator = document.getElementById('pagination-prev');
+  const nextIndicator = document.getElementById('pagination-next');
+
+  if (paginationContainer) {
+    const updateScrollIndicators = () => {
+      const { scrollLeft, scrollWidth, clientWidth } = paginationContainer;
+      const isAtStart = scrollLeft < 10;
+      const isAtEnd = scrollLeft + clientWidth >= scrollWidth - 10;
+
+      prevIndicator.classList.toggle('visible', !isAtStart);
+      nextIndicator.classList.toggle('visible', !isAtEnd);
+    };
+
+    paginationContainer.addEventListener('scroll', updateScrollIndicators);
+    updateScrollIndicators();
+
+    // Smooth scroll on indicator click
+    prevIndicator.addEventListener('click', () => {
+      paginationContainer.scrollBy({ left: -200, behavior: 'smooth' });
+    });
+
+    nextIndicator.addEventListener('click', () => {
+      paginationContainer.scrollBy({ left: 200, behavior: 'smooth' });
+    });
+  }
 </script>

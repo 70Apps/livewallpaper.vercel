@@ -51,7 +51,13 @@ layout: default
     {{ content }}
 
 <div class="page-content-preview-video">
-    <video src="{{ page.date | date: "/images/%Y/%m/%Y%m%d.mp4" }}" class="video_preview" Webkit-playsinline="true" disablePictureInPicture="true" disableRemotePlayback="true" autoplay="autoplay" loop="loop" playsinline="playsinline"></video>
+    <div class="iphone-frame">
+        <div class="iphone-notch"></div>
+        <div class="iphone-screen">
+            <video src="{{ page.date | date: "/images/%Y/%m/%Y%m%d.mp4" }}" class="video_preview" Webkit-playsinline="true" disablePictureInPicture="true" disableRemotePlayback="true" autoplay="autoplay" loop="loop" playsinline="playsinline"></video>
+        </div>
+        <div class="iphone-home-bar"></div>
+    </div>
 </div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4189184568187692"
      crossorigin="anonymous"></script>
@@ -91,6 +97,23 @@ layout: default
      <li><a href="/tags/#{{ tag[0] }}">{{ tag[0] }}</a></li>
    {% endfor %}
  </ul>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const videoContainer = document.querySelector('.page-content-preview-video');
+  const video = videoContainer?.querySelector('video');
+  
+  if (video) {
+    videoContainer.addEventListener('click', function() {
+      if (video.paused) {
+        video.play();
+      } else {
+        video.pause();
+      }
+    });
+  }
+});
+</script>
 </article>
 <style>
   .page-content:before {
