@@ -60,6 +60,10 @@ title: xLiveWallpaper
         <div class="iphone-frame">
           <div class="iphone-notch"></div>
           <div class="iphone-screen">
+            <div class="iphone-status-bar">
+              <div class="iphone-date">{{ post.date | date: "%A, %B %d" }}</div>
+              <div class="iphone-time">{{ post.date | date: "%l:%M" }}</div>
+            </div>
             <div class="wallpaper-preview" data-bg="{{ post.date | date: "/images/%Y/%m/%Y%m%d_preview.webp" }}"></div>
           </div>
           <div class="iphone-home-bar"></div>
@@ -157,6 +161,34 @@ title: xLiveWallpaper
 
     nextIndicator.addEventListener('click', () => {
       paginationContainer.scrollBy({ left: 200, behavior: 'smooth' });
+    });
+  }
+
+  // Mobile: Show status bar when wallpaper item enters viewport
+  const isMobile = () => window.innerWidth < 768;
+  
+  const statusBars = document.querySelectorAll('.iphone-status-bar');
+  const wallpaperItems = document.querySelectorAll('.wallpaper-item');
+  
+  if (isMobile() && wallpaperItems.length > 0) {
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        const statusBar = entry.target.querySelector('.iphone-status-bar');
+        if (statusBar) {
+          if (entry.isIntersecting) {
+            statusBar.style.opacity = '0.75';
+          } else {
+            statusBar.style.opacity = '0';
+          }
+        }
+      });
+    }, {
+      threshold: 0.3,
+      rootMargin: '-50px'
+    });
+
+    wallpaperItems.forEach(item => {
+      observer.observe(item);
     });
   }
 </script>
