@@ -166,6 +166,55 @@
   margin-bottom: $spacing-12;
 }
 
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: $spacing-12;
+}
+
+.footer-brand {
+  font-size: $font-size-sub-heading;
+  font-weight: $font-weight-bold;
+  color: $color-pure-white;
+  margin: 0;
+  letter-spacing: $letter-spacing-heading;
+}
+
+.footer-tagline {
+  font-size: $font-size-body;
+  color: $color-white-60;
+  margin: 0;
+  line-height: $line-height-body;
+}
+
+.footer-nav {
+  display: flex;
+  gap: $spacing-24;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.footer-link, .footer-link:visited {
+  font-size: $font-size-body;
+  font-weight: $font-weight-medium;
+  color: $color-white-60;
+  text-decoration: none;
+  transition: color 0.15s ease;
+
+  &:hover {
+    color: $color-pure-white;
+    text-decoration: none;
+  }
+}
+
+.footer-copyright {
+  font-size: $font-size-micro-label;
+  color: $color-white-40;
+  margin: $spacing-8 0 0;
+}
+
 .contact-list,
 .social-media-list {
   list-style: none;

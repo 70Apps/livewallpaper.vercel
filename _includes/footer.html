@@ -20,23 +20,24 @@
   }
     </script>
       </div>
-<center class="footer-heading">
-    <h2>
-      {{ site.me }}
-      </h2>
-<h3>{{ site.ad }}</h3>
-<h5>{{ site.copyright }}</h3>
-<a href='/'>Home</a> |
-<a href='/about/'>About</a> |
-<a href='/tags/'>Tags</a> |
-<a href='mailto:{{ site.email }}'>Contact Us</a>
-</center>
-    <div class="footer-col-wrapper">
+<div class="footer-content">
+  <h3 class="footer-brand">{{ site.me }}</h3>
+  <p class="footer-tagline">{{ site.ad }}</p>
+  <nav class="footer-nav">
+    <a href='/' class="footer-link">Home</a>
+    <a href='/about/' class="footer-link">About</a>
+    <a href='/tags/' class="footer-link">Tags</a>
+    <a href='mailto:{{ site.email }}' class="footer-link">Contact Us</a>
+  </nav>
+  <p class="footer-copyright">{{ site.copyright }}</p>
+</div>
+    <!-- <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
+          
         </ul>
       </div>
-    </div>
+    </div> -->
 
   </div>
 
