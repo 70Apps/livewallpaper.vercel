@@ -54,6 +54,10 @@ layout: default
     <div class="iphone-frame">
         <div class="iphone-notch"></div>
         <div class="iphone-screen">
+            <div class="iphone-status-bar">
+                <div class="iphone-date">{{ page.date | date: "%A, %B %d" }}</div>
+                <div class="iphone-time">{{ page.date | date: "%l:%M" }}</div>
+            </div>
             <video src="{{ page.date | date: "/images/%Y/%m/%Y%m%d.mp4" }}" class="video_preview" Webkit-playsinline="true" disablePictureInPicture="true" disableRemotePlayback="true" autoplay="autoplay" loop="loop" playsinline="playsinline"></video>
         </div>
         <div class="iphone-home-bar"></div>
@@ -102,8 +106,11 @@ layout: default
 document.addEventListener('DOMContentLoaded', function() {
   const videoContainer = document.querySelector('.page-content-preview-video');
   const video = videoContainer?.querySelector('video');
+  const statusBar = videoContainer?.querySelector('.iphone-status-bar');
   
-  if (video) {
+  // Desktop: Show status bar on hover
+  if (video && window.innerWidth >= 768) {
+    // Click to play/pause video
     videoContainer.addEventListener('click', function() {
       if (video.paused) {
         video.play();
@@ -111,6 +118,50 @@ document.addEventListener('DOMContentLoaded', function() {
         video.pause();
       }
     });
+    
+    // Show status bar on hover
+    videoContainer.addEventListener('mouseenter', function() {
+      if (statusBar) {
+        statusBar.style.opacity = '0.75';
+      }
+    });
+    
+    videoContainer.addEventListener('mouseleave', function() {
+      if (statusBar) {
+        statusBar.style.opacity = '0';
+      }
+    });
+  }
+  
+  // Mobile: Show status bar when video container enters viewport
+  const isMobile = () => window.innerWidth < 768;
+  
+  if (isMobile() && videoContainer && statusBar) {
+    // Click to play/pause video on mobile
+    if (video) {
+      videoContainer.addEventListener('click', function() {
+        if (video.paused) {
+          video.play();
+        } else {
+          video.pause();
+        }
+      });
+    }
+    
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          statusBar.style.opacity = '0.75';
+        } else {
+          statusBar.style.opacity = '0';
+        }
+      });
+    }, {
+      threshold: 0.3,
+      rootMargin: '-50px'
+    });
+
+    observer.observe(videoContainer);
   }
 });
 </script>

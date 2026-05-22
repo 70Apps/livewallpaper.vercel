@@ -472,6 +472,7 @@
   
   .iphone-time {
     font-size: 48px;
+    line-height: 120%;
     font-weight: 700;
     color: white;
     letter-spacing: 1px;
@@ -481,13 +482,34 @@
   
   .iphone-date {
     font-size: 12px;
+    line-height: 120%;
     color: rgba(255, 255, 255, 0.9);
     margin-top: 4px;
     text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
     display: block;
   }
 }
+.page-content-preview-video {
 
+  .iphone-notch {
+    top:24px;
+    width: 96px;
+    height: 24px;
+
+  }
+
+  .iphone-status-bar {
+    padding-top: 48px;
+    .iphone-time {
+      font-size: 72px;
+    }
+    
+    .iphone-date {
+      font-size: 16px;
+    }
+  }
+
+}
 .wallpaper-item:hover .iphone-status-bar {
   opacity: 0.75;
 }

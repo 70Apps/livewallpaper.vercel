@@ -4,7 +4,7 @@ category : movie
 title: My Neighbor Totoro Night Boat Ride Live Wallpaper
 description: No.20260303 龙猫 夜游 豌豆船风灯月夜动态壁纸
 keyword: Totoro, night, boat, pea pod, lantern, stream, moonlight, Ghibli, peaceful, magical
-tags : [Studio Ghibli]
+tags : [Studio Ghibli,Totoro]
 ---
 
 # No.20260303 My Neighbor Totoro Night Boat Ride Live Wallpaper

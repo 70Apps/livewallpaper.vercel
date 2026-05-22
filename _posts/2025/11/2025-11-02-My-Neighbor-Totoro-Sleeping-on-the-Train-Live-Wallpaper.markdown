@@ -4,7 +4,7 @@ category : movie
 title: My Neighbor Totoro Sleeping on the Train Live Wallpaper
 description: No.20251102 龙猫 火车上好好睡 动态壁纸
 keyword: Totoro, Mei, train, sleep, cozy, small Totoros, Ghibli, Studio Ghibli, peaceful, journey
-tags : [Studio Ghibli]
+tags : [Studio Ghibli,Totoro]
 ---
 
 # No.20251102 My Neighbor Totoro Sleeping on the Train Live Wallpaper

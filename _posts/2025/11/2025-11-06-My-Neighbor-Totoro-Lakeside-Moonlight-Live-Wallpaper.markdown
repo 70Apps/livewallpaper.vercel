@@ -4,7 +4,7 @@ category : movie
 title: My Neighbor Totoro Lakeside Moonlight Live Wallpaper
 description: No.20251106 龙猫 湖畔月光 动态壁纸
 keyword: Totoro, Mei, lake, moonlight, night, peaceful, magical, Ghibli, Studio Ghibli, serene
-tags : [Studio Ghibli]
+tags : [Studio Ghibli,Totoro]
 ---
 
 # No.20251106 My Neighbor Totoro Lakeside Moonlight Live Wallpaper

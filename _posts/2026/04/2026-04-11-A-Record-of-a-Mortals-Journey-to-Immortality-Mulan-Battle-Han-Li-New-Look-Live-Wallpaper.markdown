@@ -4,7 +4,7 @@ category : anime
 title: A Record of a Mortal's Journey to Journey Mulan Battle Han Li New Look Live Wallpaper
 description: No.20260411 凡人修仙传 慕兰之战 韩立新造型 2026新番 动态壁纸
 keyword: A Record of a Mortal's Journey to Immortality, Han Li, Mulan Battle, new look, 2026 anime, cultivation, immortal, sword, flying, action
-tags : [A Record of a Mortal's Journey to Immortality]
+tags : [HanLi]
 ---
 
 # No.20260411 A Record of a Mortal's Journey to Immortality Mulan Battle Han Li New Look Live Wallpaper
