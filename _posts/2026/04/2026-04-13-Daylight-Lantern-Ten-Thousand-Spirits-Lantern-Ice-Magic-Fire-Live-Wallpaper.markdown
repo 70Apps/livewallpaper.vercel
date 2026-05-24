@@ -1,6 +1,6 @@
 ---
 layout: post-wallpaper
-category : tv
+category : chinese
 title: Love Beyond the Grave Ten Thousand Spirits Lantern Ice Magic Fire Live Wallpaper
 description: No.20260413 白日提灯 万灵灯 冰系魔法火焰 动态壁纸
 keyword: Love Beyond the Grave, Ten Thousand Spirits Lantern, fantasy, ice magic, fire, female lead, Chinese drama, web series, magical, cool, mystical

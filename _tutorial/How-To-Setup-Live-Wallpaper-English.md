@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: tutorial
 category : Tutorial
 title: Guide to Setup live wallpaper for Android & iPhone
 description: This guide will teach you step-by-step how to download and set up the dedicated live wallpaper files provided by our website.

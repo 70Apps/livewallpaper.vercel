@@ -78,7 +78,9 @@
   text-decoration: none;
   cursor: pointer;
   transition: background 0.15s;
-
+  &:visited {
+    color: $color-pure-white;
+  }
   &:hover {
     background: $color-purple-dark;
     color: $color-pure-white;
@@ -549,9 +551,10 @@
   font-size: 13px;
   font-weight: $font-weight-medium;
   color: $color-white-80;
-  white-space: nowrap;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
   overflow: hidden;
-  text-overflow: ellipsis;
   margin-bottom: $spacing-6;
   transition: color 0.2s ease;
   

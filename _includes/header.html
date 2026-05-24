@@ -5,8 +5,9 @@
   </a>
   
   <ul class="nav-links">
-    <li><a href="{{ "/" | prepend: site.baseurl }}" class="active">Home</a></li>
+    <li><a href="{{ "/" | prepend: site.baseurl }}">Home</a></li>
     <li><a href="https://app.xlivewallpaper.com/">App</a></li>
+    <li><a href="{{ "/tutorial/How-To-Setup-Live-Wallpaper-English.html" | prepend: site.baseurl }}">Tutorial</a></li>
     <li><a href="{{ "/about" | prepend: site.baseurl }}">About</a></li>
   </ul>
   
@@ -21,3 +22,35 @@
     </a>
   </div>
 </header>
+
+  <script>
+    (function() {
+      var path = window.location.pathname.replace(/\/$/, '') || '/';
+      var links = document.querySelectorAll('.nav .nav-links a');
+      console.log(links);
+      var bestMatch = null, bestLen = 0;
+      
+      links.forEach(function(link) {
+        var href = link.getAttribute('href').replace(/\/$/, '') || '/';
+        if (path === href) {
+          bestMatch = link;
+          bestLen = href.length + 1000;
+        } else if (href !== '' && href !== '/' && path.startsWith(href) && href.length > bestLen) {
+          bestMatch = link;
+          bestLen = href.length;
+        }
+      });
+      
+      if (!bestMatch) {
+        links.forEach(function(link) {
+          if ((link.getAttribute('href').replace(/\/$/, '') || '/') === '/') {
+            bestMatch = link;
+          }
+        });
+      }
+      
+      if (bestMatch) {
+        bestMatch.classList.add('active');
+      }
+    })();
+  </script>
