@@ -29,10 +29,10 @@ layout: default
 
   <div class="post-content" itemprop="articleBody">
 
-    <div class="page-content-preview-image"><img src="{{ page.date | date: "/images/%Y/%m/%Y%m%d.webp" }}"></div>
+    <div class="page-content-preview-image"><img src="{{ page.date | date: "/images/%Y/%m/%Y%m%d_ipad.webp" }}"></div>
     <div class="page-content-buttons">
       <a href="https://locklive.gumroad.com/l/vip">加入VIP俱樂部</a>
-      <a href="{{site.app_link}}">下載 iPhone App</a>
+      <a href="{{site.app_link}}">下載 iPad App</a>
       </div>
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4189184568187692"
            crossorigin="anonymous"></script>
@@ -51,16 +51,15 @@ layout: default
     {{ content }}
 
 <div class="page-content-preview-video">
-    <div class="iphone-frame">
-        <div class="iphone-notch"></div>
-        <div class="iphone-screen">
-            <div class="iphone-status-bar">
-                <div class="iphone-date">{{ page.date | date: "%A, %B %d" }}</div>
-                <div class="iphone-time">{{ page.date | date: "%l:%M" }}</div>
+    <div class="ipad-frame">
+        <div class="ipad-notch"></div>
+        <div class="ipad-screen">
+            <div class="ipad-status-bar">
+                <div class="ipad-date">{{ page.date | date: "%A, %B %d" }}</div>
+                <div class="ipad-time">{{ page.date | date: "%l:%M" }}</div>
             </div>
-            <video src="{{ page.date | date: "/images/%Y/%m/%Y%m%d.mp4" }}" class="video_preview" Webkit-playsinline="true" disablePictureInPicture="true" disableRemotePlayback="true" autoplay="autoplay" loop="loop" playsinline="playsinline"></video>
+            <video src="{{ page.date | date: "/images/%Y/%m/%Y%m%d_ipad.mp4" }}" class="video_preview" Webkit-playsinline="true" disablePictureInPicture="true" disableRemotePlayback="true" autoplay="autoplay" loop="loop" playsinline="playsinline"></video>
         </div>
-        <div class="iphone-home-bar"></div>
     </div>
 </div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4189184568187692"
@@ -80,10 +79,10 @@ layout: default
 </script>
 {% include wallpage-help-tc.html %}
 
-    <div class="page-content-preview-image"><img src="{{ page.date | date: "/images/%Y/%m/%Y%m%d.webp" }}"></div>
+    <div class="page-content-preview-image"><img src="{{ page.date | date: "/images/%Y/%m/%Y%m%d_ipad.webp" }}"></div>
     <div class="page-content-buttons">
       <a href="https://locklive.gumroad.com/l/vip">Join Club Now</a>
-      <a href="{{site.app_link}}">Download iPhone App</a>
+      <a href="{{site.app_link}}">Download iPad App</a>
       </div>
 
   </div>
@@ -106,7 +105,7 @@ layout: default
 document.addEventListener('DOMContentLoaded', function() {
   const videoContainer = document.querySelector('.page-content-preview-video');
   const video = videoContainer?.querySelector('video');
-  const statusBar = videoContainer?.querySelector('.iphone-status-bar');
+  const statusBar = videoContainer?.querySelector('.ipad-status-bar');
   
   // Desktop: Show status bar on hover
   if (video && window.innerWidth >= 768) {

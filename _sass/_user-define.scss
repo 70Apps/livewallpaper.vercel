@@ -233,6 +233,10 @@ ul.site-tags-list li a {
   max-width: 300px;
 }
 
+.page-content-preview-video .ipad-frame {
+  max-width: 600px;
+}
+
 .page-content-preview-video video {
   position: absolute;
   inset: 0;
@@ -243,6 +247,11 @@ ul.site-tags-list li a {
 
 @include media-query($on-palm) {
   .page-content-preview-video .iphone-frame {
+    max-width: 90%;
+  }
+}
+@include media-query($on-palm) {
+  .page-content-preview-video .ipad-frame {
     max-width: 90%;
   }
 }
