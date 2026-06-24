@@ -1,0 +1,64 @@
+---
+layout: default
+---
+
+<div class="month-page">
+  <section class="month-hero">
+    <h1 class="month-title">{{ page.year }}.{{ page.month }} iPhone Wallpapers</h1>
+    <p class="month-subtitle">{{ page.total }} live wallpapers updated this month</p>
+  </section>
+
+  <div class="wallpaper-grid-container">
+    <div class="wallpaper-grid">
+      {% assign month_str = page.year | append: '-' | append: page.month %}
+      {% assign month_posts = '' | split: '' %}
+      {% for post in site.iphone-wallpaper %}
+        {% assign post_month = post.date | date: "%Y-%m" %}
+        {% if post_month == month_str %}
+          {% assign month_posts = month_posts | push: post %}
+        {% endif %}
+      {% endfor %}
+
+      {% assign sorted_posts = month_posts | sort: 'date' | reverse %}
+      {% for post in sorted_posts %}
+      <a class="wallpaper-item" href="{{ post.url | prepend: site.baseurl }}">
+        <div class="iphone-frame">
+          <div class="iphone-notch"></div>
+          <div class="iphone-screen">
+            <div class="iphone-status-bar">
+              <div class="iphone-date">{{ post.date | date: "%A, %B %d" }}</div>
+              <div class="iphone-time">{{ post.date | date: "%l:%M" }}</div>
+            </div>
+            <div class="wallpaper-preview" data-bg="{{ post.date | date: "/images/%Y/%m/%Y%m%d_preview.webp" }}"></div>
+          </div>
+        </div>
+        <div class="wallpaper-item-info">
+          <div class="wallpaper-item-title">{{ post.title }}</div>
+          <div class="wallpaper-item-meta">
+            <span class="wallpaper-item-category">{{ post.category | default: "Live" }}</span>
+            <span class="wallpaper-item-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+          </div>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+  {% include iphone-wallpaper-links.html %}
+</div>
+
+<script>
+  // Lazy load wallpaper previews with fade-in animation
+  const wallpaperList = document.querySelectorAll('.wallpaper-preview');
+  wallpaperList.forEach((preview, index) => {
+    let src = preview.getAttribute('data-bg');
+    const imgElement = new Image();
+    imgElement.onload = function() {
+      preview.style.backgroundImage = "url('" + src + "')";
+      setTimeout(function () {
+        preview.style.opacity = 1;
+        preview.classList.add('loaded');
+      }, 200 + 100 * index);
+    };
+    imgElement.src = src;
+  });
+</script>

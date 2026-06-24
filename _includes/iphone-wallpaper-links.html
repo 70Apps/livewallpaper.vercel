@@ -1,0 +1,75 @@
+<style>
+  .month-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 20px;
+    margin: 16px 0 24px;
+    align-items: center;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+  .year-group {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    flex-wrap: wrap;
+  }
+  .year-label {
+    font-size: 13px;
+    font-weight: 600;
+    color: rgba(255,255,255,0.40);
+    letter-spacing: -0.25px;
+    min-width: 36px;
+  }
+  .year-separator {
+    font-size: 12px;
+    color: rgba(255,255,255,0.20);
+    margin-right: 2px;
+  }
+  .month-link {
+    display: inline-flex;
+    align-items: center;
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-size: 12px;
+    font-weight: 500;
+    color: rgba(255,255,255,0.60);
+    text-decoration: none;
+    transition: all 0.15s ease;
+    background: transparent;
+    border: 1px solid transparent;
+  }
+  .month-link:hover {
+    background: rgba(255,255,255,0.08);
+    color: #ffffff;
+    border-color: rgba(255,255,255,0.06);
+  }
+  .month-link.active {
+    background: rgba(139,92,246,0.12);
+    color: #a78bfa;
+    border-color: rgba(139,92,246,0.25);
+  }
+</style>
+
+{% assign all_months = '' | split: '' %}
+{% for post in site.iphone-wallpaper %}
+  {% assign ym = post.date | date: "%Y-%m" %}
+  {% assign all_months = all_months | push: ym %}
+{% endfor %}
+{% assign unique_months = all_months | uniq | sort | reverse %}
+
+<nav class="month-links">
+  {% assign current_year = '' %}
+  {% for ym in unique_months %}
+    {% assign year = ym | split: '-' | first %}
+    {% assign month = ym | split: '-' | last %}
+    {% if year != current_year %}
+      {% if current_year != '' %}</div>{% endif %}
+      <div class="year-group">
+      <span class="year-label">{{ year }}</span>
+      <span class="year-separator">｜</span>
+      {% assign current_year = year %}
+    {% endif %}
+    <a class="month-link" href="/iphone-wallpaper/{{ year }}/{{ month }}/">{{ month | plus: 0 }}月</a>
+  {% endfor %}
+  {% if current_year != '' %}</div>{% endif %}
+</nav>

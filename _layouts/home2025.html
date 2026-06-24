@@ -49,76 +49,77 @@ title: xLiveWallpaper
 
   <!-- Stats Bar -->
   <div class="stats-bar">
-    <span class="stats-text">Showing {{ site.iphone-wallpaper.size }} iPhone and {{ site.ipad-wallpaper.size }} iPad wallpapers</span>
+    <span class="stats-text">Showing {{ paginator.total_posts }} wallpapers</span>
     <div class="sort-options">
       <span class="sort-option active">Latest</span>
       <span class="sort-option">Popular</span>
     </div>
   </div>
-  
-  <!-- iPhone Collections Section -->
-  <section class="collections-section">
-    <h2 class="section-title">iPhone Collections</h2>
-    <div class="wallpaper-grid-container">
-      <div class="wallpaper-grid">
-        {% assign sorted_posts = site.iphone-wallpaper | where_exp: "item", "item.name != 'index.html'" | sort: 'date' | reverse %}
-        {% for post in sorted_posts limit:24 %}
-        <a class="wallpaper-item" href="{{ post.url | prepend: site.baseurl }}">
-          <div class="iphone-frame">
-            <div class="iphone-notch"></div>
-            <div class="iphone-screen">
-              <div class="iphone-status-bar">
-                <div class="iphone-date">{{ post.date | date: "%A, %B %d" }}</div>
-                <div class="iphone-time">{{ post.date | date: "%l:%M" }}</div>
-              </div>
-              <div class="wallpaper-preview" data-bg="{{ post.date | date: "/images/%Y/%m/%Y%m%d_preview.webp" }}"></div>
+  <!-- Wallpaper Grid -->
+  <div class="wallpaper-grid-container">
+    <div class="wallpaper-grid">
+      {% for post in paginator.posts %}
+      <a class="wallpaper-item" href="{{ post.url | prepend: site.baseurl }}">
+        <div class="iphone-frame">
+          <div class="iphone-notch"></div>
+          <div class="iphone-screen">
+            <div class="iphone-status-bar">
+              <div class="iphone-date">{{ post.date | date: "%A, %B %d" }}</div>
+              <div class="iphone-time">{{ post.date | date: "%l:%M" }}</div>
             </div>
+            <div class="wallpaper-preview" data-bg="{{ post.date | date: "/images/%Y/%m/%Y%m%d_preview.webp" }}"></div>
           </div>
-          <div class="wallpaper-item-info">
-            <div class="wallpaper-item-title">{{ post.title }}</div>
-            <div class="wallpaper-item-meta">
-              <span class="wallpaper-item-category">{{ post.category | default: "Live" }}</span>
-              <span class="wallpaper-item-date">{{ post.date | date: "%Y-%m-%d" }}</span>
-            </div>
+          <div class="iphone-home-bar"></div>
+        </div>
+        <div class="wallpaper-item-info">
+          <div class="wallpaper-item-title">{{ post.title }}</div>
+          <div class="wallpaper-item-meta">
+            <span class="wallpaper-item-category">{{ post.category | default: "Live" }}</span>
+            <span class="wallpaper-item-date">{{ post.date | date: "%Y-%m-%d" }}</span>
           </div>
-        </a>
-        {% endfor %}
-      </div>
+        </div>
+      </a>
+      {% endfor %}
     </div>
-    {% include iphone-wallpaper-links.html %}
-  </section>
-
-  <!-- iPad Collections Section -->
-  <section class="collections-section">
-    <h2 class="section-title">iPad Collections</h2>
-    <div class="wallpaper-grid-container">
-      <div class="wallpaper-grid ipad-wallpaper-grid">
-        {% assign sorted_posts = site.ipad-wallpaper | where_exp: "item", "item.name != 'index.html'" | sort: 'date' | reverse %}
-        {% for post in sorted_posts limit:24 %}
-        <a class="wallpaper-item" href="{{ post.url | prepend: site.baseurl }}">
-          <div class="ipad-frame">
-            <div class="ipad-screen">
-              <div class="ipad-status-bar">
-                <div class="ipad-date">{{ post.date | date: "%A, %B %d" }}</div>
-                <div class="ipad-time">{{ post.date | date: "%l:%M" }}</div>
-              </div>
-              <div class="wallpaper-preview" data-bg="{{ post.date | date: "/images/%Y/%m/%Y%m%d_preview_ipad.webp" }}"></div>
-            </div>
-          </div>
-          <div class="wallpaper-item-info">
-            <div class="wallpaper-item-title">{{ post.title }}</div>
-            <div class="wallpaper-item-meta">
-              <span class="wallpaper-item-category">{{ post.category | default: "Live" }}</span>
-              <span class="wallpaper-item-date">{{ post.date | date: "%Y-%m-%d" }}</span>
-            </div>
-          </div>
-        </a>
-        {% endfor %}
-      </div>
+  </div>
+  <!-- Pagination -->
+  {% if paginator.total_pages > 1 %}
+  <div class="pagination-wrapper">
+    <div class="pagination-scroll-indicator left" id="pagination-prev">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="15 18 9 12 15 6"></polyline>
+      </svg>
     </div>
-    {% include ipad-wallpaper-links.html %}
-  </section>
+    <div class="pagination" id="pagination-container">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | relative_url }}">Prev</a>
+      {% else %}
+        <span>Prev</span>
+      {% endif %}
 
+      {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+          <em>{{ page }}</em>
+        {% elsif page == 1 %}
+          <a href="{{ site.paginate_path | relative_url | replace: 'page-:num/', '' }}">{{ page }}</a>
+        {% else %}
+          <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+        {% endif %}
+      {% endfor %}
+
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | relative_url }}">Next</a>
+      {% else %}
+        <span>Next</span>
+      {% endif %}
+    </div>
+    <div class="pagination-scroll-indicator right" id="pagination-next">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <polyline points="9 18 15 12 9 6"></polyline>
+      </svg>
+    </div>
+  </div>
+  {% endif %}
 </div>
 
 <script>
