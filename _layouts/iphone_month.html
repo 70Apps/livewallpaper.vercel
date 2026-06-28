@@ -19,7 +19,7 @@ layout: default
         {% endif %}
       {% endfor %}
 
-      {% assign sorted_posts = month_posts | sort: 'date' | reverse %}
+      {% assign sorted_posts = month_posts | where_exp: "item", "item.name != 'index.html'" | sort: 'date' | reverse %}
       {% for post in sorted_posts %}
       <a class="wallpaper-item" href="{{ post.url | prepend: site.baseurl }}">
         <div class="iphone-frame">
