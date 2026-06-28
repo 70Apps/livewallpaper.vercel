@@ -4,7 +4,7 @@ category : anime
 title: Saint Seiya Saori Kido Live Wallpaper
 description: No.20260927 聖鬥士星矢 紗織 動態壁紙
 keyword: Saint Seiya,Saori Kido,圣斗士星矢,城户沙织,聖鬥士星矢,城戶沙織,聖闘士星矢,沙織,세인트세이야,사오리
-tags : [SaintSeiya,Saori,Anime,Athena]
+tags : [Saint Seiya, Saori, Athena]
 ---
 
 # No.20260927 Saint Seiya Saori Kido Live Wallpaper

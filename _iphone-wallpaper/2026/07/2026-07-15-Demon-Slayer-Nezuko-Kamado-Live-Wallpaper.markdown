@@ -4,7 +4,7 @@ category: anima
 title: Demon Slayer Nezuko Kamado Live Wallpaper
 description: 20260715鬼滅之刃盛裝竈門禰豆子壁紙，酷炫的盛裝竈門禰豆子給你手機添加一絲活力
 keyword: Demon Slayer, Nezuko Kamado, anime, cool, live wallpaper, cute
-tags: [Demon Slayer, Nezuko Kamado, anime, cute, kimono]
+tags: [Demon Slayer, Nezuko Kamado]
 ---
 
 # No.20260715 鬼滅之刃 盛裝竈門禰豆子（酷炫的盛裝竈門禰豆子給你手機添加一絲活力）

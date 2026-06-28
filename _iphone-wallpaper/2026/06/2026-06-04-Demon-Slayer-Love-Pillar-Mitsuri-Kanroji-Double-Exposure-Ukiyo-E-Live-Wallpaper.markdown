@@ -4,7 +4,7 @@ category: anime
 title: Demon Slayer Love Pillar Mitsuri Kanroji Double Exposure Ukiyo-E Cinematic Live Wallpaper
 description: 20260604鬼滅之刃戀柱甘露寺蜜璃（雙重曝光浮世繪電影海報風格動態壁紙）
 keyword: demon slayer, love pillar, mitsuri kanroji, double exposure, ukiyo-e style, cinematic, movie poster, hashira, anime
-tags: [Demon Slayer, Love Pillar, Mitsuri Kanroji]
+tags: [Demon Slayer, Mitsuri Kanroji]
 ---
 # No.20260604 Demon Slayer Love Pillar Mitsuri Kanroji Double Exposure Ukiyo-E
 

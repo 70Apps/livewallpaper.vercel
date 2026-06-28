@@ -4,7 +4,7 @@ category: game
 title: Genshin Impact Mavuika Live Wallpaper
 description: 20260722原神焚夜以炎壁紙，塗鴉背景牆下的火神瑪薇卡酷帥登場
 keyword: Genshin Impact, Mavuika, Pyro Archon, graffiti, cool, live wallpaper
-tags: [Genshin Impact, Mavuika, graffiti, Pyro Archon]
+tags: [Genshin Impact, Mavuika, Pyro Archon]
 ---
 
 # No.20260722 Genshin Impact Mavuika (Cool Mavuika on Graffiti Background Wall)

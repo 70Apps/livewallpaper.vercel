@@ -4,7 +4,7 @@ category: anime
 title: One Piece Chibi Zoro Ready To Battle Live Wallpaper
 description: One Piece Q版佐羅可愛準備戰鬥，拔刀在手，充滿冒險氛圍的動態壁紙
 keyword: One Piece,Chibi Zoro,Zoro,Ready to Battle,Live Wallpaper,Cute Swordsman
-tags: [One Piece,Chibi Zoro,Zoro,Battle-Ready]
+tags: [One Piece, Chibi Zoro, Zoro]
 ---
 
 # No.20260429 One Piece Chibi Zoro Ready To Battle Live Wallpaper

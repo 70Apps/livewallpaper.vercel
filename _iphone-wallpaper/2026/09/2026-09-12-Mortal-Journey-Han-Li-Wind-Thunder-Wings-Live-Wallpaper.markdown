@@ -4,7 +4,7 @@ category : anime
 title: Mortal Journey Han Li Wind Thunder Wings Live Wallpaper
 description: No.20260912 凡人修仙傳 韓立的風雷翅 動態壁紙
 keyword: MortalJourney,HanLi,凡人修仙传,韩立,凡人修仙傳,韓立,凡人修仙伝,韓立,범인수선전,한립
-tags : [MortalJourney,HanLi,Anime,Cultivation,WindThunder,Wings]
+tags : ["A Record of a Mortal's Journey to Immortality", Han Li]
 ---
 
 # No.20260912 Mortal Journey Han Li Wind Thunder Wings Live Wallpaper

@@ -4,7 +4,7 @@ category : animation
 title: Sword Coming Chen Ping'an Angry Flames Live Wallpaper
 description: No.20260307 剑来 陈平安也有火气 愤怒火焰特写动态壁纸
 keyword: 剑来, 陈平安, 愤怒, 火焰, 特写, 国漫, 中国动画, 霸气, 眼神
-tags : [Chinese Animation]
+tags : []
 ---
 
 # No.20260307 Sword Coming Chen Ping'an Angry Flames Live Wallpaper

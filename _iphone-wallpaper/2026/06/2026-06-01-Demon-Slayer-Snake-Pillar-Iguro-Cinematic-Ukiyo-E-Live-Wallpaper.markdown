@@ -4,7 +4,7 @@ category: anime
 title: Demon Slayer Snake Pillar Iguro Cinematic Ukiyo-E Live Wallpaper
 description: 20260601 鬼灭之刃蛇柱伊黑小芭内（双重曝光浮世绘电影海报风格动态壁纸）
 keyword: demon slayer, snake pillar, iguro, double exposure, ukiyo-e style, cinematic, movie poster, hashira, anime
-tags: [Demon Slayer, Ukiyo-E Style, Anime]
+tags: [Demon Slayer]
 ---
 
 # No.20260601 Demon Slayer Snake Pillar Iguro Cinematic Ukiyo-E

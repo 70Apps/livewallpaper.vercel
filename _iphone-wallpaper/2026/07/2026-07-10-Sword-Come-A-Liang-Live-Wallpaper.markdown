@@ -4,7 +4,7 @@ category: drama
 title: Sword Come A Liang Thick Paint Comic Style Live Wallpaper
 description: 20260710劍來阿良厚塗漫畫風格壁紙，全新演繹劍來阿良的風采
 keyword: Sword Come, A Liang, thick paint, comic style, live wallpaper, sword, martial arts
-tags: [Sword Come, A Liang, thick paint, comic style, martial arts, sword]
+tags: [Sword of Coming, A Liang]
 ---
 
 # No.20260710 劍來 阿良（厚塗漫畫風格壁紙，全新演繹劍來阿良的風采）

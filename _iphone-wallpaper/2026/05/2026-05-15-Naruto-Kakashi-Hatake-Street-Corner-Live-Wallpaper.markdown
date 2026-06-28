@@ -4,7 +4,7 @@ category : anime
 title: Naruto Kakashi Hatake Street Corner Live Wallpaper
 description: No.20260515 火影忍者 卡卡西 動態壁紙 卡卡西在街角閃現
 keyword: Naruto, Kakashi Hatake, anime, street corner, flash, copy ninja, sharingan, lightning blade, mysterious, jonin, konoha
-tags: [Naruto, Kakashi Hatake, Anime]
+tags: [Naruto, Kakashi Hatake]
 ---
 
 # No.20260515 Naruto Kakashi Hatake Street Corner Live Wallpaper

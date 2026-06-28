@@ -4,7 +4,7 @@ category: anime
 title: Demon Slayer Flame Pillar Kyojuro Rengoku Double Exposure Ukiyo-E Cinematic Live Wallpaper
 description: 20260606鬼滅之刃炎柱煉獄杏壽郎（雙重曝光浮世繪電影海報風格動態壁紙）
 keyword: demon slayer, flame pillar, kyojuro rengoku, double exposure, ukiyo-e style, cinematic, movie poster, hashira, anime, fire
-tags: [Demon Slayer, Flame Pillar, Kyojuro Rengoku]
+tags: [Demon Slayer, Kyojuro Rengoku]
 ---
 # No.20260606 Demon Slayer Flame Pillar Kyojuro Rengoku Double Exposure Ukiyo-E
 

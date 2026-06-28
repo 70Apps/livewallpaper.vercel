@@ -4,7 +4,7 @@ category: cartoon
 title: Super Hero Q Version Batman Throwing Batarang Live Wallpaper
 description: 超級英雄 Q版蝙蝠俠（可愛的Q版蝙蝠俠對著鏡頭打出蝙蝠鏢）
 keyword: Super Hero, Q Version Batman, Batarang, Live Wallpaper
-tags: [Super Hero, Batman]
+tags: [Batman]
 ---
 
 # No.20260427 超级英雄 Q版蝙蝠侠（可爱的Q版蝙蝠侠对着镜头打出蝙蝠镖）

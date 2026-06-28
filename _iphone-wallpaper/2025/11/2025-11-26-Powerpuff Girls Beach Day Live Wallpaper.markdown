@@ -4,7 +4,7 @@ category : Cartoon
 title: Powerpuff Girls Beach Day Live Wallpaper
 description: No.20251126 飛天小女警海灘假日動態壁紙
 keyword: Cartoon, Comics, Powerpuff
-tags : [Cartoon,Powerpuff]
+tags : [Powerpuff Girls]
 ---
 
 # No.20251126🌊飛天小女警海灘假日動態壁紙

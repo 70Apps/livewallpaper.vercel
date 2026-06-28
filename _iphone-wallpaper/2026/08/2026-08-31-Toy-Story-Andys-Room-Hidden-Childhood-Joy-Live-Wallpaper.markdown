@@ -4,7 +4,7 @@ category : cartoon
 title: Toy Story Andys Room Hidden Childhood Joy Live Wallpaper
 description: No.20260831 玩具總動員 安迪的房間 安迪的房間裡藏著我們一整個童年的快樂 動態壁紙
 keyword: ToyStory,AndysRoom,玩具总动员,安迪的房间,玩具總動員,安迪的房間,トイ・ストーリー,アンディの部屋,토이스토리,앤디의방
-tags : [ToyStory,AndysRoom,Disney,Cartoon,Childhood]
+tags : [Toy Story, "Andy's Room", Disney]
 ---
 
 # No.20260831 Toy Story Andys Room Hidden Childhood Joy Live Wallpaper

@@ -4,7 +4,7 @@ category: game
 title: Inter Milan Football Club Mecha Power Live Wallpaper
 description: 20260626豪門球隊-國際米蘭（機甲與足球豪門的碰撞，男人無法抗拒的力量展示）
 keyword: inter milan, football club, soccer, mecha, nerazzurri, serie a, san siro
-tags: [Inter Milan, Football Club, Nerazzurri]
+tags: [Inter Milan]
 ---
 # No.20260626 Inter Milan Football Club Mecha Power Live Wallpaper
 

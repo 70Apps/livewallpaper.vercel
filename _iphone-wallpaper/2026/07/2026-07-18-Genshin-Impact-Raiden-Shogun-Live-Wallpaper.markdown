@@ -4,7 +4,7 @@ category: game
 title: Genshin Impact Raiden Shogun Live Wallpaper
 description: 20260718原神雷電將軍壁紙，塗鴉背景牆下的雷電將軍酷帥登場
 keyword: Genshin Impact, Raiden Shogun, graffiti, cool, live wallpaper, Electro Archon
-tags: [Genshin Impact, Raiden Shogun, graffiti, Electro Archon]
+tags: [Genshin Impact, Raiden Shogun, Electro Archon]
 ---
 
 # No.20260718 Genshin Impact Raiden Shogun (Cool Raiden Shogun on Graffiti Background Wall)

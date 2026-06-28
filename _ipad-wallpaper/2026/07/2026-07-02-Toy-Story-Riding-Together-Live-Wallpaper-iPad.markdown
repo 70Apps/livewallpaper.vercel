@@ -4,7 +4,7 @@ category : cartoon
 title: Toy Story Riding Together Live Wallpaper
 description: No.20260702 玩具總動員 一起騎馬 動態壁紙
 keyword: Toy Story,Woody,玩具总动员,胡迪,玩具總動員,胡迪,トイストーリー,ウッディ,토이스토리,우디
-tags : [ToyStory,Woody,Cartoon,Pixar]
+tags : [Toy Story, Woody]
 ---
 
 # No.20260702 Toy Story Riding Together Live Wallpaper

@@ -4,7 +4,7 @@ category : cartoon
 title: Doraemon Nobita in the Sky Live Wallpaper
 description: No.20260909 哆啦A夢 空中的大雄 動態壁紙
 keyword: Doraemon,Nobita,哆啦A梦,大雄,哆啦A夢,大雄,ドラえもん,のび太,도라에몽,노비타
-tags : [Doraemon,Nobita,Cartoon,Anime,Sky,Flying]
+tags : [Doraemon, Nobita]
 ---
 
 # No.20260909 Doraemon Nobita in the Sky Live Wallpaper

@@ -4,7 +4,7 @@ category : cartoon
 title: SpongeBob SquarePants Let's Dance Together Live Wallpaper
 description: No.20260204 海绵宝宝 一起来跳舞 动态壁纸
 keyword: SpongeBob, dance, hip-hop, street dance, fun, cheerful, cartoon, playful, Nickelodeon
-tags : [SpongeBob]
+tags : [SpongeBob SquarePants]
 ---
 
 # No.20260204 SpongeBob SquarePants Let's Dance Together Live Wallpaper

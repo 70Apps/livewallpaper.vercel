@@ -4,7 +4,7 @@ category: cartoon
 title: Four Cats Gang Cute Kittens Expressions Live Wallpaper
 description: 20260613四貓幫（超級可愛的4隻小貓咪各種表情陪伴你）
 keyword: four cats, kittens, cat gang, cute cats, cat expressions, adorable pets, animal live wallpaper, companionship
-tags: [Four Cats, Kittens, Cute Animals]
+tags: []
 ---
 # No.20260613 Four Cats Gang Cute Kittens Expressions
 

@@ -4,7 +4,7 @@ category : anime
 title: Saint Seiya Andromeda Shun Live Wallpaper
 description: No.20261001 聖鬥士星矢 瞬 動態壁紙
 keyword: Saint Seiya,Andromeda Shun,圣斗士星矢,瞬,聖鬥士星矢,瞬,聖闘士星矢,瞬,세인트세이야,슌
-tags : [SaintSeiya,Shun,Anime,Andromeda]
+tags : [Saint Seiya, Shun, Andromeda]
 ---
 
 # No.20261001 Saint Seiya Andromeda Shun Live Wallpaper

@@ -4,7 +4,7 @@ category: anima
 title: "EVA Rei Ayanami Sweet Smile in Battle Suit live wallpaper"
 description: "EVA 綾波麗 身穿戰鬥服的綾波麗甜美微笑，充滿未來機甲與少女溫柔光彩。"
 keyword: "EVA,Rei-Ayanami,Evangelion,Battle-Suit,Live-Wallpaper"
-tags: [EVA,Rei-Ayanami,Evangelion,Battle-Suit]
+tags: [EVA, Rei Ayanami, Battle Suit]
 ---
 
 # No.20260430 EVA Rei Ayanami Sweet Smile in Battle Suit

@@ -4,7 +4,7 @@ category : apple
 title: Apple WWDC 2026 Live Wallpaper
 description: No.20260915 Apple WWDC 2026 動態壁紙
 keyword: Apple,WWDC,Apple,苹果,苹果,Apple,蘋果,アップル,アップル,애플,애플
-tags : [Apple,WWDC,Technology,Event]
+tags : []
 ---
 
 # No.20260915 Apple WWDC 2026 Live Wallpaper

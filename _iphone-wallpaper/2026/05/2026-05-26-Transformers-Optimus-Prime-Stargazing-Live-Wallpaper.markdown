@@ -4,7 +4,7 @@ category : movie
 title: Transformers Optimus Prime Stargazing Live Wallpaper
 description: No.20260526 變形金剛 擎天柱 動態壁紙 擎天柱仰望星空，機械之光閃耀
 keyword: Transformers, Optimus Prime, movie, stargazing, mechanical light, shining, Autobot, leader, cosmic, stars, robot
-tags: [Transformers, Optimus Prime, Movie]
+tags: [Transformers, Optimus Prime]
 ---
 
 # No.20260526 Transformers Optimus Prime Stargazing Live Wallpaper

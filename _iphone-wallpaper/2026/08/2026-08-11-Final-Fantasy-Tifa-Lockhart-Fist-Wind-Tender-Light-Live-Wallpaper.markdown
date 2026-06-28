@@ -4,7 +4,7 @@ category : game
 title: Final Fantasy Tifa Lockhart Fist Wind Tender Light Live Wallpaper
 description: No.20260811 最终幻想 蒂法 拳风与温柔并存，她是米德加永不褪色的光 动态壁纸
 keyword: Final Fantasy,Tifa Lockhart,最终幻想,蒂法,最終幻想,蒂法,ファイナルファンタジー,ティファ・ロックハート,파이널판타지,티파 록하트
-tags : [FinalFantasy,Game,Tifa]
+tags : [Final Fantasy, Tifa]
 ---
 
 # No.20260811 Final Fantasy Tifa Lockhart Fist Wind Tender Light Live Wallpaper

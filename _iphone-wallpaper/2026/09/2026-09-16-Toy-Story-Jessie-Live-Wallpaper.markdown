@@ -4,7 +4,7 @@ category : cartoon
 title: Toy Story Jessie Live Wallpaper
 description: No.20260916 玩具總動員 翠絲 動態壁紙
 keyword: ToyStory,Jessie,玩具总动员,翠丝,玩具總動員,翠絲,トイストーリー,ジェシー,토이스토리,제시
-tags : [ToyStory,Jessie,Cartoon,Cowgirl,Western]
+tags : [Toy Story, Jessie, Cowgirl]
 ---
 
 # No.20260916 Toy Story Jessie Live Wallpaper

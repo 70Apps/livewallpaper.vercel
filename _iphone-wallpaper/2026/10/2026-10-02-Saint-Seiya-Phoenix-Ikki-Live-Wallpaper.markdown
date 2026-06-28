@@ -4,7 +4,7 @@ category : anime
 title: Saint Seiya Phoenix Ikki Live Wallpaper
 description: No.20261002 聖鬥士星矢 一輝 動態壁紙
 keyword: Saint Seiya,Phoenix Ikki,圣斗士星矢,一辉,聖鬥士星矢,一輝,聖闘士星矢,一輝,세인트세이야,이키
-tags : [SaintSeiya,Ikki,Anime,Phoenix]
+tags : [Saint Seiya, Ikki, Phoenix]
 ---
 
 # No.20261002 Saint Seiya Phoenix Ikki Live Wallpaper

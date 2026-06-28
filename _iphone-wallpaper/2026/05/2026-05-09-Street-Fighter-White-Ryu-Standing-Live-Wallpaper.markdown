@@ -4,7 +4,7 @@ category : game
 title: Street Fighter White Ryu Standing Live Wallpaper
 description: No.20260509 街頭霸王 小白Ryu 動態壁紙 動漫風格經典造型的小白RYU在冷光下站立，武術宗師的氣勢逼人
 keyword: Street Fighter, Ryu, game, fighting, martial arts, anime style, white gi, cold light, legendary, master
-tags: [Street Fighter, Ryu, Game]
+tags: [Street Fighter, Ryu]
 ---
 
 # No.20260509 Street Fighter White Ryu Standing Live Wallpaper

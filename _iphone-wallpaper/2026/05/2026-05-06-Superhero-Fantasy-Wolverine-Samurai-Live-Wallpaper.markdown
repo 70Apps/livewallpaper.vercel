@@ -4,7 +4,7 @@ category : superhero
 title: Superhero Fantasy Wolverine Samurai Live Wallpaper
 description: No.20260506 超級英雄 幻想金剛狼 動態壁紙 金剛狼化身日本機甲武士，鋼爪充滿恐怖的力量
 keyword: Wolverine, superhero, fantasy, samurai, mecha, adamantium claws, Japanese, warrior, X-Men, anime, powerful
-tags: [Wolverine, Superhero, Fantasy]
+tags: [Wolverine]
 ---
 
 # No.20260506 Superhero Fantasy Wolverine Samurai Live Wallpaper

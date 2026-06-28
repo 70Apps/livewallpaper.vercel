@@ -4,7 +4,7 @@ category : cartoon
 title: The Boy and the Heron Live Wallpaper
 description: No.20260711 宫崎骏 你想活出怎样的人生 動態壁紙
 keyword: The Boy and the Heron,Mahito,你想活出怎样的人生,真人,你想活出怎樣的人生,真人,君たちはどう生きるか,マヒト,너희들은 어떻게 살 것인가,마히토
-tags : [The Boy and the Heron,Cartoon,Studio Ghibli,Fantasy]
+tags : [The Boy and the Heron, Studio Ghibli]
 ---
 
 # No.20260711 The Boy and the Heron Live Wallpaper

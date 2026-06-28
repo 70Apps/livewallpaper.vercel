@@ -4,7 +4,7 @@ category : animation
 title: A Record of a Mortal’s Journey to Immortality Qingyuan Sword Array Live Wallpaper
 description: No.20260110 凡人修仙传 青元剑诀 动态壁纸
 keyword: 凡人修仙传, 韩立, 剑阵, 青元剑诀, 仙侠, 法术, 攻击, 修仙, 中国动画
-tags : [Chinese Animation]
+tags : []
 ---
 
 # No.20260110 A Record of a Mortal’s Journey to Immortality Qingyuan Sword Array Live Wallpaper

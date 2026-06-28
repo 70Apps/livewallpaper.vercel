@@ -4,7 +4,7 @@ category : anime
 title: Jujutsu Kaisen Satoru Gojo Bandage Off Absolute Domain Live Wallpaper
 description: No.20260809 咒术回战 五条悟 摘下眼罩的瞬间，他的目光即是绝对掌控 动态壁纸
 keyword: Jujutsu Kaisen,Satoru Gojo,咒术回战,五条悟,咒術迴戰,五條悟,呪術廻戦,五条悟,주술회전,고죠 사토루
-tags : [JujutsuKaisen,Anime,Gojo]
+tags : [Jujutsu Kaisen, Gojo]
 ---
 
 # No.20260809 Jujutsu Kaisen Satoru Gojo Bandage Off Absolute Domain Live Wallpaper

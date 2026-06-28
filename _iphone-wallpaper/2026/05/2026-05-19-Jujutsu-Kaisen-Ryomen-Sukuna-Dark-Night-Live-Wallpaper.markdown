@@ -4,7 +4,7 @@ category : anime
 title: Jujutsu Kaisen Ryomen Sukuna Dark Night Live Wallpaper
 description: No.20260519 咒術回戰 兩面宿傩 動態壁紙 狂紅撕裂黑夜，宿傩的壓迫感直抵靈魂
 keyword: Jujutsu Kaisen, Ryomen Sukuna, anime, dark night, crimson red, overwhelming, king of curses, four arms, intimidating, powerful, cursed energy
-tags: [Jujutsu Kaisen, Ryomen Sukuna, Anime]
+tags: [Jujutsu Kaisen, Ryomen Sukuna]
 ---
 
 # No.20260519 Jujutsu Kaisen Ryomen Sukuna Dark Night Live Wallpaper

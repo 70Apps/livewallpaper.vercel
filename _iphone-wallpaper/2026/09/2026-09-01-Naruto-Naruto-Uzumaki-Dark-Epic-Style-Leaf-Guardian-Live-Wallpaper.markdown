@@ -4,7 +4,7 @@ category : anime
 title: Naruto Naruto Uzumaki Dark Epic Style Leaf Guardian Live Wallpaper
 description: No.20260901 火影忍者 漩渦鳴人 暗黑史詩風格木葉守護者 動態壁紙
 keyword: Naruto,NarutoUzumaki,火影忍者,漩涡鸣人,火影忍者,漩渦鳴人,NARUTO,うずまきナルト,나루토,우즈마키나루토
-tags : [Naruto,NarutoUzumaki,Anime,DarkEpic,LeafVillage]
+tags : [Naruto, Naruto Uzumaki]
 ---
 
 # No.20260901 Naruto Naruto Uzumaki Dark Epic Style Leaf Guardian Live Wallpaper

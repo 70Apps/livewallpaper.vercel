@@ -4,7 +4,7 @@ category : cartoon
 title: Naruto Chibi Hinata Hyuga Graffiti Wall Live Wallpaper
 description: No.20260802 火影忍者 Q版日向雏田 涂鸦背景墙下的酷帅登场 动态壁纸
 keyword: Naruto,ナルト,火影忍者,日向雏田,Hinata Hyuga,日向ヒナタ,Chibi,ちびキャラ,Q版
-tags : [Naruto,Anime,Chibi,Graffiti]
+tags : [Naruto]
 ---
 
 # No.20260802 Naruto Chibi Hinata Hyuga Graffiti Wall Live Wallpaper

@@ -4,7 +4,7 @@ category : anime
 title: Dragon Ball Goku Ultra Instinct Live Wallpaper
 description: No.20261010 七龍珠 悟空自在極意功 動態壁紙
 keyword: Dragon Ball,Ultra Instinct,七龙珠,自在极意功,七龍珠,自在極意功,ドラゴンボール,身勝手の極意,드래곤볼,자연의왕
-tags : [DragonBall,Goku,Anime,UltraInstinct]
+tags : [Dragon Ball, Goku, Ultra Instinct]
 ---
 
 # No.20261010 Dragon Ball Goku Ultra Instinct Live Wallpaper

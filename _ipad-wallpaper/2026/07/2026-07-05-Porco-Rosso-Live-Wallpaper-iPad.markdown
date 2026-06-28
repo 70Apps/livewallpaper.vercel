@@ -4,7 +4,7 @@ category : anime
 title: Porco Rosso Live Wallpaper
 description: No.20260705 宮崎駿 紅豬 動態壁紙
 keyword: Porco Rosso,Marco,红猪,波鲁克,紅豬,波魯克,紅の豚,ポルコ・ロッソ,붉은돼지,포르코
-tags : [Ghibli,PorcoRosso,Anime,StudioGhibli]
+tags : [Studio Ghibli, Porco Rosso]
 ---
 
 # No.20260705 Porco Rosso Live Wallpaper

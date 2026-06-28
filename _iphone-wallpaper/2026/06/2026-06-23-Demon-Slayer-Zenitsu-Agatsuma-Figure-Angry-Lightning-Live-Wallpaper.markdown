@@ -4,7 +4,7 @@ category: anima
 title: Demon Slayer Zenitsu Agatsuma Figure Angry Lightning Live Wallpaper
 description: 20260623鬼滅之刃-我妻善逸手辦（生氣的我妻善逸可是會發出閃電的喲）
 keyword: demon slayer, zenitsu agatsuma, thunder breathing, kimetsu no yaiba, lightning powers, anime figure, ufotable
-tags: [Demon Slayer, Zenitsu Agatsuma, Thunder Breathing]
+tags: [Demon Slayer, Zenitsu Agatsuma]
 ---
 # No.20260623 Demon Slayer Zenitsu Agatsuma Figure Angry Lightning
 

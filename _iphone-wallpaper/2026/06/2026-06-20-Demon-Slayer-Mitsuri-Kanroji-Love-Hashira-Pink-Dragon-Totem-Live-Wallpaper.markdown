@@ -4,7 +4,7 @@ category: anima
 title: Demon Slayer Mitsuri Kanroji Love Hashira Pink Dragon Totem Live Wallpaper
 description: 20260620鬼滅之刃-甘露寺蜜璃（粉紅巨龍圖騰下的蜜璃帥氣登場）
 keyword: demon slayer, mitsuri kanroji, love hashira, kimetsu no yaiba, pink dragon totem, anime character, ufotable
-tags: [Demon Slayer, Mitsuri Kanroji, Love Hashira]
+tags: [Demon Slayer, Mitsuri Kanroji]
 ---
 # No.20260620 Demon Slayer Mitsuri Kanroji Love Hashira Pink Dragon Totem
 

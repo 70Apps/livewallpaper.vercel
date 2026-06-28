@@ -4,7 +4,7 @@ category : game
 title: Street Fighter Chun-Li Ice Lake Live Wallpaper
 description: No.20260510 街頭霸王 春麗 動態壁紙 春麗在冰湖之上炫酷登場
 keyword: Street Fighter, Chun-Li, game, fighting, ice lake, cool, debut, martial arts, legendary, female warrior
-tags: [Street Fighter, Chun-Li, Game]
+tags: [Street Fighter, Chun-Li]
 ---
 
 # No.20260510 Street Fighter Chun-Li Ice Lake Live Wallpaper

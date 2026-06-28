@@ -4,7 +4,7 @@ category : cartoon
 title: Naruto Chibi Tenten Graffiti Wall Live Wallpaper
 description: No.20260726 火影忍者 Q版天天 涂鸦背景墙下的酷帅登场 动态壁纸
 keyword: Naruto,ナルト,火影忍者,天天,Tenten,テンテン,Chibi,ちびキャラ,Q版
-tags : [Naruto,Anime,Chibi,Graffiti]
+tags : [Naruto]
 ---
 
 # No.20260726 Naruto Chibi Tenten Graffiti Wall Live Wallpaper

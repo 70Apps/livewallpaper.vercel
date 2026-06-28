@@ -4,7 +4,7 @@ category: anime
 title: Demon Slayer Insect Pillar Shinobu Kocho Double Exposure Ukiyo-E Cinematic Live Wallpaper
 description: 20260607鬼滅之刃蟲柱胡蝶忍（雙重曝光浮世繪電影海報風格動態壁紙）
 keyword: demon slayer, insect pillar, shinobu kocho, double exposure, ukiyo-e style, cinematic, movie poster, hashira, anime, butterfly
-tags: [Demon Slayer, Insect Pillar, Shinobu Kocho]
+tags: [Demon Slayer, Shinobu Kocho]
 ---
 # No.20260607 Demon Slayer Insect Pillar Shinobu Kocho Double Exposure Ukiyo-E
 

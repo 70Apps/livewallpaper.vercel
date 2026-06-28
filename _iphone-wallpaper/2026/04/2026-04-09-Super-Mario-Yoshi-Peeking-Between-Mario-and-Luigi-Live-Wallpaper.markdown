@@ -4,7 +4,7 @@ category : game
 title: Super Mario Yoshi Peeking Between Mario and Luigi Live Wallpaper
 description: No.20260409 超级马里奥 恐龙耀西登场 马里奥兄弟 动态壁纸
 keyword: Super Mario, Yoshi, dinosaur, Mario, Luigi, peeking, greeting, cute, Nintendo, platformer, classic
-tags : [Nintendo]
+tags : []
 ---
 
 # No.20260409 Super Mario Yoshi Peeking Between Mario and Luigi Live Wallpaper

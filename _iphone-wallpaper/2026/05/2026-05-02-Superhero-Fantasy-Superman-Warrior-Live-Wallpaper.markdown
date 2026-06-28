@@ -4,7 +4,7 @@ category : superhero
 title: Superhero Fantasy Superman Warrior Live Wallpaper
 description: No.20260502 超級英雄 幻想超人 動態壁紙 超人化身幻想中世紀遊戲中的武士，手執紅色重刀屹立雪山之巔
 keyword: Superman, superhero, fantasy, warrior, sword, snow mountain, medieval, samurai, warrior, fantasy art, anime
-tags: [Superman, Superhero, Fantasy]
+tags: [Superman]
 ---
 
 # No.20260502 Superhero Fantasy Superman Warrior Live Wallpaper

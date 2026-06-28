@@ -1,0 +1,119 @@
+---
+layout: default
+---
+
+<div class="tag-page">
+  <h1 class="tag-title">Tag: {{ page.tag }}</h1>
+
+  <!-- iPhone Collections Section -->
+  <section class="collections-section">
+    <h2 class="section-title">iPhone Wallpapers</h2>
+    <div class="wallpaper-grid-container">
+      <div class="wallpaper-grid">
+        {% assign iphone_posts = site.iphone-wallpaper | where_exp: "item", "item.name != 'index.html'" | sort: 'date' | reverse %}
+        {% for post in iphone_posts %}
+          {% if post.tags contains page.tag %}
+            <a class="wallpaper-item" href="{{ post.url | prepend: site.baseurl }}">
+              <div class="iphone-frame">
+                <div class="iphone-notch"></div>
+                <div class="iphone-screen">
+                  <div class="iphone-status-bar">
+                    <div class="iphone-date">{{ post.date | date: "%A, %B %d" }}</div>
+                    <div class="iphone-time">{{ post.date | date: "%l:%M" }}</div>
+                  </div>
+                  <div class="wallpaper-preview" data-bg="{{ post.date | date: "/images/%Y/%m/%Y%m%d_preview.webp" }}"></div>
+                </div>
+              </div>
+              <div class="wallpaper-item-info">
+                <div class="wallpaper-item-title">{{ post.title }}</div>
+                <div class="wallpaper-item-meta">
+                  <span class="wallpaper-item-category">{{ post.category | default: "Live" }}</span>
+                  <span class="wallpaper-item-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                </div>
+              </div>
+            </a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <!-- iPad Collections Section -->
+  <section class="collections-section">
+    <h2 class="section-title">iPad Wallpapers</h2>
+    <div class="wallpaper-grid-container">
+      <div class="wallpaper-grid ipad-wallpaper-grid">
+        {% assign ipad_posts = site.ipad-wallpaper | where_exp: "item", "item.name != 'index.html'" | sort: 'date' | reverse %}
+        {% for post in ipad_posts %}
+          {% if post.tags contains page.tag %}
+            <a class="wallpaper-item" href="{{ post.url | prepend: site.baseurl }}">
+              <div class="ipad-frame">
+                <div class="ipad-screen">
+                  <div class="ipad-status-bar">
+                    <div class="ipad-date">{{ post.date | date: "%A, %B %d" }}</div>
+                    <div class="ipad-time">{{ post.date | date: "%l:%M" }}</div>
+                  </div>
+                  <div class="wallpaper-preview" data-bg="{{ post.date | date: "/images/%Y/%m/%Y%m%d_preview_ipad.webp" }}"></div>
+                </div>
+              </div>
+              <div class="wallpaper-item-info">
+                <div class="wallpaper-item-title">{{ post.title }}</div>
+                <div class="wallpaper-item-meta">
+                  <span class="wallpaper-item-category">{{ post.category | default: "Live" }}</span>
+                  <span class="wallpaper-item-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                </div>
+              </div>
+            </a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <p><a href="/tags/">← All tags</a></p>
+</div>
+
+<script>
+  // Lazy load wallpaper previews with fade-in animation
+  const wallpaperList = document.querySelectorAll('.wallpaper-preview');
+  wallpaperList.forEach((preview, index) => {
+    let src = preview.getAttribute('data-bg');
+    const imgElement = new Image();
+    imgElement.onload = function() {
+      preview.style.backgroundImage = "url('" + src + "')";
+      setTimeout(function () {
+        preview.style.opacity = 1;
+        preview.classList.add('loaded');
+      }, 200 + 100 * index);
+    };
+    imgElement.src = src;
+  });
+
+  // Mobile: Show status bar when wallpaper item enters viewport
+  const isMobile = () => window.innerWidth < 768;
+
+  const statusBars = document.querySelectorAll('.iphone-status-bar');
+  const wallpaperItems = document.querySelectorAll('.wallpaper-item');
+
+  if (isMobile() && wallpaperItems.length > 0) {
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        const statusBar = entry.target.querySelector('.iphone-status-bar');
+        if (statusBar) {
+          if (entry.isIntersecting) {
+            statusBar.style.opacity = '0.75';
+          } else {
+            statusBar.style.opacity = '0';
+          }
+        }
+      });
+    }, {
+      threshold: 0.3,
+      rootMargin: '-50px'
+    });
+
+    wallpaperItems.forEach(item => {
+      observer.observe(item);
+    });
+  }
+</script>

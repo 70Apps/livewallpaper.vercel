@@ -4,7 +4,7 @@ category : sports
 title: Football Messi Marching Live Wallpaper
 description: No.20261003 足球 梅西出征 動態壁紙
 keyword: Football,Lionel Messi,足球,梅西,足球,美斯,サッカー,メッシ,축구,메시
-tags : [Football,Messi,Sports,Champion]
+tags : [Messi]
 ---
 
 # No.20261003 Football Messi Marching Live Wallpaper

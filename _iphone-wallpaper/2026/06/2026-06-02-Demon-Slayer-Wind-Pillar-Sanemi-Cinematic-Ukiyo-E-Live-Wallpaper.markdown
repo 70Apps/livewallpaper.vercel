@@ -4,7 +4,7 @@ category: anime
 title: Demon Slayer Wind Pillar Sanemi Cinematic Ukiyo-E Live Wallpaper
 description: 20260602 鬼灭之刃风柱不死川实弥（双重曝光浮世绘电影海报风格动态壁纸）
 keyword: demon slayer, wind pillar, sanemi, cinematic, ukiyo-e style, double exposure, movie poster, hashira, anime
-tags: [Demon Slayer, Ukiyo-E Style, Anime]
+tags: [Demon Slayer]
 ---
 # No.20260602 Demon Slayer Wind Pillar Sanemi Cinematic Ukiyo-E
 

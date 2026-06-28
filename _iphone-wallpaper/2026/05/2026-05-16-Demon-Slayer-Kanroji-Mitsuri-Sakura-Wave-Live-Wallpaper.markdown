@@ -4,7 +4,7 @@ category : anime
 title: Demon Slayer Kanroji Mitsuri Sakura Wave Live Wallpaper
 description: No.20260516 鬼滅之刃 甘露寺蜜璃 動態壁紙 可愛的蜜璃在櫻花飛舞的背景裏招手示意
 keyword: Demon Slayer, Kanroji Mitsuri, anime, sakura, cherry blossom, cute, love hashira, pink, waving, spring, demon slayer corps
-tags: [Demon Slayer, Kanroji Mitsuri, Anime]
+tags: [Demon Slayer, Mitsuri Kanroji]
 ---
 
 # No.20260516 Demon Slayer Kanroji Mitsuri Sakura Wave Live Wallpaper

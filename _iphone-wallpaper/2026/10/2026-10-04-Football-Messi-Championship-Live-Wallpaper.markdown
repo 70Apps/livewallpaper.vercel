@@ -4,7 +4,7 @@ category : sports
 title: Football Messi Championship Live Wallpaper
 description: No.20261004 足球 梅西夺冠 動態壁紙
 keyword: Football,Lionel Messi,足球,梅西,足球,美斯,サッカー,メッシ,축구,메시
-tags : [Football,Messi,Sports,Champion]
+tags : [Messi]
 ---
 
 # No.20261004 Football Messi Championship Live Wallpaper

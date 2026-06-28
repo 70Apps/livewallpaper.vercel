@@ -4,7 +4,7 @@ category : cartoon
 title: Doraemon Doraemon in the Sky Live Wallpaper
 description: No.20260908 哆啦A夢 空中的哆啦A夢 動態壁紙
 keyword: Doraemon,Doraemon,哆啦A梦,哆啦A梦,哆啦A夢,哆啦A夢,ドラえもん,ドラえもん,도라에몽,도라에몽
-tags : [Doraemon,Cartoon,Anime,Sky,Flying]
+tags : [Doraemon]
 ---
 
 # No.20260908 Doraemon Doraemon in the Sky Live Wallpaper

@@ -4,7 +4,7 @@ category : anime
 title: Mecha Warrior Pink King Kong Live Wallpaper
 description: No.20260505 機甲戰士 粉紅金剛 動態壁紙 機甲充能啟動特效，酷炫機甲抬頭亮相
 keyword: Mecha, robot, pink, King Kong, charging, activation, cool, tech, cyberpunk, anime
-tags: [Mecha, Robot, Pink]
+tags: []
 ---
 
 # No.20260505 Mecha Warrior Pink King Kong Live Wallpaper

@@ -4,7 +4,7 @@ category : cartoon
 title: SpongeBob Dancing SpongeBob Live Wallpaper
 description: No.20260910 海綿寶寶 跳舞的海綿寶寶 動態壁紙
 keyword: SpongeBob,SpongeBobSquarePants,海绵宝宝,海绵宝宝,海綿寶寶,海綿寶寶,スポンジ・ボブ,スポンジボブ,스폰지밥,네모바지스폰지밥
-tags : [SpongeBob,Cartoon,Dancing,Underwater,BikiniBottom]
+tags : [SpongeBob SquarePants]
 ---
 
 # No.20260910 SpongeBob Dancing SpongeBob Live Wallpaper

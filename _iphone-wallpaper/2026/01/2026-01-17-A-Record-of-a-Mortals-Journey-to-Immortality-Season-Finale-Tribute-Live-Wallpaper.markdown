@@ -4,7 +4,7 @@ category : animation
 title: A Record of a Mortal's Journey to Immortality Season Finale Tribute Live Wallpaper
 description: No.20260117 凡人修仙传 收关纪念 特别版动态壁纸
 keyword: 凡人修仙传, 韩立, 纪念, 季节终结, 三个阶段, 造型, 艺术再现, 特别版, 中国动画
-tags : [Chinese Animation]
+tags : []
 ---
 
 # No.20260117 A Record of a Mortal's Journey to Immortality Season Finale Tribute Live Wallpaper

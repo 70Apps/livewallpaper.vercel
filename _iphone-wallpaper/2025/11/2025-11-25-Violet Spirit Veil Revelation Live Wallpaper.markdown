@@ -4,7 +4,7 @@ category : Cartoon
 title: Violet Spirit Veil Revelation Live Wallpaper
 description: No.20251125 紫靈仙子絕美容顏動態壁紙
 keyword: Cartoon, 凡人修仙传, 紫灵, 凡人, 韩立, 凡人修仙傳
-tags : [Cartoon, Chinese]
+tags : []
 ---
 # No.20251125🌸紫靈仙子絕美容顏動態壁紙
 

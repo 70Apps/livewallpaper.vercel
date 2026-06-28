@@ -4,7 +4,7 @@ category : cartoon
 title: Toy Story Buzz Lightyear Salute Live Wallpaper
 description: No.20260918 玩具總動員 巴斯光年向您致敬 動態壁紙
 keyword: ToyStory,BuzzLightyear,玩具总动员,巴斯光年,玩具總動員,巴斯光年,トイストーリー,バズライトイヤー,토이스토리,버즈라이트이어
-tags : [ToyStory,BuzzLightyear,Cartoon,SpaceRanger,Salute]
+tags : [Toy Story, Buzz Lightyear, Space Ranger]
 ---
 
 # No.20260918 Toy Story Buzz Lightyear Salute Live Wallpaper

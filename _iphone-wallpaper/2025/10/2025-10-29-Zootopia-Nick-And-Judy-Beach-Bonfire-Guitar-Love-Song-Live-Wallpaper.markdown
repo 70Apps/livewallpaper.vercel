@@ -4,7 +4,7 @@ category : cartoon
 title: Zootopia Nick And Judy Beach Bonfire Guitar Love Song Live Wallpaper
 description: No.20251029 疯狂动物城 海边度假 尼克和朱迪在海边篝火边弹着吉他唱着情歌 动态壁纸
 keyword: Zootopia,Nick Wilde,疯狂动物城,尼克,瘋狂動物城,尼克,ズートピア,ニック・ワイルド,주토피아,닉와일드
-tags : [Zootopia,Cartoon,Romantic]
+tags : [Zootopia]
 ---
 
 # No.20251029 Zootopia Nick And Judy Beach Bonfire Guitar Love Song Live Wallpaper

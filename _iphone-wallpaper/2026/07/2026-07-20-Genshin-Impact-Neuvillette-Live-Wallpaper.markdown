@@ -4,7 +4,7 @@ category: game
 title: Genshin Impact Neuvillette Live Wallpaper
 description: 20260720原神水龍王壁紙，塗鴉背景牆下的水龍王酷帥登場
 keyword: Genshin Impact, Neuvillette, Hydro Dragon, graffiti, cool, live wallpaper
-tags: [Genshin Impact, Neuvillette, graffiti, Hydro Dragon]
+tags: [Genshin Impact, Neuvillette, Hydro Dragon]
 ---
 
 # No.20260720 Genshin Impact Neuvillette (Cool Neuvillette on Graffiti Background Wall)

@@ -4,7 +4,7 @@ category : anime
 title: A Record of a Mortal's Journey to Immortality Mei Ning Live Wallpaper
 description: No.20260708 凡人修仙传 梅凝 動態壁紙
 keyword: A Record of a Mortal's Journey to Immortality,Mei Ning,凡人修仙传,梅凝,凡人修仙傳,梅凝,凡人修仙伝,メイニン,범인수선전,매응
-tags : [A Record of a Mortal's Journey to Immortality,Anime,Mei Ning,Xianxia]
+tags : ["A Record of a Mortal's Journey to Immortality", Mei Ning]
 ---
 
 # No.20260708 A Record of a Mortal's Journey to Immortality Mei Ning Live Wallpaper

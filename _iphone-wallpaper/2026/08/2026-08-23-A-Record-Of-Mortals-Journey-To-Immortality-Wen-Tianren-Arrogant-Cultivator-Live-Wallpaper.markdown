@@ -4,7 +4,7 @@ category : anime
 title: A Record Of Mortals Journey To Immortality Wen Tianren Arrogant Cultivator Live Wallpaper
 description: No.20260823 凡人修仙傳 溫天仁 動態壁紙
 keyword: A Record of a Mortals Journey to Immortality,WenTianren,HanLi,凡人修仙传,温天仁,韩立,凡人修仙傳,溫天仁,韓立,凡人修仙伝,温天仁,韓立,범인수선전,온천인,한립
-tags : [A Record of a Mortals Journey to Immortality,Anime,Xianxia,Cultivation]
+tags : ["A Record of a Mortal's Journey to Immortality"]
 ---
 
 # No.20260823 A Record Of Mortals Journey To Immortality Wen Tianren Arrogant Cultivator Live Wallpaper

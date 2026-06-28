@@ -4,7 +4,7 @@ category: game
 title: Genshin Impact Nahida Live Wallpaper
 description: 20260724原神小吉祥草王壁紙，塗鴉背景下的小吉祥草王酷帥登場
 keyword: Genshin Impact, Nahida, Lesser Lord Kusanali, graffiti, cool, live wallpaper
-tags: [Genshin Impact, Nahida, graffiti, Dendro Archon]
+tags: [Genshin Impact, Nahida, Dendro Archon]
 ---
 
 # No.20260724 Genshin Impact Nahida (Cool Nahida on Graffiti Background Wall)

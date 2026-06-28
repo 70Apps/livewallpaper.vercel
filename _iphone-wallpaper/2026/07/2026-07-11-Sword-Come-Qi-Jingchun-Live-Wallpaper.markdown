@@ -4,7 +4,7 @@ category: drama
 title: Sword Come Qi Jingchun Thick Paint Comic Style Live Wallpaper
 description: 20260711劍來齊靜春厚塗漫畫風格壁紙，全新演繹劍來齊靜春的風采
 keyword: Sword Come, Qi Jingchun, thick paint, comic style, live wallpaper, sword, martial arts
-tags: [Sword Come, Qi Jingchun, thick paint, comic style, martial arts, sword]
+tags: [Sword of Coming, Qi Jingchun]
 ---
 
 # No.20260711 劍來 齊靜春（厚塗漫畫風格壁紙，全新演繹劍來齊靜春的風采）

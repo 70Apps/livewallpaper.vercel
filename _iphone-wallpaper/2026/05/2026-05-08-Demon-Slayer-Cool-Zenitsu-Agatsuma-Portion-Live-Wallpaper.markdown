@@ -4,7 +4,7 @@ category : anime
 title: Demon Slayer Cool Zenitsu Agatsuma Portion Live Wallpaper
 description: No.20260508 鬼滅之刃 酷版我妻善逸 動態壁紙 臉部特寫的我妻善逸在閃電圍繞中露出冷酷的表情
 keyword: Demon Slayer, Zenitsu Agatsuma, anime, lightning, cool, samurai, thunder, face close-up, intense, Kimetsu no Yaiba
-tags: [Demon Slayer, Zenitsu Agatsuma, Anime]
+tags: [Demon Slayer, Zenitsu Agatsuma]
 ---
 
 # No.20260508 Demon Slayer Cool Zenitsu Agatsuma Portion Live Wallpaper

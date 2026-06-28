@@ -4,7 +4,7 @@ category: cartoon
 title: Three Cats Moon Gazing Cute Kittens Live Wallpaper
 description: 20260612三貓賞月（超級可愛的3隻小貓咪陪你一起賞月）
 keyword: three cats, kittens, moon gazing, cute cats, cat wallpaper, adorable pets, animal live wallpaper, moonlight
-tags: [Three Cats, Kittens, Cute Animals]
+tags: []
 ---
 # No.20260612 Three Cats Moon Gazing Cute Kittens
 

@@ -4,7 +4,7 @@ category : anime
 title: Jujutsu Kaisen Fushiguro Megumi Domain Expansion Live Wallpaper
 description: No.20260520 咒術回戰 伏黑惠 動態壁紙 領域展開，蒼天之封印降臨
 keyword: Jujutsu Kaisen, Fushiguro Megumi, anime, domain expansion, shadows, ten shadows technique, shikigami, mysterious, powerful, jujutsu sorcerer
-tags: [Jujutsu Kaisen, Fushiguro Megumi, Anime]
+tags: [Jujutsu Kaisen, Fushiguro Megumi]
 ---
 
 # No.20260520 Jujutsu Kaisen Fushiguro Megumi Domain Expansion Live Wallpaper

@@ -4,7 +4,7 @@ category : anime
 title: Naruto Hinata Hyuga Dark Epic Style Leaf Guardian Live Wallpaper
 description: No.20260905 火影忍者 日向雏田 暗黑史诗风格木叶守护者 动态壁纸
 keyword: Naruto,HinataHyuga,火影忍者,日向雏田,火影忍者,日向雏田,NARUTO,日向ヒナタ,나루토,휴가히나타
-tags : [Naruto,HinataHyuga,Anime,DarkEpic,LeafVillage]
+tags : [Naruto, Hinata Hyuga]
 ---
 
 # No.20260905 Naruto Hinata Hyuga Dark Epic Style Leaf Guardian Live Wallpaper

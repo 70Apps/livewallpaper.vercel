@@ -4,7 +4,7 @@ category : superhero
 title: Superman Returns Live Wallpaper
 description: No.20260701 超級英雄 超人歸來 動態壁紙
 keyword: Superman,Superhero,超人,超级英雄,超人,超級英雄,スーパーマン,スーパーヒーロー,슈퍼맨,슈퍼히어로
-tags : [Superman,Superhero,DC,Movie]
+tags : [Superman, DC]
 ---
 
 # No.20260701 Superman Returns Live Wallpaper

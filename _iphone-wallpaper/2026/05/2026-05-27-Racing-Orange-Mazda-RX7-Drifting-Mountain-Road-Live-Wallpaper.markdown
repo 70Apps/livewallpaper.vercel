@@ -4,7 +4,7 @@ category : racing
 title: Racing Orange Mazda RX7 Drifting Mountain Road Live Wallpaper
 description: No.20260527 極速賽車 橙色RX7跑車 動態壁紙 林間山道之上，橙色 RX-7 漂移過彎
 keyword: Racing, Orange Mazda RX7, sports car, drifting, mountain road, forest, speed, JDM, rotary engine, racing
-tags: [Racing, Orange Mazda RX7, Car]
+tags: []
 ---
 
 # No.20260527 Racing Orange Mazda RX7 Drifting Mountain Road Live Wallpaper

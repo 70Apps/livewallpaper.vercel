@@ -4,7 +4,7 @@ category : anime
 title: A Record of a Mortal's Journey to Immortality Nangong Wan Sword Strike Live Wallpaper
 description: No.20260822 凡人修仙傳 南宮婉 動態壁紙
 keyword: A Record of a Mortals Journey to Immortality, Nangong Wan, Han Li, 凡人修仙传, 南宫婉, 韩立, 凡人修仙傳, 南宮婉, 韓立, 仙侠, Xianxia
-tags : [A Record of a Mortals Journey to Immortality, Anime, Xianxia, Sword]
+tags : ["A Record of a Mortal's Journey to Immortality"]
 ---
 
 # No.20260822 A Record of a Mortal's Journey to Immortality Nangong Wan Sword Strike Live Wallpaper

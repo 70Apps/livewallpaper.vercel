@@ -4,7 +4,7 @@ category: cartoon
 title: Despicable Me Bored Minions Cute Live Wallpaper
 description: 20260616小黃人-無聊的小黃人（小黃人無所事事的樣子好萌好可愛）
 keyword: minions, despicable me, bored minions, cute minions, funny animation, yellow characters, illumination entertainment, animated movie
-tags: [Minions, Despicable Me, Illumination]
+tags: [Minions, Despicable Me]
 ---
 # No.20260616 Despicable Me Bored Minions Cute
 

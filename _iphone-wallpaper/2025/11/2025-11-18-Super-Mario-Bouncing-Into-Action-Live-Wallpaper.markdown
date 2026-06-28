@@ -4,7 +4,7 @@ category : game
 title: Super Mario Bouncing Into Action Live Wallpaper
 description: No.20251118 超级马里奥 蹦跳出击 动态壁纸
 keyword: Super Mario, Mario, jumping, retro game, pixel art, platformer, Nintendo, classic
-tags : [Nintendo]
+tags : []
 ---
 
 # No.20251118 Super Mario Bouncing Into Action Live Wallpaper

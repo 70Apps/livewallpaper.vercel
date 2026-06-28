@@ -4,7 +4,7 @@ category : anime
 title: Gundam Zeta Gundam Night Sky Majestic Live Wallpaper
 description: No.20260817 高达 Zeta高达 夜空下的Zeta高达威武雄壮 动态壁纸
 keyword: Gundam,Zeta Gundam,高达,Z高达,高達,Z高達,ガンダム,Ζガンダム,건담,제타건담
-tags : [Gundam,Anime,Mecha]
+tags : [Gundam]
 ---
 
 # No.20260817 Gundam Zeta Gundam Night Sky Majestic Live Wallpaper

@@ -4,7 +4,7 @@ category : art
 title: Cute Blue Monster Meditation Live Wallpaper
 description: No.20251108 可爱萌物 蓝色小怪物 动态壁纸
 keyword: cute, blue, monster, meditation, calm, peaceful, fantasy, creature, adorable
-tags : [Cute]
+tags : []
 ---
 
 # No.20251108 Cute Blue Monster Meditation Live Wallpaper

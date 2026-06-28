@@ -4,7 +4,7 @@ category : game
 title: Final Fantasy Sephiroth Silver Hair Judgment Live Wallpaper
 description: No.20260806 最终幻想 萨菲罗斯 银发利刃映寒瞳，萨菲罗斯的凝视即是审判 动态壁纸
 keyword: Final Fantasy,ファイナルファンタジー,最终幻想,萨菲罗斯,Sephiroth,セフィロス
-tags : [FinalFantasy,Game,Anime]
+tags : [Final Fantasy]
 ---
 
 # No.20260806 Final Fantasy Sephiroth Silver Hair Judgment Live Wallpaper

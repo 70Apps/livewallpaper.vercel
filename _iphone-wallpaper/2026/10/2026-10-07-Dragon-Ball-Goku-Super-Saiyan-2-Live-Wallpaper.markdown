@@ -4,7 +4,7 @@ category : anime
 title: Dragon Ball Goku Super Saiyan 2 Live Wallpaper
 description: No.20261007 七龍珠 悟空超級賽亞人第二階 動態壁紙
 keyword: Dragon Ball,Super Saiyan 2,七龙珠,超级赛亚人二,七龍珠,超級賽亞人二,ドラゴンボール,スーパーサイヤ人2,드래곤볼,슈퍼사이야인2
-tags : [DragonBall,Goku,Anime,SuperSaiyan2]
+tags : [Dragon Ball, Goku, Super Saiyan 2]
 ---
 
 # No.20261007 Dragon Ball Goku Super Saiyan 2 Live Wallpaper

@@ -4,7 +4,7 @@ category : anime
 title: Saint Seiya Cygnus Hyoga Live Wallpaper
 description: No.20260930 聖鬥士星矢 冰河 動態壁紙
 keyword: Saint Seiya,Cygnus Hyoga,圣斗士星矢,冰河,聖鬥士星矢,冰河,聖闘士星矢,氷河,세인트세이야,효가
-tags : [SaintSeiya,Hyoga,Anime,Cygnus]
+tags : [Saint Seiya, Hyoga, Cygnus]
 ---
 
 # No.20260930 Saint Seiya Cygnus Hyoga Live Wallpaper

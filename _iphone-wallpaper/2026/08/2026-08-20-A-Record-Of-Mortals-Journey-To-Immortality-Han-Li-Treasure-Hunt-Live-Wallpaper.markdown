@@ -4,7 +4,7 @@ category : anime
 title: A Record Of Mortals Journey To Immortality Han Li Treasure Hunt Live Wallpaper
 description: No.20260820 凡人修仙传 韩立 听说韩道长要去寻宝了呢 动态壁纸
 keyword: A Record Of Mortals Journey To Immortality,Han Li,凡人修仙传,韩立,凡人修仙傳,韓立,凡人修仙伝,韓立,범인수선전,한립
-tags : [A Record Of Mortals Journey To Immortality,Anime,Cultivation]
+tags : ["A Record of a Mortal's Journey to Immortality"]
 ---
 
 # No.20260820 A Record Of Mortals Journey To Immortality Han Li Treasure Hunt Live Wallpaper

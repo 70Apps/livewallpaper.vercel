@@ -4,7 +4,7 @@ category: drama
 title: Sword Come Sword Spirit Thick Paint Comic Style Live Wallpaper
 description: 20260712劍來劍靈厚塗漫畫風格壁紙，全新演繹劍來劍靈的風采
 keyword: Sword Come, Sword Spirit, thick paint, comic style, live wallpaper, sword, martial arts
-tags: [Sword Come, Sword Spirit, thick paint, comic style, martial arts, sword]
+tags: [Sword of Coming]
 ---
 
 # No.20260712 劍來 劍靈（厚塗漫畫風格壁紙，全新演繹劍來劍靈的風采）

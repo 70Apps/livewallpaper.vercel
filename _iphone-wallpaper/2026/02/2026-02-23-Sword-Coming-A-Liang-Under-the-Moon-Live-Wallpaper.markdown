@@ -4,7 +4,7 @@ category : animation
 title: Sword Coming A Liang Under the Moon Live Wallpaper
 description: No.20260223 剑来 月下阿良 剑客阿良月下沉思动态壁纸
 keyword: 剑来, 阿良, 月下, 沉思, 剑客, 国漫, 中国动画, 唯美, 武侠
-tags : [Chinese Animation]
+tags : []
 ---
 
 # No.20260223 Sword Coming A Liang Under the Moon Live Wallpaper

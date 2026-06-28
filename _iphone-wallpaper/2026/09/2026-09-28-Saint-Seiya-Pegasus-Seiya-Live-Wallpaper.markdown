@@ -4,7 +4,7 @@ category : anime
 title: Saint Seiya Pegasus Seiya Live Wallpaper
 description: No.20260928 聖鬥士星矢 星矢 動態壁紙
 keyword: Saint Seiya,Pegasus Seiya,圣斗士星矢,星矢,聖鬥士星矢,星矢,聖闘士星矢,星矢,세인트세이야,세이야
-tags : [SaintSeiya,Seiya,Anime,Pegasus]
+tags : [Saint Seiya, Seiya, Pegasus]
 ---
 
 # No.20260928 Saint Seiya Pegasus Seiya Live Wallpaper

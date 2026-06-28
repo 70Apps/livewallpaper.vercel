@@ -4,7 +4,7 @@ category : game
 title: Final Fantasy Aerith Gainsborough Flower Sea Eternal Tenderness Live Wallpaper
 description: No.20260812 最终幻想 艾瑞丝 花海中醒来的她，是米德加永不凋零的温柔 动态壁纸
 keyword: Final Fantasy,Aerith Gainsborough,最终幻想,艾瑞丝,最終幻想,艾瑞絲,ファイナルファンタジー,エアリス・ゲインズブール,파이널판타지,에어리스 게인즈버러
-tags : [FinalFantasy,Game,Aerith]
+tags : [Final Fantasy, Aerith]
 ---
 
 # No.20260812 Final Fantasy Aerith Gainsborough Flower Sea Eternal Tenderness Live Wallpaper

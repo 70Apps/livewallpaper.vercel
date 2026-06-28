@@ -4,7 +4,7 @@ category : cartoon
 title: Pokemon Pikachu Phone Bedtime Live Wallpaper
 description: No.20260525 寶可夢 皮卡丘 動態壁紙 溫馨臥室裡，皮卡丘坐在床上用手機跟你說晚安啦
 keyword: Pokemon, Pikachu, anime, bedtime, phone, cozy bedroom, goodnight, cute, kawaii, electric mouse
-tags: [Pokemon, Pikachu, Cartoon]
+tags: [Pokémon, Pikachu]
 ---
 
 # No.20260525 Pokemon Pikachu Phone Bedtime Live Wallpaper

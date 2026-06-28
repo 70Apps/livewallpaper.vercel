@@ -4,7 +4,7 @@ category : anime
 title: Jujutsu Kaisen Gojo Satoru Side Profile Live Wallpaper
 description: No.20260517 咒術回戰 五條悟 動態壁紙 可愛的五條悟老師帥氣的側顏，背景裡全是惡靈
 keyword: Jujutsu Kaisen, Gojo Satoru, anime, side profile, cursed spirits, handsome, teacher, white hair, blindfold, powerful, jujutsu sorcerer
-tags: [Jujutsu Kaisen, Gojo Satoru, Anime]
+tags: [Jujutsu Kaisen, Gojo Satoru]
 ---
 
 # No.20260517 Jujutsu Kaisen Gojo Satoru Side Profile Live Wallpaper

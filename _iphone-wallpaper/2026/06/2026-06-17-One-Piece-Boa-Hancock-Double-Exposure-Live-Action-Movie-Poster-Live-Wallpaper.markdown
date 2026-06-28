@@ -4,7 +4,7 @@ category: anima
 title: One Piece Boa Hancock Double Exposure Live Action Movie Poster Live Wallpaper
 description: 20260617海賊王-女帝（雙重曝光真人電影海報）
 keyword: one piece, boa hancock, empress, pirate queen, double exposure, live action movie, anime adaptation, eiichiro oda
-tags: [One Piece, Boa Hancock, Empress]
+tags: [One Piece, Boa Hancock]
 ---
 # No.20260617 One Piece Boa Hancock Double Exposure Live Action Movie Poster
 

@@ -4,7 +4,7 @@ category: cartoon
 title: The Simpsons Homer Relaxation Live Wallpaper
 description: 20260717辛普森一家霍默同款松弛壁紙，泳池、甜甜圈和星空，是成年人最舒服的擺爛時刻
 keyword: The Simpsons, Homer Simpson, relaxation, pool, donut, starry sky, cartoon, live wallpaper
-tags: [The Simpsons, Homer Simpson, Relaxation, Pool, Donut, Starry Sky]
+tags: [The Simpsons, Homer Simpson]
 ---
 
 # No.20260717 辛普森一家 霍默同款松弛（泳池、甜甜圈和星空，是成年人最舒服的擺爛時刻）

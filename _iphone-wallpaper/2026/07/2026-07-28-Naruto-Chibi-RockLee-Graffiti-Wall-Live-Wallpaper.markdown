@@ -4,7 +4,7 @@ category : cartoon
 title: Naruto Chibi Rock Lee Graffiti Wall Live Wallpaper
 description: No.20260728 火影忍者 Q版李洛克 涂鸦背景墙下的酷帅登场 动态壁纸
 keyword: Naruto,ナルト,火影忍者,李洛克,Rock Lee,ロック・リー,Chibi,ちびキャラ,Q版
-tags : [Naruto,Anime,Chibi,Graffiti]
+tags : [Naruto]
 ---
 
 # No.20260728 Naruto Chibi Rock Lee Graffiti Wall Live Wallpaper

@@ -4,7 +4,7 @@ category : game
 title: League of Legends Jinx Live Wallpaper
 description: No.20260919 英雄聯盟 暴走蘿莉 金克絲 動態壁紙
 keyword: League of Legends,Jinx,英雄联盟,金克丝,英雄聯盟,金克絲,リーグオブレジェンド,ジンクス,리그오브레전드,징크스
-tags : [League of Legends,Jinx,Game,Chaos,Explosion]
+tags : [League of Legends, Jinx]
 ---
 
 # No.20260919 League of Legends Jinx Live Wallpaper

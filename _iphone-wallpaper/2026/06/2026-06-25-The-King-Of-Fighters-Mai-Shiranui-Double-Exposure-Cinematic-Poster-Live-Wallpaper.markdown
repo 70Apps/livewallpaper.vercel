@@ -4,7 +4,7 @@ category: game
 title: The King of Fighters Mai Shiranui Double Exposure Cinematic Poster Live Wallpaper
 description: 20260625拳皇-不知火舞（雙重曝光精美電影風格海報）
 keyword: the king of fighters, mai shiranui, kof, fighting game, double exposure, cinematic poster, snk
-tags: [The King of Fighters, Mai Shiranui, KOF]
+tags: [The King of Fighters, Mai Shiranui]
 ---
 # No.20260625 The King of Fighters Mai Shiranui Double Exposure Cinematic Poster Live Wallpaper
 

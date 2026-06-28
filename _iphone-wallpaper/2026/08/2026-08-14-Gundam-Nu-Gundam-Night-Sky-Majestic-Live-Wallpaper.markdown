@@ -4,7 +4,7 @@ category : anime
 title: Gundam Nu Gundam Night Sky Majestic Live Wallpaper
 description: No.20260814 高达 V高达 夜空下的高达威武雄壮 动态壁纸
 keyword: Gundam,Nu Gundam,高达,V高达,高達,V高達,ガンダム,νガンダム,건담,뉴건담
-tags : [Gundam,Anime,Mecha]
+tags : [Gundam]
 ---
 
 # No.20260814 Gundam Nu Gundam Night Sky Majestic Live Wallpaper

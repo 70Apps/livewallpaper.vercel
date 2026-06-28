@@ -4,7 +4,7 @@ category: game
 title: Genshin Impact Zhongli Live Wallpaper
 description: 20260719原神岩王帝君壁紙，塗鴉背景牆下的岩王帝君酷帥登場
 keyword: Genshin Impact, Zhongli, Geo Archon, graffiti, cool, live wallpaper
-tags: [Genshin Impact, Zhongli, graffiti, Geo Archon]
+tags: [Genshin Impact, Zhongli, Geo Archon]
 ---
 
 # No.20260719 Genshin Impact Zhongli (Cool Zhongli on Graffiti Background Wall)

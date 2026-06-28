@@ -4,7 +4,7 @@ category : anime
 title: Nangong Wan Reincarnation Divine Light Live Wallpaper
 description: No.20260924 凡人修仙傳 南宮婉的輪迴神光 動態壁紙
 keyword: Mortals Journey to Immortality,Nangong Wan,凡人修仙传,南宫婉,凡人修仙傳,南宮婉,凡人修仙伝,南宮婉,범인수선전,남궁완
-tags : [MortalsJourneytoImmortality,NangongWan,Anime,Reincarnation,DivineLight]
+tags : ["A Record of a Mortal's Journey to Immortality", Nangong Wan]
 ---
 
 # No.20260924 Nangong Wan Reincarnation Divine Light Live Wallpaper

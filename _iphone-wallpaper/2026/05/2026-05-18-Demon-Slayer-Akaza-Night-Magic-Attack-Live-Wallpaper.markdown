@@ -4,7 +4,7 @@ category : anime
 title: Demon Slayer Akaza Night Magic Attack Live Wallpaper
 description: No.20260518 鬼滅之刃 猗窩座 動態壁紙 上弦三猗窩座在夜色下施展魔法攻擊
 keyword: Demon Slayer, Akaza, anime, night, magic attack, upper rank three, demon, powerful, blue energy, martial arts, regeneration
-tags: [Demon Slayer, Akaza, Anime]
+tags: [Demon Slayer, Akaza]
 ---
 
 # No.20260518 Demon Slayer Akaza Night Magic Attack Live Wallpaper

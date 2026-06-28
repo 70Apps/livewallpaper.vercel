@@ -4,7 +4,7 @@ category: game
 title: Manchester United Football Club Mecha Warrior Live Wallpaper
 description: 20260702豪門球隊-曼聯（足球豪門標識主題機甲戰士，男人無法抗拒的力量展示）
 keyword: manchester united, football club, soccer, mecha, red devils, premier league, old trafford
-tags: [Manchester United, Football Club, Red Devils]
+tags: [Manchester United]
 ---
 # No.20260702 Manchester United Football Club Mecha Warrior Live Wallpaper
 

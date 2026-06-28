@@ -4,7 +4,7 @@ category : tech
 title: iPhone 17 Official Live Wallpaper
 description: No.20251109 iPhone 17 官方动态壁纸
 keyword: iPhone 17, Apple, official, live wallpaper, dynamic, elegant, tech, iOS, smartphone
-tags : [Apple]
+tags : []
 ---
 
 # No.20251109 iPhone 17 Official Live Wallpaper

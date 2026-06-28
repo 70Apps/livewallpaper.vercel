@@ -4,7 +4,7 @@ category : anime
 title: Dragon Ball Goku Live Wallpaper
 description: No.20260707 七龙珠 悟空 動態壁紙
 keyword: Dragon Ball,Goku,七龙珠,悟空,七龍珠,孫悟空,ドラゴンボール,孫悟空,드래곤볼,손오공
-tags : [Dragon Ball,Anime,Goku,Manga]
+tags : [Dragon Ball, Goku]
 ---
 
 # No.20260707 Dragon Ball Goku Live Wallpaper

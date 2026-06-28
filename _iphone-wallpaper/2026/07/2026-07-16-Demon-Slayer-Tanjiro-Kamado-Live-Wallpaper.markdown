@@ -4,7 +4,7 @@ category: anima
 title: Demon Slayer Tanjiro Kamado Live Wallpaper
 description: 20260716鬼滅之刃盛裝竈門炭治郎壁紙，酷炫的盛裝竈門炭治郎給你手機添加一絲活力
 keyword: Demon Slayer, Tanjiro Kamado, anime, cool, live wallpaper, swordsman
-tags: [Demon Slayer, Tanjiro Kamado, anime, swordsman, determination]
+tags: [Demon Slayer, Tanjiro Kamado]
 ---
 
 # No.20260716 鬼滅之刃 盛裝竈門炭治郎（酷炫的盛裝竈門炭治郎給你手機添加一絲活力）

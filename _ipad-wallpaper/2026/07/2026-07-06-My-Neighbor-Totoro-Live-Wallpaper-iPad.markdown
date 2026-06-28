@@ -4,7 +4,7 @@ category : anime
 title: My Neighbor Totoro Live Wallpaper
 description: No.20260706 宮崎駿 龍貓 動態壁紙
 keyword: My Neighbor Totoro,Totoro,龙猫,龙猫,龍貓,龍貓,となりのトトロ,トトロ,이웃집토토로,토토로
-tags : [Ghibli,Totoro,Anime,StudioGhibli]
+tags : [Studio Ghibli, Totoro]
 ---
 
 # No.20260706 My Neighbor Totoro Live Wallpaper

@@ -4,7 +4,7 @@ category: game
 title: Paris Saint-Germain Football Club Mecha Warrior Live Wallpaper
 description: 20260629豪門球隊-大巴黎（足球豪門標識主題機甲戰士，男人無法抗拒的力量展示）
 keyword: paris saint-germain, psg, football club, soccer, mecha, ligue 1, parc des princes
-tags: [Paris Saint-Germain, PSG, Football Club]
+tags: [Paris Saint-Germain, PSG]
 ---
 # No.20260629 Paris Saint-Germain Football Club Mecha Warrior Live Wallpaper
 

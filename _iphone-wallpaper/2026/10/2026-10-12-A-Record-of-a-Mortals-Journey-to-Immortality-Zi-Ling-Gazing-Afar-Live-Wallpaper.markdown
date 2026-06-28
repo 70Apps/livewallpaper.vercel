@@ -4,7 +4,7 @@ category : anime
 title: A Record of a Mortal's Journey to Immortality Zi Ling Gazing Afar Live Wallpaper
 description: No.20261012 凡人修仙传 紫灵凭栏远眺 動態壁紙
 keyword: A Record of a Mortal's Journey to Immortality,Zi Ling,凡人修仙传,紫灵,凡人修仙傳,紫靈,凡人修仙伝,シーリン,범인수선전,자령
-tags : [A Record of a Mortal's Journey to Immortality,Anime,Zi Ling,Xianxia]
+tags : ["A Record of a Mortal's Journey to Immortality", Zi Ling]
 ---
 
 # No.20261012 A Record of a Mortal's Journey to Immortality Zi Ling Gazing Afar Live Wallpaper

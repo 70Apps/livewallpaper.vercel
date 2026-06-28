@@ -4,7 +4,7 @@ category : anime
 title: A Record Of Mortals Journey To Immortality Zi Ling Beautiful And Powerful Live Wallpaper
 description: No.20260819 凡人修仙传 紫灵 最美丽的女主角法术也是很高超的呢 动态壁纸
 keyword: A Record Of Mortals Journey To Immortality,Zi Ling,凡人修仙传,紫灵,凡人修仙傳,紫靈,凡人修仙伝,紫霊,범인수선전,자령
-tags : [A Record Of Mortals Journey To Immortality,Anime,Cultivation]
+tags : ["A Record of a Mortal's Journey to Immortality"]
 ---
 
 # No.20260819 A Record Of Mortals Journey To Immortality Zi Ling Beautiful And Powerful Live Wallpaper

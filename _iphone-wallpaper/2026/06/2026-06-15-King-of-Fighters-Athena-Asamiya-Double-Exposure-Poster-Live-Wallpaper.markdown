@@ -4,7 +4,7 @@ category: game
 title: King of Fighters Athena Asamiya Double Exposure Poster Live Wallpaper
 description: 20260615拳皇-麻宮雅典娜（雙重曝光海報動態壁紙）
 keyword: king of fighters, athena asamiya, kof, fighting game, double exposure, poster art, anime game character, snk
-tags: [King of Fighters, Athena Asamiya, SNK]
+tags: [The King of Fighters, Athena Asamiya]
 ---
 # No.20260615 King of Fighters Athena Asamiya Double Exposure Poster
 

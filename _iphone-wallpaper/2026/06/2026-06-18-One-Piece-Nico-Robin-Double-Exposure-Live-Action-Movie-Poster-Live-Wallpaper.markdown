@@ -4,7 +4,7 @@ category: anima
 title: One Piece Nico Robin Double Exposure Live Action Movie Poster Live Wallpaper
 description: 20260618海賊王-妮可·羅賓（雙重曝光真人電影海報）
 keyword: one piece, nico robin, archaeologist, straw hat pirates, double exposure, live action movie, anime adaptation, eiichiro oda
-tags: [One Piece, Nico Robin, Straw Hat Pirates]
+tags: [One Piece, Nico Robin]
 ---
 # No.20260618 One Piece Nico Robin Double Exposure Live Action Movie Poster
 

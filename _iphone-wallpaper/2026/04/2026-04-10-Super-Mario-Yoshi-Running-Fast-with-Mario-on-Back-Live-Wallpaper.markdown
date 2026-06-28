@@ -4,7 +4,7 @@ category : game
 title: Super Mario Yoshi Running Fast with Mario on Back Live Wallpaper
 description: No.20260410 超级马里奥 耀西快跑 马里奥骑乘 动态壁纸
 keyword: Super Mario, Yoshi, running, fast, Mario, riding, speed, motion, Nintendo, platformer, action, dinosaur
-tags : [Nintendo]
+tags : []
 ---
 
 # No.20260410 Super Mario Yoshi Running Fast with Mario on Back Live Wallpaper

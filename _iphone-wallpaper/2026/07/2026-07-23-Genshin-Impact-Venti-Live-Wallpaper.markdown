@@ -4,7 +4,7 @@ category: game
 title: Genshin Impact Venti Live Wallpaper
 description: 20260723原神風神溫迪壁紙，塗鴉背景牆下的風神溫迪酷帥登場
 keyword: Genshin Impact, Venti, Anemo Archon, graffiti, cool, live wallpaper
-tags: [Genshin Impact, Venti, graffiti, Anemo Archon]
+tags: [Genshin Impact, Venti, Anemo Archon]
 ---
 
 # No.20260723 Genshin Impact Venti (Cool Venti on Graffiti Background Wall)

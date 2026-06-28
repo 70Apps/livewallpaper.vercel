@@ -4,7 +4,7 @@ category: anime
 title: Demon Slayer Stone Pillar Himejima Bizarre Night Live Wallpaper
 description: 20260531 鬼灭之刃岩柱悲鸣屿行冥（双重曝光浮世绘电影海报风格动态壁纸）
 keyword: demon slayer, stone pillar, himejima, bizarre night, movie poster, double exposure, ukiyo-e style, hashira, anime
-tags: [Demon Slayer, Ukiyo-E Style, Anime]
+tags: [Demon Slayer]
 ---
 
 # No.20260531 Demon Slayer Stone Pillar Himejima Bizarre Night

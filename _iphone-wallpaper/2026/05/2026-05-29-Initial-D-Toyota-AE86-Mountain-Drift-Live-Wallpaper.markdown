@@ -4,7 +4,7 @@ category: anime
 title: Initial D Toyota AE86 Mountain Drift Live Wallpaper
 description: 20260529 Initial D Toyota AE86 Mountain Drift Live Wallpaper - 晴空山林之间，藤原豆腐店的AE86帅气过弯
 keyword: initial d, toyota ae86, mountain drift, tofu shop, touge, racing, japanese anime
-tags: [Initial D, Toyota AE86, Tofu Shop, Touge Racing, Mountain Drift, Fujiwara, Japanese Anime]
+tags: [Initial D, Toyota AE86, Fujiwara]
 ---
 
 # No.20260529 Initial D Toyota AE86 Mountain Drift

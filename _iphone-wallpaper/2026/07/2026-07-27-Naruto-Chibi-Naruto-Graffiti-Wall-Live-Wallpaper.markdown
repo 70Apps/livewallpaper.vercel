@@ -4,7 +4,7 @@ category : cartoon
 title: Naruto Chibi Naruto Graffiti Wall Live Wallpaper
 description: No.20260727 火影忍者 Q版鸣人 涂鸦背景墙下的酷帅登场 动态壁纸
 keyword: Naruto,ナルト,火影忍者,漩涡鸣人,Naruto Uzumaki,うずまきナルト,Chibi,ちびキャラ,Q版
-tags : [Naruto,Anime,Chibi,Graffiti]
+tags : [Naruto]
 ---
 
 # No.20260727 Naruto Chibi Naruto Graffiti Wall Live Wallpaper

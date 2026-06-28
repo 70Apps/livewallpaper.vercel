@@ -4,7 +4,7 @@ category: game
 title: King of Fighters Mai Shiranui Double Exposure Poster Live Wallpaper
 description: 20260614拳皇-不知火舞（雙重曝光海報動態壁紙）
 keyword: king of fighters, mai shiranui, kof, fighting game, double exposure, poster art, anime game character, snk
-tags: [King of Fighters, Mai Shiranui, SNK]
+tags: [The King of Fighters, Mai Shiranui]
 ---
 # No.20260614 King of Fighters Mai Shiranui Double Exposure Poster
 

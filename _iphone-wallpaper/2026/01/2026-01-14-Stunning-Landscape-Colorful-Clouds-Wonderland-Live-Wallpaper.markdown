@@ -4,7 +4,7 @@ category : landscape
 title: Stunning Landscape Colorful Clouds Wonderland Live Wallpaper
 description: No.20260114 绝美风景 彩云仙境 动态壁纸
 keyword: landscape, colorful clouds, sky, lightning, wonderland, fantasy, ethereal, storm, celestial
-tags : [Landscape]
+tags : []
 ---
 
 # No.20260114 Stunning Landscape Colorful Clouds Wonderland Live Wallpaper

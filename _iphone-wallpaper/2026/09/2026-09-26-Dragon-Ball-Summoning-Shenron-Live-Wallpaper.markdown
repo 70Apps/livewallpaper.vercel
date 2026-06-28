@@ -4,7 +4,7 @@ category : anime
 title: Dragon Ball Summoning Shenron Live Wallpaper
 description: No.20260926 七龍珠 召喚神龍 動態壁紙
 keyword: Dragon Ball,Shenron,七龙珠,召唤神龙,七龍珠,召喚神龍,ドラゴンボール,神龍,드래곤볼,신룡
-tags : [DragonBall,Shenron,Anime,Summoning,Dragon]
+tags : [Dragon Ball, Shenron]
 ---
 
 # No.20260926 Dragon Ball Summoning Shenron Live Wallpaper

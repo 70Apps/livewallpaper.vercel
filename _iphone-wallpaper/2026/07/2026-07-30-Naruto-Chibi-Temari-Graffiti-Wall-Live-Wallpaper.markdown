@@ -4,7 +4,7 @@ category : cartoon
 title: Naruto Chibi Temari Graffiti Wall Live Wallpaper
 description: No.20260730 火影忍者 Q版手鞠 涂鸦背景墙下的酷帅登场 动态壁纸
 keyword: Naruto,ナルト,火影忍者,手鞠,Temari,テマリ,Chibi,ちびキャラ,Q版
-tags : [Naruto,Anime,Chibi,Graffiti]
+tags : [Naruto]
 ---
 
 # No.20260730 Naruto Chibi Temari Graffiti Wall Live Wallpaper

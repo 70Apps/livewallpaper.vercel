@@ -4,7 +4,7 @@ category : cartoon
 title: Naruto Chibi Sasuke Uchiha Graffiti Wall Live Wallpaper
 description: No.20260801 火影忍者 Q版宇智波佐助 涂鸦背景墙下的酷帅登场 动态壁纸
 keyword: Naruto,ナルト,火影忍者,宇智波佐助,Sasuke Uchiha,うちはサスケ,Chibi,ちびキャラ,Q版
-tags : [Naruto,Anime,Chibi,Graffiti]
+tags : [Naruto]
 ---
 
 # No.20260801 Naruto Chibi Sasuke Uchiha Graffiti Wall Live Wallpaper

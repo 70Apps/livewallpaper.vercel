@@ -4,7 +4,7 @@ category : cartoon
 title: Toy Story Open the Door Live Wallpaper
 description: No.20260907 玩具總動員 開門呀 動態壁紙
 keyword: ToyStory,Woody,玩具总动员,开门呀,玩具總動員,開門呀,トイストーリー,ウッディ,토이스토리,우디
-tags : [ToyStory,Woody,Cartoon,Pixar,Playful]
+tags : [Toy Story, Woody]
 ---
 
 # No.20260907 Toy Story Open the Door Live Wallpaper

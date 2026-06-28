@@ -4,7 +4,7 @@ category: game
 title: Genshin Impact Furina Live Wallpaper
 description: 20260721原神不滅的審判芙寧娜壁紙，塗鴉背景牆下的不滅的審判芙寧娜酷帥登場
 keyword: Genshin Impact, Furina, Everlasting Judgment, graffiti, cool, live wallpaper
-tags: [Genshin Impact, Furina, graffiti, Everlasting Judgment]
+tags: [Genshin Impact, Furina]
 ---
 
 # No.20260721 Genshin Impact Furina (Cool Furina on Graffiti Background Wall)

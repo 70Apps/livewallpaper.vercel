@@ -4,7 +4,7 @@ category : tech
 title: Apple Year of the Horse 2026 Auspicious Red Live Wallpaper
 description: No.20260112 苹果 马年吉祥 动态壁纸
 keyword: Apple, Year of the Horse, 2026, lunar new year, wallpaper, dynamic, red, gold, AirPods Pro, minimalist, animation
-tags : [Apple]
+tags : []
 ---
 
 # No.20260112 Apple Year of the Horse 2026 Auspicious Red Live Wallpaper

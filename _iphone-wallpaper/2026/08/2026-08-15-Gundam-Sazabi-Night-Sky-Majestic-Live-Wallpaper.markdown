@@ -4,7 +4,7 @@ category : anime
 title: Gundam Sazabi Night Sky Majestic Live Wallpaper
 description: No.20260815 高达 沙扎比 夜空下的沙扎比威武雄壮 动态壁纸
 keyword: Gundam,Sazabi,高达,沙扎比,高達,沙煞比,ガンダム,サザビー,건담,사자비
-tags : [Gundam,Anime,Mecha]
+tags : [Gundam]
 ---
 
 # No.20260815 Gundam Sazabi Night Sky Majestic Live Wallpaper

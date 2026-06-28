@@ -4,7 +4,7 @@ category : anime
 title: Attack on Titan Armin Live Wallpaper
 description: No.20260923 進擊的巨人 阿爾敏 動態壁紙
 keyword: Attack on Titan,Armin,进击的巨人,阿明,進擊的巨人,阿爾敏,進撃の巨人,アルミン,진격의거인,아륀
-tags : [AttackonTitan,Armin,Anime,Titan,Strategy]
+tags : [Attack on Titan, Armin]
 ---
 
 # No.20260923 Attack on Titan Armin Live Wallpaper

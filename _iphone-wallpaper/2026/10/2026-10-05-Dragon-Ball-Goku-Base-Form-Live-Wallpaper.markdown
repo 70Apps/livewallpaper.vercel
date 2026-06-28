@@ -4,7 +4,7 @@ category : anime
 title: Dragon Ball Goku Base Form Live Wallpaper
 description: No.20261005 七龍珠 悟空基礎常態 動態壁紙
 keyword: Dragon Ball,Goku,七龙珠,孙悟空,七龍珠,孫悟空,ドラゴンボール,孫悟空,드래곤볼,손오공
-tags : [DragonBall,Goku,Anime,Saiyan]
+tags : [Dragon Ball, Goku, Saiyan]
 ---
 
 # No.20261005 Dragon Ball Goku Base Form Live Wallpaper

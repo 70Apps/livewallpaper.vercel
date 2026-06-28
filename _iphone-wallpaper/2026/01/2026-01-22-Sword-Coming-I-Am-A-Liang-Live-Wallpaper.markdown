@@ -4,7 +4,7 @@ category : animation
 title: Sword Coming I Am A Liang Live Wallpaper
 description: No.20260122 剑来 我叫阿良 动态壁纸
 keyword: 剑来, 阿良, 竹林, 休憩, 冷酷, 帅气, 国漫, 剑侠, 中国动画
-tags : [Chinese Animation]
+tags : []
 ---
 
 # No.20260122 Sword Coming I Am A Liang Live Wallpaper

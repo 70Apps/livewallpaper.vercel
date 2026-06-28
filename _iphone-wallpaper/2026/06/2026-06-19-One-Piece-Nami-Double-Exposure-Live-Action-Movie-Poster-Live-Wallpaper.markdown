@@ -4,7 +4,7 @@ category: anima
 title: One Piece Nami Double Exposure Live Action Movie Poster Live Wallpaper
 description: 20260619海賊王-娜美（雙重曝光真人電影海報）
 keyword: one piece, nami, navigator, straw hat pirates, double exposure, live action movie, anime adaptation, eiichiro oda
-tags: [One Piece, Nami, Straw Hat Pirates]
+tags: [One Piece, Nami]
 ---
 # No.20260619 One Piece Nami Double Exposure Live Action Movie Poster
 

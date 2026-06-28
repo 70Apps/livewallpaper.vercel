@@ -4,7 +4,7 @@ category : anime
 title: Jujutsu Kaisen Itadori Yuji Crimson Cursed Technique Live Wallpaper
 description: No.20260523 咒術回戰 虎杖悠仁 動態壁紙 虎杖悠仁在赤黑咒力翻湧夜色中施展咒術
 keyword: Jujutsu Kaisen, Itadori Yuji, anime, crimson black, cursed energy, night, cursed technique, Sukuna vessel, powerful, determination
-tags: [Jujutsu Kaisen, Itadori Yuji, Anime]
+tags: [Jujutsu Kaisen, Itadori Yuji]
 ---
 
 # No.20260523 Jujutsu Kaisen Itadori Yuji Crimson Cursed Technique Live Wallpaper

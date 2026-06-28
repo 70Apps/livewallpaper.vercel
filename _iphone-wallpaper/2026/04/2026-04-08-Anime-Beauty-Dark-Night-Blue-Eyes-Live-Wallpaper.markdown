@@ -4,7 +4,7 @@ category : anime
 title: Anime Beauty Dark Night Blue Eyes Live Wallpaper
 description: No.20260408 二次元美女 暗夜蓝瞳 动态壁纸
 keyword: anime, beauty, dark night, blue eyes, mysterious, moonlight, ethereal, fantasy, portrait, glowing eyes
-tags : [Anime]
+tags : []
 ---
 
 # No.20260408 Anime Beauty Dark Night Blue Eyes Live Wallpaper

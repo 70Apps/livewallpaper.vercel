@@ -4,7 +4,7 @@ category : comics
 title: A Mortal's Journey Xuan Gu Immortal Live Wallpaper
 description: No.20251201 凡人修仙传最具人气魔仙玄骨上人动态壁纸
 keyword: A Mortal's Journey, Xuan Gu Immortal, Xianxia, Cultivation, Dark Immortal, Chinese Fantasy
-tags : [A Mortal's Journey]
+tags : ["A Record of a Mortal's Journey to Immortality"]
 ---
 
 # No.20251201 A Mortal's Journey Xuan Gu Immortal Live Wallpaper

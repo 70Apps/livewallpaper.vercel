@@ -4,7 +4,7 @@ category : racing
 title: Racing Blue Drift King Live Wallpaper
 description: No.20260528 极速赛车 蓝色漂移王 动态壁纸
 keyword: Nissan GT-R, racing, drift, blue, moonlight, car, drift king, smoke, tire, speed, night racing, curve
-tags : [Nissan, GT-R, Racing]
+tags : [Nissan, GT-R]
 ---
 
 # No.20260528 Racing Blue Drift King Live Wallpaper

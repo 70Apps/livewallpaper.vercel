@@ -4,7 +4,7 @@ category : anime
 title: Naruto Rinnegan Opening Eyes Live Wallpaper
 description: No.20260501 火影忍者 轮回眼 动态壁纸 泛黄漫画纸裂开缝隙，至高瞳术轮回眼睁开的瞬间
 keyword: Naruto, Rinnegan,轮回眼,Six Paths,dōjutsu,Sharingan,anime,Nagato,Pain,Senju
-tags: [Naruto, Rinnegan, Anime]
+tags: [Naruto, Rinnegan]
 ---
 
 # No.20260501 Naruto Rinnegan Opening Eyes Live Wallpaper

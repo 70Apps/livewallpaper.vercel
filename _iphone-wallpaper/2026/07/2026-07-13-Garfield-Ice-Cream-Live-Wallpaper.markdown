@@ -4,7 +4,7 @@ category: cartoon
 title: Garfield Ice Cream Live Wallpaper
 description: 20260713加菲貓冰淇淋壁紙，憨憨的加菲貓在吃冰淇淋，給你的手機添加一絲溫暖
 keyword: Garfield, Ice Cream, cartoon, cute, live wallpaper, cat, summer
-tags: [Garfield, Ice Cream, cartoon, cute, summer]
+tags: [Garfield]
 ---
 
 # No.20260713 加菲貓 冰淇淋（憨憨的加菲貓在吃冰淇淋，給你的手機添加一絲溫暖）

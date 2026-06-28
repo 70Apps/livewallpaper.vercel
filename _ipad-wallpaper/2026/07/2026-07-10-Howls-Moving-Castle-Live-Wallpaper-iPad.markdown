@@ -4,7 +4,7 @@ category : cartoon
 title: Howl's Moving Castle Live Wallpaper
 description: No.20260710 宫崎骏 哈尔的移动城堡 動態壁紙
 keyword: Howl's Moving Castle,Howl,哈尔的移动城堡,哈尔,霍爾的移動城堡,霍爾,ハウルの動く城,ハウル,하울의 움직이는 성,하울
-tags : [Howl's Moving Castle,Cartoon,Studio Ghibli,Fantasy]
+tags : ["Howl's Moving Castle", Studio Ghibli]
 ---
 
 # No.20260710 Howl's Moving Castle Live Wallpaper

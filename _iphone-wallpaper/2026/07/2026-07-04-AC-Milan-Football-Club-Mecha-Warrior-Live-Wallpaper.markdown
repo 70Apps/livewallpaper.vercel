@@ -4,7 +4,7 @@ category: game
 title: AC Milan Football Club Mecha Warrior Live Wallpaper
 description: 20260704豪門球隊-AC米蘭（足球豪門標識主題機甲戰士，男人無法抗拒的力量展示）
 keyword: ac milan, football club, soccer, mecha, rossoneri, serie a, san siro
-tags: [AC Milan, Football Club, Rossoneri]
+tags: [AC Milan]
 ---
 # No.20260704 AC Milan Football Club Mecha Warrior Live Wallpaper
 

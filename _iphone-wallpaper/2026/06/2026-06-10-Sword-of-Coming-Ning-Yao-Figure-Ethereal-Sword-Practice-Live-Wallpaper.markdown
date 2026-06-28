@@ -4,7 +4,7 @@ category: anime
 title: Sword of Coming Ning Yao Figure Ethereal Sword Practice Live Wallpaper
 description: 20260610劍來寧瑤手辦（超級可愛的小寧瑤手辦練起劍來也是仙氣飄飄）
 keyword: sword of coming, jian lai, ning yao, figure, sword practice, ethereal, chinese animation, donghua, live wallpaper
-tags: [Sword of Coming, Ning Yao, Chinese Animation]
+tags: [Sword of Coming, Ning Yao]
 ---
 # No.20260610 Sword of Coming Ning Yao Figure Ethereal Sword Practice
 

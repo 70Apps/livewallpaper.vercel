@@ -4,7 +4,7 @@ category : anime
 title: Attack on Titan Eren Live Wallpaper
 description: No.20260922 進擊的巨人 艾倫 動態壁紙
 keyword: Attack on Titan,Eren,进击的巨人,艾伦,進擊的巨人,艾倫,進撃の巨人,エレン,진격의거인,에렌
-tags : [AttackonTitan,Eren,Anime,Titan,Determination]
+tags : [Attack on Titan, Eren]
 ---
 
 # No.20260922 Attack on Titan Eren Live Wallpaper

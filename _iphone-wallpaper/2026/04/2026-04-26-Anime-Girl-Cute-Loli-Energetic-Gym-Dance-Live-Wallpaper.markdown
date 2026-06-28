@@ -4,7 +4,7 @@ category : anime
 title: Anime Girl Cute Loli Energetic Gym Dance Live Wallpaper
 description: No.20260426 二次元美元 动感小萝莉 健身房 性感舞动 动态壁纸
 keyword: anime, loli, gym, dance, energetic, cute, fitness, sexy, workout, sporty, pink hair, athletic
-tags : [Anime]
+tags : []
 ---
 
 # No.20260426 Anime Girl Cute Loli Energetic Gym Dance Live Wallpaper

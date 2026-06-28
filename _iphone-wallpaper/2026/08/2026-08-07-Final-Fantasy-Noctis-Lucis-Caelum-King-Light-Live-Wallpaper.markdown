@@ -4,7 +4,7 @@ category : game
 title: Final Fantasy Noctis Lucis Caelum King Light Live Wallpaper
 description: No.20260807 最终幻想 诺克提斯 暗夜王子的凝视，是永不熄灭的王之光 动态壁纸
 keyword: Final Fantasy,ファイナルファンタジー,最终幻想,诺克提斯,Noctis Lucis Caelum,ノクティス・ルシス・チェラム
-tags : [FinalFantasy,Game,Anime]
+tags : [Final Fantasy]
 ---
 
 # No.20260807 Final Fantasy Noctis Lucis Caelum King Light Live Wallpaper

@@ -4,7 +4,7 @@ category : animation
 title: Ling Cage Bai Yuekui on Spaceship Deck Live Wallpaper
 description: No.20260201 灵笼 白月魁 太空飞船甲板动态壁纸
 keyword: 灵笼, 白月魁, 白老板, 太空, 飞船, 甲板, 长刀, 科幻, 国漫, 中国动画
-tags : [Chinese Animation]
+tags : []
 ---
 
 # No.20260201 Ling Cage Bai Yuekui on Spaceship Deck Live Wallpaper

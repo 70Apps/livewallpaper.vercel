@@ -4,7 +4,7 @@ category : cartoon
 title: Toy Story Woody Tap Dance Live Wallpaper
 description: No.20260917 玩具總動員 胡迪探長的踢踏舞 動態壁紙
 keyword: ToyStory,Woody,玩具总动员,胡迪,玩具總動員,胡迪,トイストーリー,ウッディ,토이스토리,우디
-tags : [ToyStory,Woody,Cartoon,TapDance,Cowboy]
+tags : [Toy Story, Woody]
 ---
 
 # No.20260917 Toy Story Woody Tap Dance Live Wallpaper

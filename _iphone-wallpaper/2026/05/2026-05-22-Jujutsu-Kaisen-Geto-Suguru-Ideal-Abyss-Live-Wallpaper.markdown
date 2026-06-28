@@ -4,7 +4,7 @@ category : anime
 title: Jujutsu Kaisen Geto Suguru Ideal Abyss Live Wallpaper 
 description: No.20260522 咒術回戰 夏油杰 動態壁紙 暗紫咒力纏繞，夏油杰笑指理想深淵 
 keyword: Jujutsu Kaisen, Geto Suguru, anime, dark purple, cursed energy, ideal abyss, cursed spirit manipulation, villain, charismatic, mysterious 
-tags: [Jujutsu Kaisen, Geto Suguru, Anime]
+tags: [Jujutsu Kaisen, Geto Suguru]
 ---
 
 # No.20260522 Jujutsu Kaisen Geto Suguru Ideal Abyss Live Wallpaper

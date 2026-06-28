@@ -4,7 +4,7 @@ category : animation
 title: Ling Cage Bai Yuekui in Spacesuit Zero-G Live Wallpaper
 description: No.20260225 灵笼 白月魁宇航服 失重悬浮动态壁纸
 keyword: 灵笼, 白月魁, 白老板, 宇航服, 太空, 失重, 悬浮, 飞船, 国漫, 中国动画, 科幻
-tags : [Chinese Animation]
+tags : []
 ---
 
 # No.20260225 Ling Cage Bai Yuekui in Spacesuit Zero-G Live Wallpaper

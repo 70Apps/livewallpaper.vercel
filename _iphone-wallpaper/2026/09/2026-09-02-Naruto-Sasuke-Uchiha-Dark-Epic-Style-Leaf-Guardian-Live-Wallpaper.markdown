@@ -4,7 +4,7 @@ category : anime
 title: Naruto Sasuke Uchiha Dark Epic Style Leaf Guardian Live Wallpaper
 description: No.20260902 火影忍者 宇智波佐助 暗黑史詩風格木葉守護者 動態壁紙
 keyword: Naruto,SasukeUchiha,火影忍者,宇智波佐助,火影忍者,宇智波佐助,NARUTO,うちはサスケ,나루토,우치하사스케
-tags : [Naruto,SasukeUchiha,Anime,DarkEpic,LeafVillage]
+tags : [Naruto, Sasuke Uchiha]
 ---
 
 # No.20260902 Naruto Sasuke Uchiha Dark Epic Style Leaf Guardian Live Wallpaper

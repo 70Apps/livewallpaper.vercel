@@ -4,7 +4,7 @@ category : game
 title: Street Fighter Roaring White Ryu Live Wallpaper
 description: No.20260512 街頭霸王 咆哮的小白Ryu 動態壁紙 當仁不讓的街霸主角RYU發出怒吼，彷彿在說還有誰敢來挑戰我
 keyword: Street Fighter, Ryu, game, fighting, roaring, angry, challenge, white gi, fierce, legendary, martial arts
-tags: [Street Fighter, Ryu, Game]
+tags: [Street Fighter, Ryu]
 ---
 
 # No.20260512 Street Fighter Roaring White Ryu Live Wallpaper

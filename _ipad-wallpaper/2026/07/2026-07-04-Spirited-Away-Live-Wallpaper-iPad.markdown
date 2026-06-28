@@ -4,7 +4,7 @@ category : anime
 title: Spirited Away Live Wallpaper
 description: No.20260704 宮崎駿 千與千尋 動態壁紙
 keyword: Spirited Away,Chihiro,千与千寻,千寻,千與千尋,千尋,千と千尋の神隠し,千尋,센과치히로의행방불명,치히로
-tags : [Ghibli,SpiritedAway,Anime,StudioGhibli]
+tags : [Studio Ghibli, Spirited Away]
 ---
 
 # No.20260704 Spirited Away Live Wallpaper

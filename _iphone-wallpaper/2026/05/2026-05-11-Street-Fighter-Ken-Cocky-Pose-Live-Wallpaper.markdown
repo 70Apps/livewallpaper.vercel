@@ -4,7 +4,7 @@ category : game
 title: Street Fighter Ken Cocky Pose Live Wallpaper
 description: No.20260511 街頭霸王 小紅Ken 動態壁紙 肯微笑著擺出挑釁的姿勢，不畏懼任何人的挑戰
 keyword: Street Fighter, Ken Masters, game, fighting, cocky pose, confident, smile, challenge, martial arts, legendary
-tags: [Street Fighter, Ken, Game]
+tags: [Street Fighter, Ken]
 ---
 
 # No.20260511 Street Fighter Ken Cocky Pose Live Wallpaper

@@ -4,7 +4,7 @@ category : cartoon
 title: Naruto Chibi Choji Akimichi Graffiti Wall Live Wallpaper
 description: No.20260803 火影忍者 Q版秋道丁次 涂鸦背景墙下的酷帅登场 动态壁纸
 keyword: Naruto,ナルト,火影忍者,秋道丁次,Choji Akimichi,秋道チョウジ,Chibi,ちびキャラ,Q版
-tags : [Naruto,Anime,Chibi,Graffiti]
+tags : [Naruto]
 ---
 
 # No.20260803 Naruto Chibi Choji Akimichi Graffiti Wall Live Wallpaper

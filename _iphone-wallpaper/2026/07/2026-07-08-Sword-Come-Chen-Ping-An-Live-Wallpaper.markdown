@@ -4,7 +4,7 @@ category: drama
 title: Sword Come Chen Ping An Thick Paint Comic Style Live Wallpaper
 description: 20260708劍來陳平安厚塗漫畫風格壁紙，全新演繹劍來陳平安的風采
 keyword: Sword Come, Chen Ping An, thick paint, comic style, live wallpaper, sword, martial arts
-tags: [Sword Come, Chen Ping An, thick paint, comic style, martial arts, sword]
+tags: [Sword of Coming, "Chen Ping'an"]
 ---
 
 # No.20260708 劍來 陳平安（厚塗漫畫風格壁紙，全新演繹劍來陳平安的風采）

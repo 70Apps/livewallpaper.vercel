@@ -4,7 +4,7 @@ category: game
 title: Manchester City Football Club Mecha Warrior Live Wallpaper
 description: 20260701豪門球隊-曼城（足球豪門標識主題機甲戰士，男人無法抗拒的力量展示）
 keyword: manchester city, football club, soccer, mecha, citizens, premier league, etihad
-tags: [Manchester City, Football Club, Citizens]
+tags: [Manchester City]
 ---
 # No.20260701 Manchester City Football Club Mecha Warrior Live Wallpaper
 

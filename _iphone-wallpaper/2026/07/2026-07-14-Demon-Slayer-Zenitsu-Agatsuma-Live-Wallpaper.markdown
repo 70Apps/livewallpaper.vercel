@@ -4,7 +4,7 @@ category: anima
 title: Demon Slayer Zenitsu Agatsuma Live Wallpaper
 description: 20260714鬼滅之刃盛裝我妻善逸壁紙，酷炫的盛裝我妻善逸給你手機添加一絲活力
 keyword: Demon Slayer, Zenitsu Agatsuma, anime, cool, live wallpaper, thunder
-tags: [Demon Slayer, Zenitsu Agatsuma, anime, cool, thunder]
+tags: [Demon Slayer, Zenitsu Agatsuma]
 ---
 
 # No.20260714 鬼滅之刃 盛裝我妻善逸（酷炫的盛裝我妻善逸給你手機添加一絲活力）

@@ -4,7 +4,7 @@ category : game
 title: Final Fantasy Vincent Valentine Crimson Eyes Revenge Live Wallpaper
 description: No.20260808 最终幻想 文森特 猩红眼眸燃尽黑暗，猎魔人的复仇永不落幕 动态壁纸
 keyword: Final Fantasy,ファイナルファンタジー,最终幻想,文森特,Vincent Valentine,ヴィンセント・ヴァレンタイン
-tags : [FinalFantasy,Game,Anime]
+tags : [Final Fantasy]
 ---
 
 # No.20260808 Final Fantasy Vincent Valentine Crimson Eyes Revenge Live Wallpaper

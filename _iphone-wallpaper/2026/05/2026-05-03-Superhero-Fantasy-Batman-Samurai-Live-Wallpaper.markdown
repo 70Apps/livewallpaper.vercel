@@ -4,7 +4,7 @@ category : superhero
 title: Superhero Fantasy Batman Samurai Live Wallpaper
 description: No.20260503 超級英雄 幻想蝙蝠俠 動態壁紙 蝙蝠俠化身幻想日式機甲遊戲中的武士，手執長刀威武亮相
 keyword: Batman, superhero, fantasy, samurai, mecha, katana, Japanese, warrior, dark knight, anime
-tags: [Batman, Superhero, Fantasy]
+tags: [Batman]
 ---
 
 # No.20260503 Superhero Fantasy Batman Samurai Live Wallpaper

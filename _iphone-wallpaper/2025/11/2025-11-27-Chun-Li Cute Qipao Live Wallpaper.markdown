@@ -4,7 +4,7 @@ category : Game
 title: Chun-Li Cute Qipao Live Wallpaper
 description: No.20251127 鋼春麗可愛唐裝動態壁紙
 keyword: Fighting, Game, Street Fighter
-tags : [Game]
+tags : []
 ---
 
 # No.20251127🎋春麗可愛唐裝動態壁紙

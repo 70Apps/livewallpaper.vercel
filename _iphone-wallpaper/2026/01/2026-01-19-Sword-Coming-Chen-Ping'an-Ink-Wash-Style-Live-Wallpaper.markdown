@@ -4,7 +4,7 @@ category : animation
 title: Sword Coming Chen Ping'an Ink Wash Style Live Wallpaper
 description: No.20260119 剑来 陈平安 水墨风格第二季专属动态壁纸
 keyword: 剑来, 陈平安, 水墨风格, 第二季, 专属, 海报, 动态, 特效, 武侠, 中国动画
-tags : [Chinese Animation]
+tags : []
 ---
 
 # No.20260119 Sword Coming Chen Ping'an Ink Wash Style Live Wallpaper

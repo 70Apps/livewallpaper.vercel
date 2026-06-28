@@ -4,7 +4,7 @@ category : cartoon
 title: Naruto Chibi Sakura Haruno Graffiti Wall Live Wallpaper
 description: No.20260731 火影忍者 Q版春野樱 涂鸦背景墙下的酷帅登场 动态壁纸
 keyword: Naruto,ナルト,火影忍者,春野樱,Sakura Haruno,春野サクラ,Chibi,ちびキャラ,Q版
-tags : [Naruto,Anime,Chibi,Graffiti]
+tags : [Naruto]
 ---
 
 # No.20260731 Naruto Chibi Sakura Haruno Graffiti Wall Live Wallpaper

@@ -4,7 +4,7 @@ category: racing
 title: Red Black Toyota Supra Canyon Twilight Live Wallpaper
 description: 20260530 Red Black Toyota Supra Canyon Twilight Live Wallpaper - 黄昏峡谷弯道，红黑丰田 Supra 贴地飞驰
 keyword: toyota supra, canyon racing, twilight, mountain curves, red black, sports car, racing
-tags: [Toyota Supra, Canyon Racing, Twilight Scene, Mountain Curves, Sports Car, Red Black, Night Racing, Japanese Racing]
+tags: [Toyota Supra]
 ---
 
 # No.20260530 Red Black Toyota Supra Canyon Twilight Racing

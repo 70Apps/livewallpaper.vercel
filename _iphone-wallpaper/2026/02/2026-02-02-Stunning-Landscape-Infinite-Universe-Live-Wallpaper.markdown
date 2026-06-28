@@ -4,7 +4,7 @@ category : landscape
 title: Stunning Landscape Infinite Universe Live Wallpaper
 description: No.20260202 绝美风景 无垠宇宙 动态壁纸
 keyword: universe, space, nebula, explosion, cosmic, stars, galaxy, infinity, beauty, science
-tags : [Space]
+tags : []
 ---
 
 # No.20260202 Stunning Landscape Infinite Universe Live Wallpaper

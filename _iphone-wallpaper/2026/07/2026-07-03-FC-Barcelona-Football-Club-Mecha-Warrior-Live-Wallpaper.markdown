@@ -4,7 +4,7 @@ category: game
 title: FC Barcelona Football Club Mecha Warrior Live Wallpaper
 description: 20260703豪門球隊-巴薩（足球豪門標識主題機甲戰士，男人無法抗拒的力量展示）
 keyword: barcelona, football club, soccer, mecha, blaugrana, la liga, camp nou
-tags: [Barcelona, Football Club, Blaugrana]
+tags: [Barcelona]
 ---
 # No.20260703 FC Barcelona Football Club Mecha Warrior Live Wallpaper
 

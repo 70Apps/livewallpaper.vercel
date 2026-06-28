@@ -4,7 +4,7 @@ category : game
 title: Super Mario Planet Destruction Yoshi Riding Missile Strike Live Wallpaper
 description: No.20260417 超级马里奥 星球毁灭 耀西骑乘 导弹击中 动态壁纸
 keyword: Super Mario, Mario, Yoshi, planet destruction, missile, explosion, space, action, Nintendo, platformer, dramatic
-tags : [Nintendo]
+tags : []
 ---
 
 # No.20260417 Super Mario Planet Destruction Yoshi Riding Missile Strike Live Wallpaper

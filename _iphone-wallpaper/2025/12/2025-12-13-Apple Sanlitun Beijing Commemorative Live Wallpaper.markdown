@@ -4,7 +4,7 @@ category : tech
 title: Beijing Apple Sanlitun Memorial Wallpaper Live Wallpaper
 description: No.20251213 北京三里屯苹果店纪念壁纸动态壁纸
 keyword: Apple, Sanlitun, Beijing, Memorial, Logo, Chinese Pattern, Cloud Pattern, Culture
-tags : [Apple]
+tags : []
 ---
 
 # No.20251213 Beijing Apple Sanlitun Memorial Wallpaper Live Wallpaper

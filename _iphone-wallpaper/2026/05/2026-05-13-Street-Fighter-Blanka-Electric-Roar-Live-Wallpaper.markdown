@@ -4,7 +4,7 @@ category : game
 title: Street Fighter Blanka Electric Roar Live Wallpaper
 description: No.20260513 街頭霸王 布蘭卡 動態壁紙 獅子布蘭卡一邊咆哮，一邊發出閃電攻擊
 keyword: Street Fighter, Blanka, game, fighting, electric, lightning, roar, beast, fierce, legendary, jungle warrior
-tags: [Street Fighter, Blanka, Game]
+tags: [Street Fighter, Blanka]
 ---
 
 # No.20260513 Street Fighter Blanka Electric Roar Live Wallpaper

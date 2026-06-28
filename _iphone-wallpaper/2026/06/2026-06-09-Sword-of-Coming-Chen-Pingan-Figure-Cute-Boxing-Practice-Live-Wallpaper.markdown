@@ -4,7 +4,7 @@ category: anime
 title: Sword of Coming Chen Ping'an Figure Cute Boxing Practice Live Wallpaper
 description: 20260609劍來陳平安手辦（超級可愛的小平安手辦練起拳來還真是好專注）
 keyword: sword of coming, jian lai, chen pingan, figure, boxing practice, cute, chinese animation, donghua, live wallpaper
-tags: [Sword of Coming, Chen Ping'an, Chinese Animation]
+tags: [Sword of Coming, "Chen Ping'an"]
 ---
 # No.20260609 Sword of Coming Chen Ping'an Figure Cute Boxing Practice
 

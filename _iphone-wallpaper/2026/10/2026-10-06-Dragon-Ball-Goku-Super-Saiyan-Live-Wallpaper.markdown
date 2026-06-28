@@ -4,7 +4,7 @@ category : anime
 title: Dragon Ball Goku Super Saiyan Live Wallpaper
 description: No.20261006 七龍珠 悟空超級賽亞人第一階 動態壁紙
 keyword: Dragon Ball,Super Saiyan,七龙珠,超级赛亚人,七龍珠,超級賽亞人,ドラゴンボール,スーパーサイヤ人,드래곤볼,슈퍼사이야인
-tags : [DragonBall,Goku,Anime,SuperSaiyan]
+tags : [Dragon Ball, Goku, Super Saiyan]
 ---
 
 # No.20261006 Dragon Ball Goku Super Saiyan Live Wallpaper

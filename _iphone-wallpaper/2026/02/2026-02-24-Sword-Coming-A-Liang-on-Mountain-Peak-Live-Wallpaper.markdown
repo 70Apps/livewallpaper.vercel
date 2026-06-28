@@ -4,7 +4,7 @@ category : animation
 title: Sword Coming A Liang on Mountain Peak Live Wallpaper
 description: No.20260224 剑来 山上阿良 山顶亮剑动态壁纸
 keyword: 剑来, 阿良, 山顶, 亮剑, 剑客, 国漫, 中国动画, 武侠, 霸气
-tags : [Chinese Animation]
+tags : []
 ---
 
 # No.20260224 Sword Coming A Liang on Mountain Peak Live Wallpaper

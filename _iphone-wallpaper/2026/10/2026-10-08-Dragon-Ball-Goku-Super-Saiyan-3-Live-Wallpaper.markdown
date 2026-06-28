@@ -4,7 +4,7 @@ category : anime
 title: Dragon Ball Goku Super Saiyan 3 Live Wallpaper
 description: No.20261008 七龍珠 悟空超級賽亞人第三階 動態壁紙
 keyword: Dragon Ball,Super Saiyan 3,七龙珠,超级赛亚人三,七龍珠,超級賽亞人三,ドラゴンボール,スーパーサイヤ人3,드래곤볼,슈퍼사이야인3
-tags : [DragonBall,Goku,Anime,SuperSaiyan3]
+tags : [Dragon Ball, Goku, Super Saiyan 3]
 ---
 
 # No.20261008 Dragon Ball Goku Super Saiyan 3 Live Wallpaper

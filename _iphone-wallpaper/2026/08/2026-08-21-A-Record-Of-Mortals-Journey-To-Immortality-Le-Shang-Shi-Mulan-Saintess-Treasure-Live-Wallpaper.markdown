@@ -4,7 +4,7 @@ category : anime
 title: A Record Of Mortals Journey To Immortality Le Shang Shi Mulan Saintess Treasure Live Wallpaper
 description: No.20260821 凡人修仙传 乐上师 看看我慕兰圣女的法宝厉害不厉害 动态壁纸
 keyword: A Record Of Mortals Journey To Immortality,Le Shang Shi,凡人修仙传,乐上师,凡人修仙傳,樂上師,凡人修仙伝,楽上師,범인수선전,악상사
-tags : [A Record Of Mortals Journey To Immortality,Anime,Cultivation]
+tags : ["A Record of a Mortal's Journey to Immortality"]
 ---
 
 # No.20260821 A Record Of Mortals Journey To Immortality Le Shang Shi Mulan Saintess Treasure Live Wallpaper

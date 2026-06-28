@@ -4,7 +4,7 @@ category: anime
 title: Demon Slayer Sound Pillar Tengen Uzui Double Exposure Ukiyo-E Cinematic Live Wallpaper
 description: 20260605鬼滅之刃音柱宇髄天元（雙重曝光浮世繪電影海報風格動態壁紙）
 keyword: demon slayer, sound pillar, tengen uzui, double exposure, ukiyo-e style, cinematic, movie poster, hashira, anime, flashy
-tags: [Demon Slayer, Sound Pillar, Tengen Uzui]
+tags: [Demon Slayer, Tengen Uzui]
 ---
 # No.20260605 Demon Slayer Sound Pillar Tengen Uzui Double Exposure Ukiyo-E
 

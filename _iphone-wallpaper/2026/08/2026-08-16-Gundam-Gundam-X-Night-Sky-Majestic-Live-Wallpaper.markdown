@@ -4,7 +4,7 @@ category : anime
 title: Gundam Gundam X Night Sky Majestic Live Wallpaper
 description: No.20260816 高达 高达X 夜空下的高达X威武雄壮 动态壁纸
 keyword: Gundam,Gundam X,高达,高达X,高達,高達X,ガンダム,ガンダムX,건담,건담X
-tags : [Gundam,Anime,Mecha]
+tags : [Gundam]
 ---
 
 # No.20260816 Gundam Gundam X Night Sky Majestic Live Wallpaper

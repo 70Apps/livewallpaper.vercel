@@ -4,7 +4,7 @@ category : animation
 title: Sword Coming Ning Yao with Skirt Knife Live Wallpaper
 description: No.20260124 剑来 宁姚2 手执压裙刀动态壁纸
 keyword: 剑来, 宁姚, 压裙刀, 战斗, 酷炫, 女主, 国漫, 剑侠, 中国动画
-tags : [Chinese Animation]
+tags : []
 ---
 
 # No.20260124 Sword Coming Ning Yao with Skirt Knife Live Wallpaper

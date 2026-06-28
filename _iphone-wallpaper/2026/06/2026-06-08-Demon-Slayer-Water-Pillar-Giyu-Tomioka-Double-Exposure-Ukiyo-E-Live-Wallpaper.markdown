@@ -4,7 +4,7 @@ category: anime
 title: Demon Slayer Water Pillar Giyu Tomioka Double Exposure Ukiyo-E Cinematic Live Wallpaper
 description: 20260608鬼滅之刃水柱冨岡義勇（雙重曝光浮世繪電影海報風格動態壁紙）
 keyword: demon slayer, water pillar, giyu tomioka, double exposure, ukiyo-e style, cinematic, movie poster, hashira, anime, water
-tags: [Demon Slayer, Water Pillar, Giyu Tomioka]
+tags: [Demon Slayer, Giyu Tomioka]
 ---
 # No.20260608 Demon Slayer Water Pillar Giyu Tomioka Double Exposure Ukiyo-E
 

@@ -4,7 +4,7 @@ category: anima
 title: Naruto Itachi Uchiha Figure Unhappy With Crows Live Wallpaper
 description: 20260622火影忍者-宇智波鼬手辦（鼬不高興了，他的烏鴉也來湊熱鬧）
 keyword: naruto, itachi uchiha, uchiha clan, anime figure, crows, sharingan, masashi kishimoto
-tags: [Naruto, Itachi Uchiha, Uchiha Clan]
+tags: [Naruto, Itachi Uchiha]
 ---
 # No.20260622 Naruto Itachi Uchiha Figure Unhappy With Crows
 

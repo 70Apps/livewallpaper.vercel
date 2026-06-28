@@ -2,12 +2,38 @@
 layout: default
 ---
 
-{% for tag in site.tags %}
-  <a name="{{ tag[0] }}">
-  <h3>{{ tag[0] }}</h3></a>
-  <ul>
-    {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+<div class="tags-index">
+  <h1>Tags</h1>
+
+  <div class="tag-cloud">
+    {% for tag_entry in site.all_tags %}
+      {% assign tag_name = tag_entry[0] %}
+      {% assign tag_count = tag_entry[1] %}
+      <a class="tag-link" href="/tag/{{ tag_name }}/">{{ tag_name }} <span class="tag-count">({{ tag_count }})</span></a>
     {% endfor %}
-  </ul>
-{% endfor %}
+  </div>
+
+  <hr>
+
+  {% for tag_entry in site.all_tags %}
+    {% assign tag_name = tag_entry[0] %}
+    <div class="tag-section" id="{{ tag_name }}">
+      <h3><a href="/tag/{{ tag_name }}/">{{ tag_name }}</a> <span class="tag-count">({{ tag_entry[1] }})</span></h3>
+      <ul>
+        {% for doc in site.iphone-wallpaper %}
+          {% if doc.tags contains tag_name %}
+            <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+        {% for doc in site.ipad-wallpaper %}
+          {% if doc.tags contains tag_name %}
+            <li><a href="{{ doc.url }}">{{ doc.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+        {% for post in site.tags[tag_name] %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
+</div>

@@ -4,7 +4,7 @@ category: drama
 title: Sword Come Ning Yao Thick Paint Comic Style Live Wallpaper
 description: 20260709劍來寧姚厚塗漫畫風格壁紙，全新演繹劍來寧姚的風華
 keyword: Sword Come, Ning Yao, thick paint, comic style, live wallpaper, sword, martial arts
-tags: [Sword Come, Ning Yao, thick paint, comic style, martial arts, sword]
+tags: [Sword of Coming, Ning Yao]
 ---
 
 # No.20260709 劍來 寧姚（厚塗漫畫風格壁紙，全新演繹劍來寧姚的風華）

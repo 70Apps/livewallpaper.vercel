@@ -4,7 +4,7 @@ category: game
 title: Liverpool Football Club Mecha Power Live Wallpaper
 description: 20260627豪門球隊-利物浦（機甲與足球豪門的碰撞，男人無法抗拒的力量展示）
 keyword: liverpool, football club, soccer, mecha, the reds, premier league, anfield
-tags: [Liverpool, Football Club, The Reds]
+tags: [Liverpool]
 ---
 # No.20260627 Liverpool Football Club Mecha Power Live Wallpaper
 

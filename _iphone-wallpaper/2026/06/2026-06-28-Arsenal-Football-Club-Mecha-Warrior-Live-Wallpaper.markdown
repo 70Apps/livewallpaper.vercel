@@ -4,7 +4,7 @@ category: game
 title: Arsenal Football Club Mecha Warrior Live Wallpaper
 description: 20260628豪門球隊-阿森納（足球豪門標識主題機甲戰士，男人無法抗拒的力量展示）
 keyword: arsenal, football club, soccer, mecha, gunners, premier league, emirates
-tags: [Arsenal, Football Club, Gunners]
+tags: [Arsenal]
 ---
 # No.20260628 Arsenal Football Club Mecha Warrior Live Wallpaper
 

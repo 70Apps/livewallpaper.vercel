@@ -4,7 +4,7 @@ category : cartoon
 title: Naruto Chibi Shikamaru Nara Graffiti Wall Live Wallpaper
 description: No.20260804 火影忍者 Q版奈良鹿丸 涂鸦背景墙下的酷帅登场 动态壁纸
 keyword: Naruto,ナルト,火影忍者,奈良鹿丸,Shikamaru Nara,奈良シカマル,Chibi,ちびキャラ,Q版
-tags : [Naruto,Anime,Chibi,Graffiti]
+tags : [Naruto]
 ---
 
 # No.20260804 Naruto Chibi Shikamaru Nara Graffiti Wall Live Wallpaper

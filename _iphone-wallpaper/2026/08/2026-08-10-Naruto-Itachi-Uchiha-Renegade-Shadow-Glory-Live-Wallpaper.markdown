@@ -4,7 +4,7 @@ category : anime
 title: Naruto Itachi Uchiha Renegade Shadow Glory Live Wallpaper
 description: No.20260810 火影忍者 宇智波鼬 以叛忍之名，背负整个世界的误解与荣光 动态壁纸
 keyword: Naruto,Itachi Uchiha,火影忍者,宇智波鼬,火影忍者,宇智波鼬,NARUTO,うちはイタチ,나루토,우치하 이타치
-tags : [Naruto,Anime,Itachi]
+tags : [Naruto, Itachi]
 ---
 
 # No.20260810 Naruto Itachi Uchiha Renegade Shadow Glory Live Wallpaper

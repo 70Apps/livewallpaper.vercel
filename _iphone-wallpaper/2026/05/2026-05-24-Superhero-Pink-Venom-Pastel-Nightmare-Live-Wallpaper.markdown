@@ -4,7 +4,7 @@ category : movie
 title: Superhero Pink Venom Pastel Nightmare Live Wallpaper
 description: No.20260524 超級英雄 粉彩毒液 動態壁紙 紫藍焰霧翻湧，毒液垂頭吐信而來
 keyword: Superhero, Pink Venom, pastel, purple blue flame, fog, menacing, symbiote, Marvel, comic, dangerous
-tags: [Superhero, Pink Venom, Movie]
+tags: [Pink Venom]
 ---
 
 # No.20260524 Superhero Pink Venom Pastel Nightmare Live Wallpaper

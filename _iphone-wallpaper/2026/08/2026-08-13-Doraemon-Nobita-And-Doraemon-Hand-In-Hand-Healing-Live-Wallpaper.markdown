@@ -4,7 +4,7 @@ category : cartoon
 title: Doraemon Nobita And Doraemon Hand In Hand Healing Live Wallpaper
 description: No.20260813 哆啦A梦 大雄和机器猫 两个好朋友牵手开心地走来，带给你超级治愈的心情 动态壁纸
 keyword: Doraemon,Nobita,哆啦A梦,大雄,哆啦A夢,大雄,ドラえもん,のび太,도라에몽,노비타
-tags : [Doraemon,Cartoon,Healing]
+tags : [Doraemon]
 ---
 
 # No.20260813 Doraemon Nobita And Doraemon Hand In Hand Healing Live Wallpaper

@@ -4,7 +4,7 @@ category : anime
 title: Dragon Ball Goku Super Saiyan 4 Live Wallpaper
 description: No.20261009 七龍珠 悟空超級賽亞人第四階 動態壁紙
 keyword: Dragon Ball,Super Saiyan 4,七龙珠,超级赛亚人四,七龍珠,超級賽亞人四,ドラゴンボール,スーパーサイヤ人4,드래곤볼,슈퍼사이야인4
-tags : [DragonBall,Goku,Anime,SuperSaiyan4]
+tags : [Dragon Ball, Goku, Super Saiyan 4]
 ---
 
 # No.20261009 Dragon Ball Goku Super Saiyan 4 Live Wallpaper

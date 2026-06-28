@@ -4,7 +4,7 @@ category : superhero
 title: Superhero Fantasy Thor Warrior Live Wallpaper
 description: No.20260504 超級英雄 幻想雷神 動態壁紙 雷神化身為日式機甲幻想遊戲中的威武武士，巨大的戰斧彰顯無窮的力量
 keyword: Thor, superhero, fantasy, warrior, mecha, battle axe, Japanese, warrior, Norse god, anime, thunder
-tags: [Thor, Superhero, Fantasy]
+tags: [Thor]
 ---
 
 # No.20260504 Superhero Fantasy Thor Warrior Live Wallpaper

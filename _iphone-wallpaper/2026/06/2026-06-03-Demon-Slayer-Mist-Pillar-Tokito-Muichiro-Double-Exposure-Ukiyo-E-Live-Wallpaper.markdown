@@ -4,7 +4,7 @@ category: anime
 title: Demon Slayer Mist Pillar Tokito Muichiro Double Exposure Ukiyo-E Cinematic Live Wallpaper
 description: 20260603鬼灭之刃霞柱时透无一郎双重曝光浮世绘电影海报风格动态壁纸
 keyword: demon slayer, mist pillar, tokito muichiro, double exposure, ukiyo-e, cinematic, anime
-tags: [DemonSlayer, MistPillar, TokitoMuichiro, DoubleExposure, UkyioE, Cinematic]
+tags: [Demon Slayer, Tokito Muichiro]
 ---
 
 # No.30603 Demon Slayer Mist Pillar Tokito Muichiro Double Exposure Ukiyo-E Cinematic

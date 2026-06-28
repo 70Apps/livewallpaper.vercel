@@ -4,7 +4,7 @@ category : anime
 title: Jujutsu Kaisen Gojo Satoru Invincible Azure Live Wallpaper
 description: No.20260521 咒術回戰 五條悟 動態壁紙 幽藍光影裡，五條悟老師出手展現無敵的實力
 keyword: Jujutsu Kaisen, Gojo Satoru, anime, azure light, infinite void, invincible, blue energy, teacher domain expansion, limitless, cursed technique
-tags: [Jujutsu Kaisen, Gojo Satoru, Anime]
+tags: [Jujutsu Kaisen, Gojo Satoru]
 ---
 
 # No.20260521 Jujutsu Kaisen Gojo Satoru Invincible Azure Live Wallpaper

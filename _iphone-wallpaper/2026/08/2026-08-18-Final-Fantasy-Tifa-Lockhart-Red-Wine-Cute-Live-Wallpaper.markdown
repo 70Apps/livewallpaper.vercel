@@ -4,7 +4,7 @@ category : game
 title: Final Fantasy Tifa Lockhart Red Wine Cute Live Wallpaper
 description: No.20260818 最终幻想 蒂法 喝着红酒的蒂法，温柔又可爱 动态壁纸
 keyword: Final Fantasy,Tifa Lockhart,最终幻想,蒂法,最終幻想,蒂法,ファイナルファンタジー,ティファ・ロックハート,파이널판타지,티파
-tags : [Final Fantasy,Game,Elegant]
+tags : [Final Fantasy]
 ---
 
 # No.20260818 Final Fantasy Tifa Lockhart Red Wine Cute Live Wallpaper

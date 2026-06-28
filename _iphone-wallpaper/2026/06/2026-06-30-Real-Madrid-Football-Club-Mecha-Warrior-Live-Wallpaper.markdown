@@ -4,7 +4,7 @@ category: game
 title: Real Madrid Football Club Mecha Warrior Live Wallpaper
 description: 20260630豪門球隊-皇馬（足球豪門標識主題機甲戰士，男人無法抗拒的力量展示）
 keyword: real madrid, football club, soccer, mecha, los blancos, la liga, santiago bernabeu
-tags: [Real Madrid, Football Club, Los Blancos]
+tags: [Real Madrid]
 ---
 # No.20260630 Real Madrid Football Club Mecha Warrior Live Wallpaper
 

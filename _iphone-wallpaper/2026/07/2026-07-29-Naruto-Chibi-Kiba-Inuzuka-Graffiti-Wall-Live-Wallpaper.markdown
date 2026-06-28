@@ -4,7 +4,7 @@ category : cartoon
 title: Naruto Chibi Kiba Inuzuka Graffiti Wall Live Wallpaper
 description: No.20260729 火影忍者 Q版犬冢牙 涂鸦背景墙下的酷帅登场 动态壁纸
 keyword: Naruto,ナルト,火影忍者,犬冢牙,Kiba Inuzuka,犬塚キバ,Chibi,ちびキャラ,Q版
-tags : [Naruto,Anime,Chibi,Graffiti]
+tags : [Naruto]
 ---
 
 # No.20260729 Naruto Chibi Kiba Inuzuka Graffiti Wall Live Wallpaper

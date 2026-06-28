@@ -4,7 +4,7 @@ category: game
 title: Juventus Football Club Mecha Warrior Live Wallpaper
 description: 20260705豪門球隊-尤文（足球豪門標識主題機甲戰士，男人無法抗拒的力量展示）
 keyword: juventus, football club, soccer, mecha, bianconeri, serie a, allianz stadium
-tags: [Juventus, Football Club, Bianconeri]
+tags: [Juventus]
 ---
 # No.20260705 Juventus Football Club Mecha Warrior Live Wallpaper
 

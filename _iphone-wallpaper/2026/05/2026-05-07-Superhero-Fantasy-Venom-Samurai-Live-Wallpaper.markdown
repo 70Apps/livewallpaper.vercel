@@ -4,7 +4,7 @@ category : superhero
 title: Superhero Fantasy Venom Samurai Live Wallpaper
 description: No.20260507 超級英雄 幻想毒液 動態壁紙 毒液化身幻想遊戲中的機甲武士，手執雙刀威武霸氣
 keyword: Venom, superhero, fantasy, samurai, mecha, dual blades, symbiote, Japanese, warrior, Marvel, anime, powerful
-tags: [Venom, Superhero, Fantasy]
+tags: [Venom]
 ---
 
 # No.20260507 Superhero Fantasy Venom Samurai Live Wallpaper

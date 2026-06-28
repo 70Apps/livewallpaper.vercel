@@ -4,7 +4,7 @@ category : anime
 title: Naruto Uchiha Itachi Rainy Night Crows Live Wallpaper
 description: No.20260514 火影忍者 宇智波鼬 動態壁紙 鼬在雨夜的街頭施展技能，放出烏鴉進行攻擊
 keyword: Naruto, Uchiha Itachi, anime, rainy night, crows, sharingan, jutsu, dark, mysterious, akatsuki, genjutsu
-tags: [Naruto, Uchiha Itachi, Anime]
+tags: [Naruto, Uchiha Itachi]
 ---
 
 # No.20260514 Naruto Uchiha Itachi Rainy Night Crows Live Wallpaper
