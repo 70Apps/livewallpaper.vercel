@@ -4,7 +4,7 @@ category : anime
 title: One Piece Luffy Wiping Window Steam Cute Smile Reveal Live Wallpaper
 description: No.20260425 海贼王 路飞擦玻璃 水气 可爱笑脸 动态壁纸
 keyword: One Piece, Monkey D Luffy, wiping, window, steam, glass, cute smile, reveal, straw hat, anime, funny
-tags : [One Piece]
+tags : [One Piece,Luffy]
 ---
 
 # No.20260425 One Piece Luffy Wiping Window Steam Cute Smile Reveal Live Wallpaper

@@ -4,7 +4,7 @@ category: anima
 title: Naruto Jiraiya Figure Angry But Cute Live Wallpaper
 description: 20260621火影忍者-自來也手辦（自來也老師太生氣了，不過這生氣的樣子也太可愛了吧）
 keyword: naruto, jiraiya, toad sage, anime figure, angry expression, cute character, masashi kishimoto
-tags: [Naruto, Jiraiya, Toad Sage]
+tags: [Naruto,Jiraiya]
 ---
 # No.20260621 Naruto Jiraiya Figure Angry But Cute
 
