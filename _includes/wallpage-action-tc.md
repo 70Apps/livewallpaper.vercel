@@ -2,6 +2,6 @@
 
 [https://locklive.gumroad.com/l/vip](https://locklive.gumroad.com/l/vip)
 
-iPhone用戶在xLiveWallpaper App中搜尋「`{{ page.date | date: "%Y%m%d" }}`」
+{% if page.collection == 'ipad-wallpaper' %}iPad{% else %}iPhone{% endif %} 用戶在xLiveWallpaper App中搜尋「`{{ page.date | date: "%Y%m%d" }}`」
 
 [AppStore下載：{{site.app_link}}]({{site.app_link}})

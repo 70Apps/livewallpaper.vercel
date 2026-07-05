@@ -2,6 +2,6 @@
 
 [https://locklive.gumroad.com/l/vip](https://locklive.gumroad.com/l/vip)
 
-iPhoneユーザーはxLiveWallpaperアプリで「`{{ page.date | date: "%Y%m%d" }}`」を検索
+{% if page.collection == 'ipad-wallpaper' %}iPad{% else %}iPhone{% endif %} ユーザーはxLiveWallpaperアプリで「`{{ page.date | date: "%Y%m%d" }}`」を検索
 
 [ダウンロード：：{{site.app_link}}]({{site.app_link}})
