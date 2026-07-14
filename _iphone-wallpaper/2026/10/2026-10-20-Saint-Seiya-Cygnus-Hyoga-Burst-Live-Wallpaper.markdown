@@ -4,7 +4,7 @@ category : anime
 title: Saint Seiya Cygnus Hyoga Burst Live Wallpaper
 description: No.20261020 聖鬥士 爆發吧冰河 動態壁紙
 keyword: Saint Seiya,Cygnus Hyoga,圣斗士,冰河,聖鬥士,冰河,聖闘士星矢,キグナス氷河,세인트 세이야,시그너스 효가
-tags : [Saint Seiya,Anime,Fantasy]
+tags : [Saint Seiya]
 ---
 
 # No.20261020 Saint Seiya Cygnus Hyoga Burst Live Wallpaper

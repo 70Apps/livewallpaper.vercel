@@ -4,7 +4,7 @@ category : anime
 title: Saint Seiya Phoenix Ikki Burst Live Wallpaper
 description: No.20261022 聖鬥士 爆發吧一輝 動態壁紙
 keyword: Saint Seiya,Phoenix Ikki,圣斗士,一辉,聖鬥士,一輝,聖闘士星矢,フェニックス一輝,세인트 세이야,피닉스 잇키
-tags : [Saint Seiya,Anime,Fantasy]
+tags : [Saint Seiya]
 ---
 
 # No.20261022 Saint Seiya Phoenix Ikki Burst Live Wallpaper

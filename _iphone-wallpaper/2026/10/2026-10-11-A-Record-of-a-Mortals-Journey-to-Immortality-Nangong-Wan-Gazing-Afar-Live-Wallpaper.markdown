@@ -4,7 +4,7 @@ category : anime
 title: A Record of a Mortal's Journey to Immortality Nangong Wan Gazing Afar Live Wallpaper
 description: No.20261011 凡人修仙传 南宫婉凭栏远眺 動態壁紙
 keyword: A Record of a Mortal's Journey to Immortality,Nangong Wan,凡人修仙传,南宫婉,凡人修仙傳,南宮婉,凡人修仙伝,ナンゴンワン,범인수선전,남궁완
-tags : ["A Record of a Mortal's Journey to Immortality", Nangong Wan]
+tags : [A Record of a Mortal's Journey to Immortality, Nangong Wan]
 ---
 
 # No.20261011 A Record of a Mortal's Journey to Immortality Nangong Wan Gazing Afar Live Wallpaper

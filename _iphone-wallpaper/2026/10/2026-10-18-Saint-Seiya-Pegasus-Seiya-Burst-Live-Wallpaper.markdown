@@ -4,7 +4,7 @@ category : anime
 title: Saint Seiya Pegasus Seiya Burst Live Wallpaper
 description: No.20261018 聖鬥士 爆發吧星矢 動態壁紙
 keyword: Saint Seiya,Pegasus Seiya,圣斗士,星矢,聖鬥士,星矢,聖闘士星矢,ペガサス星矢,세인트 세이야,페가수스 세이야
-tags : [Saint Seiya,Anime,Fantasy]
+tags : [Saint Seiya]
 ---
 
 # No.20261018 Saint Seiya Pegasus Seiya Burst Live Wallpaper

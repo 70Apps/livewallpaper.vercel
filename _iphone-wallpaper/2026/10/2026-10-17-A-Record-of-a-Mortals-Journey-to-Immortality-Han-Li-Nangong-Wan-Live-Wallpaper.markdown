@@ -4,7 +4,7 @@ category : anime
 title: A Record of a Mortal's Journey to Immortality Han Li Nangong Wan Live Wallpaper
 description: No.20261017 凡人修仙傳 韓立南宮婉官宣 動態壁紙
 keyword: A Record of a Mortal's Journey to Immortality,Han Li,Nangong Wan,凡人修仙传,韩立,南宫婉,凡人修仙傳,韓立,南宮婉,凡人修仙伝,韓立,南宫婉,범인수선전,한립,남궁완
-tags : [A Record of a Mortal's Journey to Immortality,Anime,Cultivation]
+tags : [A Record of a Mortal's Journey to Immortality]
 ---
 
 # No.20261017 A Record of a Mortal's Journey to Immortality Han Li Nangong Wan Live Wallpaper

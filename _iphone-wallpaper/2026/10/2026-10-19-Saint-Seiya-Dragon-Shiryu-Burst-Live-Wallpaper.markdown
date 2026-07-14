@@ -4,7 +4,7 @@ category : anime
 title: Saint Seiya Dragon Shiryu Burst Live Wallpaper
 description: No.20261019 聖鬥士 爆發吧紫龍 動態壁紙
 keyword: Saint Seiya,Dragon Shiryu,圣斗士,紫龙,聖鬥士,紫龍,聖闘士星矢,ドラゴン紫龍,세인트 세이야,드래곤 시류
-tags : [Saint Seiya,Anime,Fantasy]
+tags : [Saint Seiya]
 ---
 
 # No.20261019 Saint Seiya Dragon Shiryu Burst Live Wallpaper

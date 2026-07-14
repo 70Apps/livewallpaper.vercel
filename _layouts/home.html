@@ -62,7 +62,7 @@ title: xLiveWallpaper
     <div class="wallpaper-grid-container">
       <div class="wallpaper-grid">
         {% assign sorted_posts = site.iphone-wallpaper | where_exp: "item", "item.name != 'index.html'" | sort: 'date' | reverse %}
-        {% for post in sorted_posts limit:24 %}
+        {% for post in sorted_posts limit:36 %}
         <a class="wallpaper-item" href="{{ post.url | prepend: site.baseurl }}">
           <div class="iphone-frame">
             <div class="iphone-notch"></div>

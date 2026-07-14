@@ -4,7 +4,7 @@ category : anime
 title: Saint Seiya Andromeda Shun Burst Live Wallpaper
 description: No.20261021 聖鬥士 爆發吧阿瞬 動態壁紙
 keyword: Saint Seiya,Andromeda Shun,圣斗士,阿瞬,聖鬥士,阿瞬,聖闘士星矢,アンドロメダ瞬,세인트 세이야,안드로메다 슌
-tags : [Saint Seiya,Anime,Fantasy]
+tags : [Saint Seiya]
 ---
 
 # No.20261021 Saint Seiya Andromeda Shun Burst Live Wallpaper
