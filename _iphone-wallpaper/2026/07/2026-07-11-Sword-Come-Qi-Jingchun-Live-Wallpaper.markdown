@@ -13,7 +13,7 @@ tags: [Sword of Coming, Qi Jingchun]
 
 {% include wallpage-action-en.md %}
 
-#Hashtag
+
 #SwordCome #QiJingchun #ThickPaint #ComicStyle #MartialArts #Sword #LiveWallpaper #LockLive #xLiveWallpaper
 
 ---
@@ -24,7 +24,7 @@ tags: [Sword of Coming, Qi Jingchun]
 
 {% include wallpage-action-tc.md %}
 
-#Hashtag
+
 #劍來 #齊靜春 #厚塗 #漫畫風格 #武俠 #劍 #動態桌布 #LockLive #xLiveWallpaper
 
 ---
@@ -35,7 +35,7 @@ tags: [Sword of Coming, Qi Jingchun]
 
 {% include wallpage-action-in.md %}
 
-#Hashtag
+
 #SwordCome #QiJingchun #ThickPaint #ComicStyle #MartialArts #Sword #LiveWallpaper #LockLive #xLiveWallpaper
 
 ---
@@ -46,7 +46,7 @@ tags: [Sword of Coming, Qi Jingchun]
 
 {% include wallpage-action-jp.md %}
 
-#Hashtag
+
 #剣来 #斉静春 #厚塗り #漫画風 #武術 #剣 #ライブ壁紙 #LockLive #xLiveWallpaper
 
 ---
@@ -57,5 +57,5 @@ tags: [Sword of Coming, Qi Jingchun]
 
 {% include wallpage-action-sc.md %}
 
-#Hashtag
+
 #剑来 #齐静春 #厚涂 #漫画风格 #武侠 #剑 #动态壁纸 #LockLive #实况全能王

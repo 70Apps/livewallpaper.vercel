@@ -13,7 +13,7 @@ tags: [Genshin Impact, Nahida, Dendro Archon]
 
 {% include wallpage-action-en.md %}
 
-#Hashtag
+
 #GenshinImpact #Nahida #Graffiti #DendroArchon #LiveWallpaper #LockLive #xLiveWallpaper
 
 ---
@@ -24,7 +24,7 @@ tags: [Genshin Impact, Nahida, Dendro Archon]
 
 {% include wallpage-action-tc.md %}
 
-#Hashtag
+
 #原神 #納西妲 #塗鴉 #草神 #動態桌布 #LockLive #xLiveWallpaper
 
 ---
@@ -35,7 +35,7 @@ tags: [Genshin Impact, Nahida, Dendro Archon]
 
 {% include wallpage-action-in.md %}
 
-#Hashtag
+
 #GenshinImpact #Nahida #Graffiti #DendroArchon #LiveWallpaper #LockLive #xLiveWallpaper
 
 ---
@@ -46,7 +46,7 @@ tags: [Genshin Impact, Nahida, Dendro Archon]
 
 {% include wallpage-action-jp.md %}
 
-#Hashtag
+
 #原神 #ナヒーダ #グラフィティ #草神 #ライブ壁紙 #LockLive #xLiveWallpaper
 
 ---
@@ -57,5 +57,5 @@ tags: [Genshin Impact, Nahida, Dendro Archon]
 
 {% include wallpage-action-sc.md %}
 
-#Hashtag
+
 #原神 #纳西妲 #涂鸦 #草神 #动态壁纸 #LockLive #实况全能王

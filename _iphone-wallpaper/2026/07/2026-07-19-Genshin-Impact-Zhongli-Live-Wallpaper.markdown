@@ -13,7 +13,7 @@ tags: [Genshin Impact, Zhongli, Geo Archon]
 
 {% include wallpage-action-en.md %}
 
-#Hashtag
+
 #GenshinImpact #Zhongli #Graffiti #GeoArchon #LiveWallpaper #LockLive #xLiveWallpaper
 
 ---
@@ -24,7 +24,7 @@ tags: [Genshin Impact, Zhongli, Geo Archon]
 
 {% include wallpage-action-tc.md %}
 
-#Hashtag
+
 #原神 #岩王帝君 #塗鴉 #岩神 #動態桌布 #LockLive #xLiveWallpaper
 
 ---
@@ -35,7 +35,7 @@ tags: [Genshin Impact, Zhongli, Geo Archon]
 
 {% include wallpage-action-in.md %}
 
-#Hashtag
+
 #GenshinImpact #Zhongli #Graffiti #GeoArchon #LiveWallpaper #LockLive #xLiveWallpaper
 
 ---
@@ -46,7 +46,7 @@ tags: [Genshin Impact, Zhongli, Geo Archon]
 
 {% include wallpage-action-jp.md %}
 
-#Hashtag
+
 #原神 #鍾離 #グラフィティ #岩神 #ライブ壁紙 #LockLive #xLiveWallpaper
 
 ---
@@ -57,5 +57,5 @@ tags: [Genshin Impact, Zhongli, Geo Archon]
 
 {% include wallpage-action-sc.md %}
 
-#Hashtag
+
 #原神 #岩王帝君 #涂鸦 #岩神 #动态壁纸 #LockLive #实况全能王

@@ -13,7 +13,7 @@ tags: [Demon Slayer, Tanjiro Kamado]
 
 {% include wallpage-action-en.md %}
 
-#Hashtag
+
 #DemonSlayer #TanjiroKamado #Anime #Swordsman #Determination #LiveWallpaper #LockLive #xLiveWallpaper
 
 ---
@@ -24,7 +24,7 @@ tags: [Demon Slayer, Tanjiro Kamado]
 
 {% include wallpage-action-tc.md %}
 
-#Hashtag
+
 #鬼滅之刃 #竈門炭治郎 #動漫 #劍士 #決心 #動態桌布 #LockLive #xLiveWallpaper
 
 ---
@@ -35,7 +35,7 @@ tags: [Demon Slayer, Tanjiro Kamado]
 
 {% include wallpage-action-in.md %}
 
-#Hashtag
+
 #DemonSlayer #TanjiroKamado #Anime #Swordsman #Determination #LiveWallpaper #LockLive #xLiveWallpaper
 
 ---
@@ -46,7 +46,7 @@ tags: [Demon Slayer, Tanjiro Kamado]
 
 {% include wallpage-action-jp.md %}
 
-#Hashtag
+
 #鬼滅の刃 #竈門炭治郎 #アニメ #剣士 #決意 #ライブ壁紙 #LockLive #xLiveWallpaper
 
 ---
@@ -57,5 +57,5 @@ tags: [Demon Slayer, Tanjiro Kamado]
 
 {% include wallpage-action-sc.md %}
 
-#Hashtag
+
 #鬼灭之刃 #灶门炭治郎 #动漫 #剑士 #决心 #动态壁纸 #LockLive #实况全能王

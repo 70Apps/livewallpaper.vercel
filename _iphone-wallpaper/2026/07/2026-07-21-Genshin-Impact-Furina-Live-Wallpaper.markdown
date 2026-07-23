@@ -13,7 +13,7 @@ tags: [Genshin Impact, Furina]
 
 {% include wallpage-action-en.md %}
 
-#Hashtag
+
 #GenshinImpact #Furina #Graffiti #EverlastingJudgment #LiveWallpaper #LockLive #xLiveWallpaper
 
 ---
@@ -24,7 +24,7 @@ tags: [Genshin Impact, Furina]
 
 {% include wallpage-action-tc.md %}
 
-#Hashtag
+
 #原神 #芙寧娜 #塗鴉 #不滅的審判 #動態桌布 #LockLive #xLiveWallpaper
 
 ---
@@ -35,7 +35,7 @@ tags: [Genshin Impact, Furina]
 
 {% include wallpage-action-in.md %}
 
-#Hashtag
+
 #GenshinImpact #Furina #Graffiti #EverlastingJudgment #LiveWallpaper #LockLive #xLiveWallpaper
 
 ---
@@ -46,7 +46,7 @@ tags: [Genshin Impact, Furina]
 
 {% include wallpage-action-jp.md %}
 
-#Hashtag
+
 #原神 #フリーナ #グラフィティ #不滅の審判 #ライブ壁紙 #LockLive #xLiveWallpaper
 
 ---
@@ -57,5 +57,5 @@ tags: [Genshin Impact, Furina]
 
 {% include wallpage-action-sc.md %}
 
-#Hashtag
+
 #原神 #芙宁娜 #涂鸦 #不灭的审判 #动态壁纸 #LockLive #实况全能王

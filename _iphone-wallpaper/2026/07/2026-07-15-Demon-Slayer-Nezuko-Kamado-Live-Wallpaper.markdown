@@ -13,7 +13,7 @@ tags: [Demon Slayer, Nezuko Kamado]
 
 {% include wallpage-action-en.md %}
 
-#Hashtag
+
 #DemonSlayer #NezukoKamado #Anime #Cute #Kimono #LiveWallpaper #LockLive #xLiveWallpaper
 
 ---
@@ -24,7 +24,7 @@ tags: [Demon Slayer, Nezuko Kamado]
 
 {% include wallpage-action-tc.md %}
 
-#Hashtag
+
 #鬼滅之刃 #竈門禰豆子 #動漫 #可愛 #和服 #動態桌布 #LockLive #xLiveWallpaper
 
 ---
@@ -35,7 +35,7 @@ tags: [Demon Slayer, Nezuko Kamado]
 
 {% include wallpage-action-in.md %}
 
-#Hashtag
+
 #DemonSlayer #NezukoKamado #Anime #Cute #Kimono #LiveWallpaper #LockLive #xLiveWallpaper
 
 ---
@@ -46,7 +46,7 @@ tags: [Demon Slayer, Nezuko Kamado]
 
 {% include wallpage-action-jp.md %}
 
-#Hashtag
+
 #鬼滅の刃 #竈門禰豆子 #アニメ #可愛い #着物 #ライブ壁紙 #LockLive #xLiveWallpaper
 
 ---
@@ -57,5 +57,5 @@ tags: [Demon Slayer, Nezuko Kamado]
 
 {% include wallpage-action-sc.md %}
 
-#Hashtag
+
 #鬼灭之刃 #灶门祢豆子 #动漫 #可爱 #和服 #动态壁纸 #LockLive #实况全能王

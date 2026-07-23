@@ -13,7 +13,6 @@ tags: [Genshin Impact, Raiden Shogun, Electro Archon]
 
 {% include wallpage-action-en.md %}
 
-#Hashtag
 #GenshinImpact #RaidenShogun #Graffiti #ElectroArchon #LiveWallpaper #LockLive #xLiveWallpaper
 
 ---
@@ -24,7 +23,7 @@ tags: [Genshin Impact, Raiden Shogun, Electro Archon]
 
 {% include wallpage-action-tc.md %}
 
-#Hashtag
+
 #原神 #雷電將軍 #塗鴉 #雷神 #動態桌布 #LockLive #xLiveWallpaper
 
 ---
@@ -35,7 +34,7 @@ tags: [Genshin Impact, Raiden Shogun, Electro Archon]
 
 {% include wallpage-action-in.md %}
 
-#Hashtag
+
 #GenshinImpact #RaidenShogun #Graffiti #ElectroArchon #LiveWallpaper #LockLive #xLiveWallpaper
 
 ---
@@ -46,7 +45,7 @@ tags: [Genshin Impact, Raiden Shogun, Electro Archon]
 
 {% include wallpage-action-jp.md %}
 
-#Hashtag
+
 #原神 #雷電将軍 #グラフィティ #雷神 #ライブ壁紙 #LockLive #xLiveWallpaper
 
 ---
@@ -57,5 +56,5 @@ tags: [Genshin Impact, Raiden Shogun, Electro Archon]
 
 {% include wallpage-action-sc.md %}
 
-#Hashtag
+
 #原神 #雷电将军 #涂鸦 #雷神 #动态壁纸 #LockLive #实况全能王

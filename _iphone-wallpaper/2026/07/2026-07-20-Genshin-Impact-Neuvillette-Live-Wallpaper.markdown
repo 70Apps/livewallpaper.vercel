@@ -13,7 +13,7 @@ tags: [Genshin Impact, Neuvillette, Hydro Dragon]
 
 {% include wallpage-action-en.md %}
 
-#Hashtag
+
 #GenshinImpact #Neuvillette #Graffiti #HydroDragon #LiveWallpaper #LockLive #xLiveWallpaper
 
 ---
@@ -24,7 +24,7 @@ tags: [Genshin Impact, Neuvillette, Hydro Dragon]
 
 {% include wallpage-action-tc.md %}
 
-#Hashtag
+
 #原神 #水龍王 #塗鴉 #水龍 #動態桌布 #LockLive #xLiveWallpaper
 
 ---
@@ -35,7 +35,7 @@ tags: [Genshin Impact, Neuvillette, Hydro Dragon]
 
 {% include wallpage-action-in.md %}
 
-#Hashtag
+
 #GenshinImpact #Neuvillette #Graffiti #HydroDragon #LiveWallpaper #LockLive #xLiveWallpaper
 
 ---
@@ -46,7 +46,7 @@ tags: [Genshin Impact, Neuvillette, Hydro Dragon]
 
 {% include wallpage-action-jp.md %}
 
-#Hashtag
+
 #原神 #ヌヴィレット #グラフィティ #水龍 #ライブ壁紙 #LockLive #xLiveWallpaper
 
 ---
@@ -57,5 +57,5 @@ tags: [Genshin Impact, Neuvillette, Hydro Dragon]
 
 {% include wallpage-action-sc.md %}
 
-#Hashtag
+
 #原神 #水龙王 #涂鸦 #水龙 #动态壁纸 #LockLive #实况全能王

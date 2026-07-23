@@ -13,7 +13,7 @@ tags: [The Simpsons, Homer Simpson]
 
 {% include wallpage-action-en.md %}
 
-#Hashtag
+
 #TheSimpsons #HomerSimpson #Relaxation #Pool #Donut #StarrySky #Cartoon #LiveWallpaper #LockLive #xLiveWallpaper
 
 ---
@@ -24,7 +24,7 @@ tags: [The Simpsons, Homer Simpson]
 
 {% include wallpage-action-tc.md %}
 
-#Hashtag
+
 #辛普森一家 #霍默 #放鬆 #泳池 #甜甜圈 #星空 #卡通 #動態桌布 #LockLive #xLiveWallpaper
 
 ---
@@ -35,7 +35,7 @@ tags: [The Simpsons, Homer Simpson]
 
 {% include wallpage-action-in.md %}
 
-#Hashtag
+
 #TheSimpsons #HomerSimpson #Relaxation #Pool #Donut #StarrySky #Cartoon #LiveWallpaper #LockLive #xLiveWallpaper
 
 ---
@@ -46,7 +46,7 @@ tags: [The Simpsons, Homer Simpson]
 
 {% include wallpage-action-jp.md %}
 
-#Hashtag
+
 #シンプソンズ #ホーマー #リラクゼーション #プール #ドーナツ #星空 #アニメ #ライブ壁紙 #LockLive #xLiveWallpaper
 
 ---
@@ -57,5 +57,5 @@ tags: [The Simpsons, Homer Simpson]
 
 {% include wallpage-action-sc.md %}
 
-#Hashtag
+
 #辛普森一家 #霍默 #放松 #泳池 #甜甜圈 #星空 #卡通 #动态壁纸 #LockLive #实况全能王

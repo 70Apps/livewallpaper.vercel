@@ -13,7 +13,7 @@ tags: [Genshin Impact, Venti, Anemo Archon]
 
 {% include wallpage-action-en.md %}
 
-#Hashtag
+
 #GenshinImpact #Venti #Graffiti #AnemoArchon #LiveWallpaper #LockLive #xLiveWallpaper
 
 ---
@@ -24,7 +24,7 @@ tags: [Genshin Impact, Venti, Anemo Archon]
 
 {% include wallpage-action-tc.md %}
 
-#Hashtag
+
 #原神 #溫迪 #塗鴉 #風神 #動態桌布 #LockLive #xLiveWallpaper
 
 ---
@@ -35,7 +35,7 @@ tags: [Genshin Impact, Venti, Anemo Archon]
 
 {% include wallpage-action-in.md %}
 
-#Hashtag
+
 #GenshinImpact #Venti #Graffiti #AnemoArchon #LiveWallpaper #LockLive #xLiveWallpaper
 
 ---
@@ -46,7 +46,7 @@ tags: [Genshin Impact, Venti, Anemo Archon]
 
 {% include wallpage-action-jp.md %}
 
-#Hashtag
+
 #原神 #ウェンティ #グラフィティ #風神 #ライブ壁紙 #LockLive #xLiveWallpaper
 
 ---
@@ -57,5 +57,5 @@ tags: [Genshin Impact, Venti, Anemo Archon]
 
 {% include wallpage-action-sc.md %}
 
-#Hashtag
+
 #原神 #温迪 #涂鸦 #风神 #动态壁纸 #LockLive #实况全能王

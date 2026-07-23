@@ -13,7 +13,7 @@ tags: [Garfield]
 
 {% include wallpage-action-en.md %}
 
-#Hashtag
+
 #Garfield #IceCream #Cartoon #Cute #Summer #LiveWallpaper #LockLive #xLiveWallpaper
 
 ---
@@ -24,7 +24,7 @@ tags: [Garfield]
 
 {% include wallpage-action-tc.md %}
 
-#Hashtag
+
 #加菲貓 #冰淇淋 #卡通 #可愛 #夏天 #動態桌布 #LockLive #xLiveWallpaper
 
 ---
@@ -35,7 +35,7 @@ tags: [Garfield]
 
 {% include wallpage-action-in.md %}
 
-#Hashtag
+
 #Garfield #IceCream #Cartoon #Cute #Summer #LiveWallpaper #LockLive #xLiveWallpaper
 
 ---
@@ -46,7 +46,7 @@ tags: [Garfield]
 
 {% include wallpage-action-jp.md %}
 
-#Hashtag
+
 #ガーフィールド #アイスクリーム # cartoon #可愛い #夏 #ライブ壁紙 #LockLive #xLiveWallpaper
 
 ---
@@ -57,5 +57,5 @@ tags: [Garfield]
 
 {% include wallpage-action-sc.md %}
 
-#Hashtag
+
 #加菲猫 #冰淇淋 #卡通 #可爱 #夏天 #动态壁纸 #LockLive #实况全能王

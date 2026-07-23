@@ -13,7 +13,7 @@ tags: [Genshin Impact, Mavuika, Pyro Archon]
 
 {% include wallpage-action-en.md %}
 
-#Hashtag
+
 #GenshinImpact #Mavuika #Graffiti #PyroArchon #LiveWallpaper #LockLive #xLiveWallpaper
 
 ---
@@ -24,7 +24,7 @@ tags: [Genshin Impact, Mavuika, Pyro Archon]
 
 {% include wallpage-action-tc.md %}
 
-#Hashtag
+
 #原神 #瑪薇卡 #塗鴉 #火神 #動態桌布 #LockLive #xLiveWallpaper
 
 ---
@@ -35,7 +35,7 @@ tags: [Genshin Impact, Mavuika, Pyro Archon]
 
 {% include wallpage-action-in.md %}
 
-#Hashtag
+
 #GenshinImpact #Mavuika #Graffiti #PyroArchon #LiveWallpaper #LockLive #xLiveWallpaper
 
 ---
@@ -46,7 +46,7 @@ tags: [Genshin Impact, Mavuika, Pyro Archon]
 
 {% include wallpage-action-jp.md %}
 
-#Hashtag
+
 #原神 #マヴィカ #グラフィティ #火神 #ライブ壁紙 #LockLive #xLiveWallpaper
 
 ---
@@ -57,5 +57,5 @@ tags: [Genshin Impact, Mavuika, Pyro Archon]
 
 {% include wallpage-action-sc.md %}
 
-#Hashtag
+
 #原神 #玛薇卡 #涂鸦 #火神 #动态壁纸 #LockLive #实况全能王
