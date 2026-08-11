@@ -10,4 +10,8 @@ vendor
 .DS_Store
 .ftpconfig
 .agents
+.agent
 .vscode/settings.json
+.workbuddy
+.lingma
+*.sh
