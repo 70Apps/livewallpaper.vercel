@@ -290,6 +290,7 @@
 
 .post-content {
   margin-bottom: $spacing-32;
+  padding-bottom: 140px;
   color: $color-white-80;
 
   hr {
@@ -1258,5 +1259,123 @@ a.link-button {
       color: $color-pure-white;
       background-color: $color-gallery-purple;
     }
+  }
+}
+
+/**
+ * Post Download Sticky Bottom Bar
+ */
+.post-download-sticky {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 200;
+  background: $color-surface-elevated;
+  border-top: $border-whisper;
+  padding: $spacing-12 $spacing-16;
+  flex-direction: column;
+  align-items: center;
+  gap: $spacing-8;
+  box-shadow: 0 -4px 24px rgba(0,0,0,0.5);
+}
+
+.pd-title {
+  font-size: $font-size-caption;
+  font-weight: $font-weight-semibold;
+  color: $color-white-40;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+.pd-buttons {
+  display: flex;
+  gap: $spacing-8;
+  width: 100%;
+  max-width: 480px;
+}
+
+.pd-btn {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: $spacing-6;
+  padding: $spacing-10 $spacing-12;
+  border-radius: $radius-functional;
+  font-size: $font-size-body;
+  font-weight: $font-weight-medium;
+  color: $color-pure-white;
+  text-decoration: none;
+  cursor: pointer;
+  border: none;
+  transition: all 0.2s ease;
+}
+
+.pd-btn-baidu {
+  background: linear-gradient(135deg, #2563eb, #1d4ed8);
+  &:hover { background: linear-gradient(135deg, #3b82f6, #2563eb); }
+}
+
+.pd-btn-quark {
+  background: linear-gradient(135deg, #7c3aed, #6d28d9);
+  &:hover { background: linear-gradient(135deg, #8b5cf6, #7c3aed); }
+}
+
+.pd-icon {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+}
+
+.pd-hint {
+  font-size: 11px;
+  color: $color-white-30;
+  text-align: center;
+}
+
+.pd-hint-limit {
+  font-size: 11px;
+  color: $color-white-30;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: $spacing-4;
+}
+
+.pd-lock-icon {
+  width: 12px;
+  height: 12px;
+  flex-shrink: 0;
+  opacity: 0.5;
+}
+
+.pd-qr-area {
+  display: none;
+  width: 100%;
+  max-width: 480px;
+  justify-content: center;
+  gap: $spacing-24;
+  padding-top: $spacing-4;
+}
+
+.pd-qr-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: $spacing-6;
+
+  img {
+    width: 120px;
+    height: 120px;
+    border-radius: $spacing-8;
+    background: $color-pure-white;
+    padding: $spacing-4;
+  }
+
+  span {
+    font-size: 12px;
+    color: $color-white-40;
   }
 }

@@ -1,0 +1,101 @@
+<div class="post-download-sticky" id="postDownloadSticky" style="display:none;">
+  <div class="pd-title">Download</div>
+  <div class="pd-buttons" id="pdButtons">
+    <a href="{{ page.download_baidu }}" class="pd-btn pd-btn-baidu" id="pdBaidu" target="_blank">
+      <svg class="pd-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>
+      Baidu NetDisk
+    </a>
+    <a href="{{ page.download_quark }}" class="pd-btn pd-btn-quark" id="pdQuark" target="_blank">
+      <svg class="pd-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>
+      Quark NetDisk
+    </a>
+  </div>
+  <div class="pd-hint" id="pdHint">Download one wallpaper one day</div>
+  <div class="pd-hint pd-hint-limit" id="pdLimitHint" style="display:none;">
+    <svg class="pd-lock-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0110 0v4"/></svg>
+    You downloaded today，try tomorrow
+  </div>
+  <div class="pd-qr-area" id="pdQrArea">
+    <div class="pd-qr-item" id="pdQrBaiduItem" style="display:none;">
+      <img id="pdQrBaidu" src="" alt="Baidu QR" />
+      <span>Baidu NetDisk</span>
+    </div>
+    <div class="pd-qr-item" id="pdQrQuarkItem" style="display:none;">
+      <img id="pdQrQuark" src="" alt="Quark QR" />
+      <span>Quark NetDisk</span>
+    </div>
+  </div>
+</div>
+
+<script>
+  (function(){
+    var baiduLink   = "{{ page.download_baidu | default: '' }}";
+    var quarkLink   = "{{ page.download_quark | default: '' }}";
+    var isMobile    = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)
+                   || window.innerWidth < 768;
+    var el = document.getElementById('postDownloadSticky');
+    if (!el) return;
+    if (baiduLink == '' || quarkLink == '') return;
+
+    el.style.display = 'flex';
+
+    /* ---- 每日下载次数限制 ---- */
+    var today = new Date();
+    var ymd   = today.getFullYear()
+              + String(today.getMonth()+1).padStart(2,'0')
+              + String(today.getDate()).padStart(2,'0');
+    var STORAGE_KEY = 'dl_date_' + ymd;
+    var limitHit    = false;
+
+    try {
+      if (localStorage.getItem(STORAGE_KEY)) limitHit = true;
+    } catch(e) {}
+
+    function markDownloaded() {
+      try { localStorage.setItem(STORAGE_KEY, Date.now()); } catch(e) {}
+    }
+
+    function applyLimit() {
+      document.getElementById('pdButtons').style.display = 'none';
+      document.getElementById('pdHint').style.display = 'none';
+      document.getElementById('pdLimitHint').style.display = 'flex';
+      document.getElementById('pdQrArea').style.display = 'none';
+    }
+
+    if (limitHit) {
+      applyLimit();
+      return;
+    }
+
+    /* ---- PC 点击按钮显示对应二维码 ---- */
+    if (!isMobile) {
+      var qrBaidu = document.getElementById('pdQrBaidu');
+      var qrQuark = document.getElementById('pdQrQuark');
+      var itemBaidu = document.getElementById('pdQrBaiduItem');
+      var itemQuark = document.getElementById('pdQrQuarkItem');
+
+      if (baiduLink) qrBaidu.src = 'https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=' + encodeURIComponent(baiduLink);
+      if (quarkLink) qrQuark.src = 'https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=' + encodeURIComponent(quarkLink);
+
+      document.getElementById('pdBaidu').addEventListener('click', function(e) {
+        e.preventDefault();
+        markDownloaded();
+        itemBaidu.style.display = 'flex';
+        itemQuark.style.display = 'none';
+        if (baiduLink) window.open(baiduLink, '_blank');
+      });
+      document.getElementById('pdQuark').addEventListener('click', function(e) {
+        e.preventDefault();
+        markDownloaded();
+        itemQuark.style.display = 'flex';
+        itemBaidu.style.display = 'none';
+        if (quarkLink) window.open(quarkLink, '_blank');
+      });
+    } else {
+      /* Mobile: 直接跳转，隐藏二维码 */
+      document.getElementById('pdQrArea').style.display = 'none';
+      document.getElementById('pdBaidu').addEventListener('click', function() { markDownloaded(); });
+      document.getElementById('pdQuark').addEventListener('click', function() { markDownloaded(); });
+    }
+  })();
+</script>
