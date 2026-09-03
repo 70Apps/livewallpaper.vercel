@@ -5,6 +5,8 @@ title: Final Fantasy Cloud Strife Blue Eyes Battle Live Wallpaper
 description: No.20260805 最终幻想 克劳德 眼中的蓝，是永不熄灭的战意 动态壁纸
 keyword: Final Fantasy,ファイナルファンタジー,最终幻想,克劳德,Cloud Strife,クラウド・ストライフ
 tags : [Final Fantasy]
+download_baidu : https://pan.baidu.com/s/1MGLcJ9C1Jc2eQtLYT57zmQ?pwd=live
+download_quark : https://pan.quark.cn/s/841e7657cc0b
 ---
 
 # No.20260805 Final Fantasy Cloud Strife Blue Eyes Battle Live Wallpaper

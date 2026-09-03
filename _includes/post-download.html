@@ -82,14 +82,16 @@
         markDownloaded();
         itemBaidu.style.display = 'flex';
         itemQuark.style.display = 'none';
-        if (baiduLink) window.open(baiduLink, '_blank');
+        document.getElementById('pdQrArea').style.display = 'flex';
+        //if (baiduLink) window.open(baiduLink, '_blank');
       });
       document.getElementById('pdQuark').addEventListener('click', function(e) {
         e.preventDefault();
         markDownloaded();
         itemQuark.style.display = 'flex';
         itemBaidu.style.display = 'none';
-        if (quarkLink) window.open(quarkLink, '_blank');
+        document.getElementById('pdQrArea').style.display = 'flex';
+        //if (quarkLink) window.open(quarkLink, '_blank');
       });
     } else {
       /* Mobile: 直接跳转，隐藏二维码 */

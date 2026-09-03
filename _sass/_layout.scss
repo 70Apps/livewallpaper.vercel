@@ -1310,6 +1310,9 @@ a.link-button {
   cursor: pointer;
   border: none;
   transition: all 0.2s ease;
+  &:hover, &:focus ,&.active ,&:visited {
+    color: $color-pure-white;
+  }
 }
 
 .pd-btn-baidu {
