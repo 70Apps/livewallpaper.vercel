@@ -4,7 +4,9 @@ category : animation
 title: Sword Coming Qi Jingchun in Study Live Wallpaper
 description: No.20260125 剑来 齐静春 书房动态壁纸
 keyword: 剑来, 齐静春, 师傅, 书房, 书卷, 虚幻世界, 仙侠, 国漫, 中国动画
-tags : []
+tags : [Sword Coming]
+download_baidu : https://pan.baidu.com/s/1eA6w2sjcieY1joqZ5JZnTw?pwd=live
+download_quark : https://pan.quark.cn/s/02064dfd11f0
 ---
 
 # No.20260125 Sword Coming Qi Jingchun in Study Live Wallpaper

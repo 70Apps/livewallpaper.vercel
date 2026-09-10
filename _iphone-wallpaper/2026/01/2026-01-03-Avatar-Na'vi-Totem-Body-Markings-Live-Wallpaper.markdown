@@ -5,6 +5,8 @@ title: Avatar Na'vi Totem Body Markings Live Wallpaper
 description: No.20260103 阿凡达 纳威图腾 身体符纹动态壁纸
 keyword: Avatar, Na'vi, totem, body markings, blue, skin, patterns, culture, heritage, Pandora
 tags : [Avatar]
+download_baidu : https://pan.baidu.com/s/1d0E6aTQvKFdc5PRA-v4veQ?pwd=live
+download_quark : https://pan.quark.cn/s/58a75a449c93
 ---
 
 # No.20260103 Avatar Na'vi Totem Body Markings Live Wallpaper

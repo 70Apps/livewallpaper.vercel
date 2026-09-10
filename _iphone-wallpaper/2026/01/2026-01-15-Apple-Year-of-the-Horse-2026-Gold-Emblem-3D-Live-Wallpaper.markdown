@@ -4,7 +4,9 @@ category : tech
 title: Apple Year of the Horse 2026 Gold Emblem 3D Live Wallpaper
 description: No.20260115 苹果 马年金标 动态壁纸
 keyword: Apple, Year of the Horse, 2026, gold, emblem, 3D, dynamic, creative, official, luxurious
-tags : []
+tags : [Apple]
+download_baidu : https://pan.baidu.com/s/1zggXJVrQZ_EWG27d7MnwVA?pwd=live
+download_quark : https://pan.quark.cn/s/9ec8f243b0cb
 ---
 
 # No.20260115 Apple Year of the Horse 2026 Gold Emblem 3D Live Wallpaper

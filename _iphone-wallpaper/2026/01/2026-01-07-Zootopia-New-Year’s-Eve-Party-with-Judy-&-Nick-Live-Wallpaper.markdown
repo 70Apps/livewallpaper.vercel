@@ -5,6 +5,8 @@ title: Zootopia New Year’s Eve Party with Judy & Nick Live Wallpaper
 description: No.20260107 疯狂动物城 一起跨年 动态壁纸
 keyword: Zootopia, Judy Hopps, Nick Wilde, New Year’s Eve, party, city, street, friends, celebration, fireworks
 tags : [Disney]
+download_baidu : https://pan.baidu.com/s/11gSD8_6400Z7BEqXoyrRcA?pwd=live
+download_quark : https://pan.quark.cn/s/9c70ef82daa7
 ---
 
 # No.20260107 Zootopia New Year’s Eve Party with Judy & Nick Live Wallpaper

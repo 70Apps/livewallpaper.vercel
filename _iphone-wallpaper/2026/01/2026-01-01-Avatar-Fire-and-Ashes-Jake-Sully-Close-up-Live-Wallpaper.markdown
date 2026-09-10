@@ -5,6 +5,8 @@ title: Avatar Fire and Ashes Jake Sully Close-up Live Wallpaper
 description: No.20260101 阿凡达 火与烬 杰克·萨利面部特写动态壁纸
 keyword: Avatar, Jake Sully, Na'vi, fire, ashes, close-up, determined, fierce, eyes, Pandora
 tags : [Avatar]
+download_baidu : https://pan.baidu.com/s/1L9WiGef550lUwHMgc1RxAw?pwd=live
+download_quark : https://pan.quark.cn/s/dd7de3cb0507
 ---
 
 # No.20260101 Avatar Fire and Ashes Jake Sully Close-up Live Wallpaper

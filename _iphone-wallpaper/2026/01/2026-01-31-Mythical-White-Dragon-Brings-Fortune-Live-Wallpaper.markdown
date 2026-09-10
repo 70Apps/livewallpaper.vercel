@@ -4,7 +4,9 @@ category : mythology
 title: Mythical White Dragon Brings Fortune Live Wallpaper
 description: No.20260131 神话 白龙 动态壁纸
 keyword: myth, white dragon, dragon, cloud, fortune, blessing, mystical, eastern, legend
-tags : []
+tags : [Mythology]
+download_baidu : https://pan.baidu.com/s/1wrQOIMMrwoanLkxEXs9IYQ?pwd=live
+download_quark : https://pan.quark.cn/s/4af0e5ef78eb
 ---
 
 # No.20260131 Mythical White Dragon Brings Fortune Live Wallpaper

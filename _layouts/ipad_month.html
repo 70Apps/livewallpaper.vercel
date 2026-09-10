@@ -3,8 +3,8 @@ layout: default
 ---
 
 <div class="month-page">
-  <section class="month-hero">
-    <h1 class="month-title">{{ page.year }}.{{ page.month }} iPad Wallpapers</h1>
+  <section class="month-hero">  
+    <h1 class="month-title">{{ page.title }}</h1>
     <p class="month-subtitle">{{ page.total }} live wallpapers updated this month</p>
   </section>
 
@@ -35,6 +35,9 @@ layout: default
           <div class="wallpaper-item-title">{{ post.title }}</div>
           <div class="wallpaper-item-meta">
             <span class="wallpaper-item-category">{{ post.category | default: "Live" }}</span>
+            {% if post.download_baidu %}
+            <span class="download-badge">Download</span>
+            {% endif %}
             <span class="wallpaper-item-date">{{ post.date | date: "%Y-%m-%d" }}</span>
           </div>
         </div>

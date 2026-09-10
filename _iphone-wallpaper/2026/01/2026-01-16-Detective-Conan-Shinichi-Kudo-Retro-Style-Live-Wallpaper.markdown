@@ -5,6 +5,8 @@ title: Detective Conan Shinichi Kudo Retro Style Live Wallpaper
 description: No.20260116 名侦探柯南 工藤新一 复古画风动态壁纸
 keyword: Detective Conan, Shinichi Kudo, retro, animation, finger on lips, thinking, smooth, classic
 tags : [Detective Conan]
+download_baidu : https://pan.baidu.com/s/17SO5xs04FXHJAr9CLJIi1g?pwd=live
+download_quark : https://pan.quark.cn/s/59a933a1b112
 ---
 
 # No.20260116 Detective Conan Shinichi Kudo Retro Style Live Wallpaper

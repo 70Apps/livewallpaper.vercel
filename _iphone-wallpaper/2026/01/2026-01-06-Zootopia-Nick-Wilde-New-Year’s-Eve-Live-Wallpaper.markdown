@@ -5,6 +5,8 @@ title: Zootopia Nick Wilde New Year’s Eve Live Wallpaper
 description: No.20260106 疯狂动物城 尼克跨年 动态壁纸
 keyword: Zootopia, Nick Wilde, fox, New Year’s Eve, fireworks, city, street, cool, indifferent
 tags : [Disney]
+download_baidu : https://pan.baidu.com/s/18U-Wgtk_duNIAny9bnhu0g?pwd=live
+download_quark : https://pan.quark.cn/s/25e8cbc57fe4
 ---
 
 # No.20260106 Zootopia Nick Wilde New Year’s Eve Live Wallpaper

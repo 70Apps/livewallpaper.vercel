@@ -5,6 +5,8 @@ title: Harry Potter New Year Greetings from Hogwarts – 6 Professors Live Wallp
 description: No.20260104 哈利波特 来自霍格华茨的新年祝福（6位教授动态壁纸）
 keyword: Harry Potter, Hogwarts, Dumbledore, Snape, McGonagall, Flitwick, Sprout, Hagrid, New Year, greeting, portrait, magic
 tags : [Harry Potter]
+download_baidu : https://pan.baidu.com/s/1ye_JZqmX2-MKvBVCaZpfyA?pwd=live
+download_quark : https://pan.quark.cn/s/596509c5d1d8
 ---
 
 # No.20260104 Harry Potter New Year Greetings from Hogwarts – 6 Professors Live Wallpaper

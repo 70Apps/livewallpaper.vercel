@@ -1,0 +1,181 @@
+<div class="device-nav" id="deviceNav">
+  <div class="device-nav-inner">
+    <a href="#iphone-collections" class="device-tab device-tab--active" data-target="iphone-collections">
+      <svg class="device-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="6" y="2" width="12" height="20" rx="3"/><line x1="9" y1="18" x2="15" y2="18"/></svg>
+      iPhone
+      <span class="device-badge">{{ site.iphone-wallpaper.size }}</span>
+    </a>
+    <a href="#ipad-collections" class="device-tab" data-target="ipad-collections">
+      <svg class="device-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="5" y="2" width="14" height="20" rx="3"/><line x1="9" y1="18" x2="15" y2="18"/></svg>
+      iPad
+      <span class="device-badge">{{ site.ipad-wallpaper.size }}</span>
+    </a>
+  </div>
+</div>
+
+<style>
+.device-nav {
+  position: sticky;
+  top: 60px;
+  z-index: 90;
+  background: rgba(15, 15, 25, 0.92);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  padding: 0 24px;
+  transition: top 0.2s ease;
+}
+
+.device-nav-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  height: 44px;
+}
+
+.device-tab {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 14px;
+  border-radius: 9999px;
+  font-size: 13px;
+  font-weight: 500;
+  color: rgba(255,255,255,0.55);
+  text-decoration: none;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.device-tab:hover {
+  color: rgba(255,255,255,0.85);
+  background: rgba(255,255,255,0.06);
+  text-decoration: none;
+}
+
+.device-tab--active {
+  color: #fff;
+  background: rgba(139, 92, 246, 0.22);
+  border: 1px solid rgba(139, 92, 246, 0.4);
+}
+
+.device-icon {
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+  opacity: 0.85;
+}
+
+.device-tab--active .device-icon {
+  opacity: 1;
+  color: #a78bfa;
+}
+
+.device-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 20px;
+  height: 20px;
+  padding: 0 5px;
+  border-radius: 9999px;
+  font-size: 11px;
+  font-weight: 600;
+  background: rgba(255,255,255,0.1);
+  color: rgba(255,255,255,0.5);
+  font-family: ui-monospace, monospace;
+  transition: all 0.2s ease;
+}
+
+.device-tab--active .device-badge {
+  background: rgba(139, 92, 246, 0.35);
+  color: #a78bfa;
+}
+
+/* Mobile: compact bar below nav */
+@media (max-width: 639px) {
+  .device-nav {
+    top: 60px;
+    padding: 0 12px;
+  }
+
+  .device-nav-inner {
+    gap: 4px;
+    height: 38px;
+  }
+
+  .device-tab {
+    padding: 4px 10px;
+    font-size: 12px;
+    gap: 4px;
+  }
+
+  .device-icon {
+    width: 12px;
+    height: 12px;
+  }
+
+  .device-badge {
+    min-width: 18px;
+    height: 18px;
+    padding: 0 4px;
+    font-size: 10px;
+  }
+}
+
+/* Large screens: nav slightly compressed, device-nav sits directly below */
+@media (min-width: 1024px) {
+  .device-nav {
+    top: 60px;
+  }
+}
+</style>
+
+<script>
+(function() {
+  var tabs = document.querySelectorAll('#deviceNav .device-tab');
+  var sections = [
+    { id: 'iphone-collections', tab: tabs[0] },
+    { id: 'ipad-collections',   tab: tabs[1] }
+  ];
+  var STICKY_TOP = 60;
+
+  function setActive(sectionId) {
+    sections.forEach(function(s) {
+      s.tab.classList.toggle('device-tab--active', s.id === sectionId);
+    });
+  }
+
+  function getActiveSection() {
+    var scrollY = window.scrollY || window.pageYOffset;
+    var triggerTop = scrollY + STICKY_TOP;
+    var active = null;
+    sections.forEach(function(s) {
+      var el = document.getElementById(s.id);
+      if (el && el.offsetTop <= triggerTop) {
+        active = s.id;
+      }
+    });
+    return active;
+  }
+
+  setActive(getActiveSection() || 'iphone-collections');
+  window.addEventListener('scroll', function() {
+    setActive(getActiveSection());
+  }, { passive: true });
+
+  tabs.forEach(function(tab) {
+    tab.addEventListener('click', function(e) {
+      e.preventDefault();
+      var href = tab.getAttribute('href');
+      var target = document.querySelector(href);
+      if (target) {
+        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    });
+  });
+})();
+</script>

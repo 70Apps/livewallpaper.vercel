@@ -5,6 +5,8 @@ title: Zootopia Let Me Take a Peek Live Wallpaper
 description: No.20260111 疯狂动物城 让我瞄一眼 动态壁纸
 keyword: Zootopia, Nick Wilde, Judy Hopps, phone, peek, waiting, cute, funny, playful, friends
 tags : [Disney]
+download_baidu : https://pan.baidu.com/s/1AHUvFOqgyKINrGGlrJBViQ?pwd=live
+download_quark : https://pan.quark.cn/s/4b5a5a131869
 ---
 
 # No.20260111 Zootopia Let Me Take a Peek Live Wallpaper

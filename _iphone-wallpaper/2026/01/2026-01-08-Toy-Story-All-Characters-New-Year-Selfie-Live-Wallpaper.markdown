@@ -5,6 +5,8 @@ title: Toy Story All Characters New Year Selfie Live Wallpaper
 description: No.20260108 玩具总动员 全员跨年 屋顶自拍纪念照动态壁纸
 keyword: Toy Story, Woody, Buzz Lightyear, Jessie, Rex, Ham, selfie, rooftop, New Year, fireworks, group
 tags : [Disney]
+download_baidu : https://pan.baidu.com/s/1lTiFdRAP4AISupEA25ue1A?pwd=live
+download_quark : https://pan.quark.cn/s/1197757bbe04
 ---
 
 # No.20260108 Toy Story All Characters New Year Selfie Live Wallpaper

@@ -5,6 +5,8 @@ title: Doraemon Afternoon Nap Live Wallpaper
 description: No.20260120 哆啦A梦 午后小睡 动态壁纸
 keyword: Doraemon, nap, afternoon, sleepy, relaxed, dreamy, calm, cozy, cat robot
 tags : [Doraemon]
+download_baidu : https://pan.baidu.com/s/126OI9zTyUDsLnAjzBSgpug?pwd=live
+download_quark : https://pan.quark.cn/s/27184475d1ba
 ---
 
 # No.20260120 Doraemon Afternoon Nap Live Wallpaper

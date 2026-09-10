@@ -5,6 +5,8 @@ title: One Piece Roronoa Zoro in Fashionable Outfit Live Wallpaper
 description: No.20260127 海贼王 穿时装的罗罗诺亚·佐罗 动态壁纸
 keyword: One Piece, Roronoa Zoro, fashion, outfit, cool, swordsman, samurai, style, straw hat crew
 tags : [One Piece]
+download_baidu : https://pan.baidu.com/s/1krP7pVm-ayDHAhp1-NH5Ww?pwd=live
+download_quark : https://pan.quark.cn/s/ff84e85da941
 ---
 
 # No.20260127 One Piece Roronoa Zoro in Fashionable Outfit Live Wallpaper

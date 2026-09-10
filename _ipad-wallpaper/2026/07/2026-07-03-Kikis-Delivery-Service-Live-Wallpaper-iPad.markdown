@@ -5,6 +5,8 @@ title: Kiki's Delivery Service Live Wallpaper
 description: No.20260703 宮崎駿 魔女宅急便 動態壁紙
 keyword: Kiki's Delivery Service,Kiki,魔女宅急便,琪琪,魔女宅急便,琪琪,魔女の宅急便,キキ,마녀배달부키키,키키
 tags : [Studio Ghibli, Kiki]
+download_baidu : https://pan.baidu.com/s/1gU0jdqRAOUp_N8IdDNnLPA?pwd=live
+download_quark : https://pan.quark.cn/s/611d93d0dcfb
 ---
 
 # No.20260703 Kiki's Delivery Service Live Wallpaper

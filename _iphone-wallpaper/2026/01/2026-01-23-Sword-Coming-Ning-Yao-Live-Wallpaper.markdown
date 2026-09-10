@@ -4,7 +4,9 @@ category : animation
 title: Sword Coming Ning Yao Live Wallpaper
 description: No.20260123 剑来 宁姚 动态壁纸
 keyword: 剑来, 宁姚, 女主, 温婉, 书法, 剑, 中式, 柔美, 国漫, 中国动画
-tags : []
+tags : [Sword Coming]
+download_baidu : https://pan.baidu.com/s/1jzcRNqTZO90Cn0j3--rBnQ?pwd=live
+download_quark : https://pan.quark.cn/s/cbc07e518aeb
 ---
 
 # No.20260123 Sword Coming Ning Yao Live Wallpaper

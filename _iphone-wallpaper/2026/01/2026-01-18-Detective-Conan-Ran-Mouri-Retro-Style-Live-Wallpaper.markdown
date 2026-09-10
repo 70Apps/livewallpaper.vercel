@@ -5,6 +5,8 @@ title: Detective Conan Ran Mouri Retro Style Live Wallpaper
 description: No.20260118 名侦探柯南 毛利兰 复古画风动态壁纸
 keyword: Detective Conan, Ran Mouri, retro, animation, finger on lips, thoughtful, gentle, smooth, classic
 tags : [Detective Conan]
+download_baidu : https://pan.baidu.com/s/1tCrcnuKjxcPuYfe2r4Ywmg?pwd=live
+download_quark : https://pan.quark.cn/s/46edb4aadbaf
 ---
 
 # No.20260118 Detective Conan Ran Mouri Retro Style Live Wallpaper

@@ -5,6 +5,8 @@ title: Zootopia Boring Wait Live Wallpaper
 description: No.20260113 疯狂动物城 无聊的等待 动态壁纸
 keyword: Zootopia, Nick Wilde, waiting, bored, cute, expression, chair, funny, relaxed
 tags : [Disney]
+download_baidu : https://pan.baidu.com/s/1IwjMUMwyEgX-a6H8UiddLg?pwd=live
+download_quark : https://pan.quark.cn/s/077323662d6b
 ---
 
 # No.20260113 Zootopia Boring Wait Live Wallpaper

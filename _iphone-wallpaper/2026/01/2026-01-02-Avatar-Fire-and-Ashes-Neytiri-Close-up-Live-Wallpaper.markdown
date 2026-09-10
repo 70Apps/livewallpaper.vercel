@@ -5,6 +5,8 @@ title: Avatar Fire and Ashes Neytiri Close-up Live Wallpaper
 description: No.20260102 阿凡达 火与烬2 奈蒂莉面部特写动态壁纸
 keyword: Avatar, Neytiri, Na'vi, fire, ashes, close-up, determined, gentle, eyes, Pandora, warrior
 tags : [Avatar]
+download_baidu : https://pan.baidu.com/s/10UNWRFg5vCiz2tdzRAlE0g?pwd=live
+download_quark : https://pan.quark.cn/s/4def9cd4248b
 ---
 
 # No.20260102 Avatar Fire and Ashes Neytiri Close-up Live Wallpaper

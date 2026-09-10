@@ -4,7 +4,9 @@ category : landscape
 title: Stunning Landscape Sun Moon Cycle Live Wallpaper
 description: No.20260130 绝美风景 日月穿梭 动态壁纸
 keyword: landscape, nature, tree, wilderness, sun, moon, day, night, cycle, beauty, calm
-tags : []
+tags : [Landscape]
+download_baidu : https://pan.baidu.com/s/1WQ725mG5Ioe1B8fI_GY7Vg?pwd=live
+download_quark : https://pan.quark.cn/s/d5cd3df3b6e0
 ---
 
 # No.20260130 Stunning Landscape Sun Moon Cycle Live Wallpaper

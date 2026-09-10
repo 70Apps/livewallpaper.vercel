@@ -145,6 +145,16 @@
   .nav-links {
     display: none;
   }
+
+  .device-nav-inline {
+    padding: 8px 20px;
+    gap: 8px;
+
+    .device-tab-inline {
+      font-size: 12px;
+      padding: 4px 10px;
+    }
+  }
 }
 
 /**
@@ -253,8 +263,20 @@
 /**
  * Page Content
  */
+html {
+  scroll-behavior: smooth;
+}
+
 .page-content {
   padding: $spacing-32 0;
+}
+
+.collections-section {
+  scroll-margin-top: 100px;
+
+  @include media-query($breakpoint-mobile) {
+    scroll-margin-top: 86px;
+  }
 }
 
 .page-heading {
@@ -751,8 +773,8 @@
 .wallpaper-item-meta {
   display: flex;
   align-items: center;
-  justify-content: center;
-  gap: $spacing-8;
+  justify-content: space-between;
+  gap: $spacing-6;
 }
 
 .wallpaper-item-category {
@@ -770,6 +792,18 @@
   font-size: 11px;
   color: $color-white-40;
   font-family: $font-family-mono;
+}
+
+.download-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 8px;
+  background: $color-purple-dark;
+  color: $color-pure-white;
+  font-size: 10px;
+  font-weight: $font-weight-semibold;
+  letter-spacing: 0.4px;
+  border-radius: 9999px;
 }
 
 /**
@@ -1258,6 +1292,41 @@ a.link-button {
     &.active {
       color: $color-pure-white;
       background-color: $color-gallery-purple;
+    }
+  }
+}
+
+/**
+ * Post Device Navigation Inline Bar
+ */
+.device-nav-inline {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 32px;
+  background: $color-surface-base;
+  border-bottom: $border-whisper;
+
+  .device-tab-inline {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 5px 14px;
+    border-radius: 9999px;
+    font-size: 13px;
+    font-weight: 500;
+    color: $color-white-60;
+    text-decoration: none;
+    transition: all 0.2s ease;
+
+    &:hover {
+      color: $color-pure-white;
+      background: $color-surface-hover;
+      text-decoration: none;
+    }
+
+    &--dim {
+      opacity: 0.45;
     }
   }
 }

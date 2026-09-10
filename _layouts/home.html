@@ -47,17 +47,10 @@ title: xLiveWallpaper
   }
   </script>
 
-  <!-- Stats Bar -->
-  <div class="stats-bar">
-    <span class="stats-text">Showing {{ site.iphone-wallpaper.size }} iPhone and {{ site.ipad-wallpaper.size }} iPad wallpapers</span>
-    <div class="sort-options">
-      <span class="sort-option active">Latest</span>
-      <span class="sort-option">Popular</span>
-    </div>
-  </div>
+  {% include device-nav.html %}
   
   <!-- iPhone Collections Section -->
-  <section class="collections-section">
+  <section id="iphone-collections" class="collections-section">
     <h2 class="section-title">iPhone Collections</h2>
     <div class="wallpaper-grid-container">
       <div class="wallpaper-grid">
@@ -78,6 +71,9 @@ title: xLiveWallpaper
             <div class="wallpaper-item-title">{{ post.title }}</div>
             <div class="wallpaper-item-meta">
               <span class="wallpaper-item-category">{{ post.category | default: "Live" }}</span>
+              {% if post.download_baidu %}
+              <span class="download-badge">Download</span>
+              {% endif %}
               <span class="wallpaper-item-date">{{ post.date | date: "%Y-%m-%d" }}</span>
             </div>
           </div>
@@ -89,7 +85,7 @@ title: xLiveWallpaper
   </section>
 
   <!-- iPad Collections Section -->
-  <section class="collections-section">
+  <section id="ipad-collections" class="collections-section">
     <h2 class="section-title">iPad Collections</h2>
     <div class="wallpaper-grid-container">
       <div class="wallpaper-grid ipad-wallpaper-grid">
