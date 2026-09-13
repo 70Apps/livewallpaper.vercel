@@ -5,6 +5,8 @@ title: Jujutsu Kaisen Ryomen Sukuna Black and White Glow Live Wallpaper
 description: No.20260210 咒术回战 两面宿傩 黑白色调动态壁纸
 keyword: Jujutsu Kaisen, Ryomen Sukuna, black, white, glow, markings, eerie, powerful, cursed, movie
 tags : [Jujutsu Kaisen]
+download_baidu : https://pan.baidu.com/s/12hakXAeoOWYpTlBrF8rAIA?pwd=live
+download_quark : https://pan.quark.cn/s/f5fd0d54de9b
 ---
 
 # No.20260210 Jujutsu Kaisen Ryomen Sukuna Black and White Glow Live Wallpaper

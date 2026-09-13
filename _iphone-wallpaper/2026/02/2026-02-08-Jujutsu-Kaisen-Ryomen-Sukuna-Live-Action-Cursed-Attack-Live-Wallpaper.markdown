@@ -5,6 +5,8 @@ title: Jujutsu Kaisen Ryomen Sukuna Live Action Cursed Attack Live Wallpaper
 description: No.20260208 咒术回战 两面宿傩 真人版咒术攻击动态壁纸
 keyword: Jujutsu Kaisen, Ryomen Sukuna, live action, cursed technique, attack, powerful, evil, king of curses, movie
 tags : [Jujutsu Kaisen]
+download_baidu : https://pan.baidu.com/s/1Hbryk5c-nfHc0q-KcBfX9A?pwd=live
+download_quark : https://pan.quark.cn/s/77ce37d4585b
 ---
 
 # No.20260208 Jujutsu Kaisen Ryomen Sukuna Live Action Cursed Attack Live Wallpaper

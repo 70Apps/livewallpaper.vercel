@@ -5,6 +5,8 @@ title: Jujutsu Kaisen Gojo Satoru Live Action Live Wallpaper
 description: No.20260206 咒术回战 五条悟 真人版动态壁纸
 keyword: Jujutsu Kaisen, Gojo Satoru, live action, sunglasses, cool, handsome, anime, movie, sorcerer
 tags : [Jujutsu Kaisen]
+download_baidu : https://pan.baidu.com/s/156cvoKgqm66ApGs312qrOw?pwd=live
+download_quark : https://pan.quark.cn/s/8c54ad56438d
 ---
 
 # No.20260206 Jujutsu Kaisen Gojo Satoru Live Action Live Wallpaper

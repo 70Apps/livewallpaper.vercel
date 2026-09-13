@@ -5,6 +5,8 @@ title: Jujutsu Kaisen Yuji Itadori Transformation Live Wallpaper
 description: No.20260209 咒术回战 虎杖悠仁 抬头变身两面宿傩动态壁纸
 keyword: Jujutsu Kaisen, Yuji Itadori, transformation, Ryomen Sukuna, live action, cursed, powerful, movie
 tags : [Jujutsu Kaisen]
+download_baidu : https://pan.baidu.com/s/1CxD4qcxXFD2nzfIj8tAvEg?pwd=live
+download_quark : https://pan.quark.cn/s/41524a0bbc4c
 ---
 
 # No.20260209 Jujutsu Kaisen Yuji Itadori Transformation Live Wallpaper

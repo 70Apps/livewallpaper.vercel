@@ -5,6 +5,8 @@ title: One Piece Angry Luffy Style Illustration Live Wallpaper
 description: No.20260207 海贼王 愤怒的路飞 风格插画动态壁纸
 keyword: One Piece, Luffy, angry, illustration, style, intense, straw hat, pirate, emotional
 tags : [One Piece]
+download_baidu : https://pan.baidu.com/s/1r1weNzJt_db-uTJ0LfcVFQ?pwd=live
+download_quark : https://pan.quark.cn/s/01a9d6f1b0eb
 ---
 
 # No.20260207 One Piece Angry Luffy Style Illustration Live Wallpaper
