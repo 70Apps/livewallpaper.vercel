@@ -5,6 +5,8 @@ title: Gundam Pre-Battle Check Live Wallpaper
 description: No.20260221 高达 战前预检 双眼充能特效动态壁纸
 keyword: Gundam, mecha, pre-battle, check, eyes, glow, energy, futuristic, robot, anime
 tags : [Gundam]
+download_baidu : https://pan.baidu.com/s/1B0ezQKrUWQ2fBUlt1GL0rA?pwd=live
+download_quark : https://pan.quark.cn/s/ad789515fa01
 ---
 
 # No.20260221 Gundam Pre-Battle Check Live Wallpaper

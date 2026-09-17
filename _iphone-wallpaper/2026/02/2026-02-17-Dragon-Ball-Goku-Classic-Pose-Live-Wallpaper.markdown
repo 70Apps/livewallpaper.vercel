@@ -5,6 +5,8 @@ title: Dragon Ball Goku Classic Pose Live Wallpaper
 description: No.20260217 七龙珠 悟空 经典造型动态壁纸
 keyword: Dragon Ball, Goku, classic, pose, fighting, energy, Saiyan, anime, iconic
 tags : [Dragon Ball]
+download_baidu : https://pan.baidu.com/s/1UKHmCcWJYn2OWEpjaX_jzQ?pwd=live
+download_quark : https://pan.quark.cn/s/a6309e078b16
 ---
 
 # No.20260217 Dragon Ball Goku Classic Pose Live Wallpaper

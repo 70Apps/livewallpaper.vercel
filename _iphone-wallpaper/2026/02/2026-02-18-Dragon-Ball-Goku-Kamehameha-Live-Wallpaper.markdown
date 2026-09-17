@@ -5,6 +5,8 @@ title: Dragon Ball Goku Kamehameha Live Wallpaper
 description: No.20260218 七龙珠 悟空龟派气功 动态壁纸
 keyword: Dragon Ball, Goku, Kamehameha, energy, attack, classic, iconic, anime, battle
 tags : [Dragon Ball]
+download_baidu : https://pan.baidu.com/s/1tn6GMZNzky00FbZRGsTlOw?pwd=live
+download_quark : https://pan.quark.cn/s/51280cb6d2bd
 ---
 
 # No.20260218 Dragon Ball Goku Kamehameha Live Wallpaper

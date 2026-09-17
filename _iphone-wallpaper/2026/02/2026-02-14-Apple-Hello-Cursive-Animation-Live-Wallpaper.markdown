@@ -4,7 +4,9 @@ category : tech
 title: Apple Hello Cursive Animation Live Wallpaper
 description: No.20260214 Apple Hello 简约连笔动画动态壁纸
 keyword: Apple, Hello, cursive, animation, minimal, elegant, clean, typography, design
-tags : []
+tags : [Apple]
+download_baidu : https://pan.baidu.com/s/1k-a2aTt8xDTeyK9zMGqfyQ?pwd=live
+download_quark : https://pan.quark.cn/s/53d15606a84e
 ---
 
 # No.20260214 Apple Hello Cursive Animation Live Wallpaper

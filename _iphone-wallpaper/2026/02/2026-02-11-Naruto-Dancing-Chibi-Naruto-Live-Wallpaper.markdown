@@ -5,6 +5,8 @@ title: Naruto Dancing Chibi Naruto Live Wallpaper
 description: No.20260211 火影忍者 跳舞的Q版鸣人 动态壁纸
 keyword: Naruto, Uzumaki Naruto, chibi, dance, cute, manga style, cheerful, anime, playful
 tags : [Naruto]
+download_baidu : https://pan.baidu.com/s/11txB54o3a4BpDKIsan2UNQ?pwd=live
+download_quark : https://pan.quark.cn/s/02cf602f3541
 ---
 
 # No.20260211 Naruto Dancing Chibi Naruto Live Wallpaper

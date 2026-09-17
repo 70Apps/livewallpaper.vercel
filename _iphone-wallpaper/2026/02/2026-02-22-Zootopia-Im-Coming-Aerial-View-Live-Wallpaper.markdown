@@ -4,7 +4,9 @@ category : movie
 title: Zootopia I'm Coming Aerial View Live Wallpaper
 description: No.20260222 疯狂动物城 我来了 航拍动物城动态壁纸
 keyword: Zootopia, aerial, view, cityscape, flying, adventure, Disney, colorful, lively
-tags : [Disney]
+tags : [Zootopia]
+download_baidu : https://pan.baidu.com/s/1KeVnEc-iAGeBafmklu3AbA?pwd=live
+download_quark : https://pan.quark.cn/s/caf0b7cd0c31
 ---
 
 # No.20260222 Zootopia I'm Coming Aerial View Live Wallpaper

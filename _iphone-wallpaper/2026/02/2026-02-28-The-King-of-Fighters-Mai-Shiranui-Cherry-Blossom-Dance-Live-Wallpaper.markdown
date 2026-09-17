@@ -5,6 +5,8 @@ title: The King of Fighters Mai Shiranui Cherry Blossom Dance Live Wallpaper
 description: No.20260228 拳皇 不知火舞 樱花园轻舞动态壁纸
 keyword: The King of Fighters, KOF, Mai Shiranui, cherry blossom, dance, elegant, fighting game, anime, beautiful
 tags : [The King of Fighters]
+download_baidu : https://pan.baidu.com/s/1fsP8Ggkerr8P8yPkTnbVZg?pwd=live
+download_quark : https://pan.quark.cn/s/ec3e85d6c4e0
 ---
 
 # No.20260228 The King of Fighters Mai Shiranui Cherry Blossom Dance Live Wallpaper

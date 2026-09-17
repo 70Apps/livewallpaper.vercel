@@ -5,6 +5,8 @@ title: Disney Turbo the Super Snail Live Wallpaper
 description: No.20260216 迪士尼 超级蜗牛 动态壁纸
 keyword: Disney, Turbo, snail, super, speed, racing, cute, animation, movie
 tags : [Disney]
+download_baidu : https://pan.baidu.com/s/1vI9GbFZtOp0IjJWwfqEs8g?pwd=live
+download_quark : https://pan.quark.cn/s/12e705c44704
 ---
 
 # No.20260216 Disney Turbo the Super Snail Live Wallpaper

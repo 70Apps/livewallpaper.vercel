@@ -5,6 +5,8 @@ title: One Piece Empress Boa Hancock Emerging from Water Live Wallpaper
 description: No.20260213 海贼王 女帝汉库克 出水芙蓉动态壁纸
 keyword: One Piece, Boa Hancock, empress, water, beauty, elegant, anime, mermaid, queen
 tags : [One Piece]
+download_baidu : https://pan.baidu.com/s/1iJTxULYZaefoOcyRBjs0UQ?pwd=live
+download_quark : https://pan.quark.cn/s/2a21ef6bd1e0
 ---
 
 # No.20260213 One Piece Empress Boa Hancock Emerging from Water Live Wallpaper

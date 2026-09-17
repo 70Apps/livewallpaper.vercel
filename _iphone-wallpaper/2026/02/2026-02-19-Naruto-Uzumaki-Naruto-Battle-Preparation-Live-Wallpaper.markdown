@@ -5,6 +5,8 @@ title: Naruto Uzumaki Naruto Battle Preparation Live Wallpaper
 description: No.20260219 火影忍者 鸣人准备 战斗准备动作动态壁纸
 keyword: Naruto, Uzumaki Naruto, preparation, battle, stance, focused, determined, anime, ninja
 tags : [Naruto]
+download_baidu : https://pan.baidu.com/s/1czkVatHrE26KqZuv8d-faQ?pwd=live
+download_quark : https://pan.quark.cn/s/65b9c7aed41a
 ---
 
 # No.20260219 Naruto Uzumaki Naruto Battle Preparation Live Wallpaper

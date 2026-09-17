@@ -4,7 +4,9 @@ category : animation
 title: Xian Ni Wang Lin in Black with Red Lightning Live Wallpaper
 description: No.20260227 仙逆 王林 黑衣废墟红色闪电动态壁纸
 keyword: 仙逆, 王林, 黑衣, 废墟, 红色闪电, 仙侠, 国漫, 中国动画, 霸气, 修真
-tags : []
+tags : [Xian Ni]
+download_baidu : https://pan.baidu.com/s/1oDuBF5s8rmDXJQU4YV5uaw?pwd=live
+download_quark : https://pan.quark.cn/s/39fecf37e1c2
 ---
 
 # No.20260227 Xian Ni Wang Lin in Black with Red Lightning Live Wallpaper

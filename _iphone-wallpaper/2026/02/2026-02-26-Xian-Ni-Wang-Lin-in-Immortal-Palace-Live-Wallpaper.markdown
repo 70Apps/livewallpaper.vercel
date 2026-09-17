@@ -4,7 +4,9 @@ category : animation
 title: Xian Ni Wang Lin in Immortal Palace Live Wallpaper
 description: No.20260226 仙逆 王林 仙宫帅气亮相动态壁纸
 keyword: 仙逆, 王林, 仙宫, 仙侠, 国漫, 中国动画, 霸气, 修真, 唯美
-tags : []
+tags : [Xian Ni]
+download_baidu : https://pan.baidu.com/s/1QuPdgZIsviHM8bIyyRZ89g?pwd=live
+download_quark : https://pan.quark.cn/s/bbd27e07f9cf
 ---
 
 # No.20260226 Xian Ni Wang Lin in Immortal Palace Live Wallpaper

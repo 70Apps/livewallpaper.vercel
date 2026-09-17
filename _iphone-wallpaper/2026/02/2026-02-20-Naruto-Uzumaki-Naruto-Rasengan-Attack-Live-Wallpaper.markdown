@@ -5,6 +5,8 @@ title: Naruto Uzumaki Naruto Rasengan Attack Live Wallpaper
 description: No.20260220 火影忍者 鸣人攻击 螺旋丸动态壁纸
 keyword: Naruto, Uzumaki Naruto, Rasengan, attack, spiral, energy, iconic, anime, ninja
 tags : [Naruto]
+download_baidu : https://pan.baidu.com/s/1DXCXlk0FwaIfFO4uTdHbAg?pwd=live
+download_quark : https://pan.quark.cn/s/c85aaed2a00b
 ---
 
 # No.20260220 Naruto Uzumaki Naruto Rasengan Attack Live Wallpaper

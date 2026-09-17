@@ -5,6 +5,8 @@ title: One Piece Dancing Chibi Luffy Live Wallpaper
 description: No.20260212 海贼王 跳舞的Q版路飞 动态壁纸
 keyword: One Piece, Luffy, chibi, dance, cute, rainbow, wall, cheerful, anime, playful
 tags : [One Piece]
+download_baidu : https://pan.baidu.com/s/1xueoXpJ0oVXKcz4MBU6sDw?pwd=live
+download_quark : https://pan.quark.cn/s/561c32a5cc4a
 ---
 
 # No.20260212 One Piece Dancing Chibi Luffy Live Wallpaper
