@@ -5,6 +5,8 @@ title: The King of Fighters Mai Shiranui Special Attack Live Wallpaper
 description: No.20260313 拳皇 不知火舞4 特殊装扮持扇攻击大招动态壁纸
 keyword: The King of Fighters, KOF, Mai Shiranui, special outfit, fan, attack, special move, powerful, kunoichi
 tags : [The King of Fighters]
+download_baidu : https://pan.baidu.com/s/10AaXzZNFqC7b99DhWcV4zA?pwd=live
+download_quark : https://pan.quark.cn/s/75d2eda25d6d
 ---
 
 # No.20260313 The King of Fighters Mai Shiranui Special Attack Live Wallpaper

@@ -5,6 +5,8 @@ title: Attack on Titan Mikasa Ackerman Ready to Charge Live Wallpaper
 description: No.20260311 进击的巨人 三笠阿克曼 半跪准备冲锋动态壁纸
 keyword: Attack on Titan, Shingeki no Kyojin, Mikasa Ackerman, charge, kneeling, burning town, battle, determined
 tags : [Attack on Titan]
+download_baidu : https://pan.baidu.com/s/1MjPik0ST_-4awREv1WZ3CA?pwd=live
+download_quark : https://pan.quark.cn/s/8cfd2fca6548
 ---
 
 # No.20260311 Attack on Titan Mikasa Ackerman Ready to Charge Live Wallpaper

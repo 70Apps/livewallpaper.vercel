@@ -5,6 +5,8 @@ title: Marvel Venom Half Face Tongue Out Live Wallpaper
 description: No.20260312 漫威 毒液 半脸特写吐舌头动态壁纸
 keyword: Marvel, Venom, symbiote, half face, tongue, close-up, anti-hero, villain, comic
 tags : [Marvel]
+download_baidu : https://pan.baidu.com/s/1KcZwlTcU19sFzQcgi5q3aQ?pwd=live
+download_quark : https://pan.quark.cn/s/e21a4b1d1257
 ---
 
 # No.20260312 Marvel Venom Half Face Tongue Out Live Wallpaper

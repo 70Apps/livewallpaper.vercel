@@ -5,6 +5,8 @@ title: Genshin Impact Raiden Shogun Sakura Festival Battle Pose Live Wallpaper
 description: No.20260329 原神 雷电将军 樱花祭战斗姿势 动态壁纸
 keyword: Genshin Impact, Raiden Shogun, Baal, Electro, Archon, Sakura Festival, cherry blossoms, battle pose, night, Inazuma, sword
 tags : [Genshin Impact]
+download_baidu : https://pan.baidu.com/s/1CyGCJxud38V5w08s4llZbA?pwd=live
+download_quark : https://pan.quark.cn/s/8337013351cb
 ---
 
 # No.20260329 Genshin Impact Raiden Shogun Sakura Festival Battle Pose Live Wallpaper

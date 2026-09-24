@@ -5,6 +5,8 @@ title: Demon Slayer Akaza Ice Magic Attack Live Wallpaper
 description: No.20260304 鬼灭之刃 猗窝座 冰雪魔法攻击动态壁纸
 keyword: Demon Slayer, Kimetsu no Yaiba, Akaza, ice, magic, attack, blue, demon, anime
 tags : [Demon Slayer]
+download_baidu : https://pan.baidu.com/s/1kGZygVcTyPP35YZtyP5rIA?pwd=live
+download_quark : https://pan.quark.cn/s/acf29ad7c830
 ---
 
 # No.20260304 Demon Slayer Akaza Ice Magic Attack Live Wallpaper

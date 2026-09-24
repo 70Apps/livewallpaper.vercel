@@ -5,6 +5,8 @@ title: Attack on Titan Eren Jaeger ODM Gear Live Wallpaper
 description: No.20260310 进击的巨人 艾伦耶格尔 立体机动装置战斗动态壁纸
 keyword: Attack on Titan, Shingeki no Kyojin, Eren Jaeger, ODM gear, battle, flying, burning town, action
 tags : [Attack on Titan]
+download_baidu : https://pan.baidu.com/s/1gnBR3cpZhYgpymRCOXX6KQ?pwd=live
+download_quark : https://pan.quark.cn/s/d668e2e84ac5
 ---
 
 # No.20260310 Attack on Titan Eren Jaeger ODM Gear Live Wallpaper

@@ -5,6 +5,8 @@ title: Mortal Kombat Sub-Zero Classic Fatality Pose Live Wallpaper
 description: No.20260328 真人快打 绝对零度 经典终结大招pose 动态壁纸
 keyword: Mortal Kombat, Sub-Zero, ice, frost, fatality, finishing move, classic pose, Lin Kuei, cryomancer, freezing, ninja
 tags : [Mortal Kombat]
+download_baidu : https://pan.baidu.com/s/10IXSQWz0_fYc8hGRqgczgQ?pwd=live
+download_quark : https://pan.quark.cn/s/38116681b2ba
 ---
 
 # No.20260328 Mortal Kombat Sub-Zero Classic Fatality Pose Live Wallpaper

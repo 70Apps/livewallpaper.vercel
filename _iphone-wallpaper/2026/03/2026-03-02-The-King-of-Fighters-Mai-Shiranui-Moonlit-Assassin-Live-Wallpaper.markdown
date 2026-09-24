@@ -5,6 +5,8 @@ title: The King of Fighters Mai Shiranui Moonlit Assassin Live Wallpaper
 description: No.20260302 拳皇 不知火舞 月夜灵猫刺客装扮动态壁纸
 keyword: The King of Fighters, KOF, Mai Shiranui, assassin, moonlight, Japanese style, mysterious, seductive, kunoichi
 tags : [The King of Fighters]
+download_baidu : https://pan.baidu.com/s/148EJ8yvX0hV239HB00r1aA?pwd=live
+download_quark : https://pan.quark.cn/s/11b8001e61ac
 ---
 
 # No.20260302 The King of Fighters Mai Shiranui Moonlit Assassin Live Wallpaper

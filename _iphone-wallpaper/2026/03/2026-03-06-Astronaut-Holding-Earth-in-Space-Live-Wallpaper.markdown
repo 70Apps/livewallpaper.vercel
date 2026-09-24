@@ -4,7 +4,9 @@ category : space
 title: Astronaut Holding Earth in Space Live Wallpaper
 description: No.20260306 宇航员 蓝色星球 手捧地球动态壁纸
 keyword: astronaut, space, Earth, blue planet, hold, cosmic, peaceful, exploration, sci-fi
-tags : []
+tags : [Space]
+download_baidu : https://pan.baidu.com/s/1tNMG7DcWt9HfRwd09ruPaQ?pwd=live
+download_quark : https://pan.quark.cn/s/4fb5a256818b
 ---
 
 # No.20260306 Astronaut Holding Earth in Space Live Wallpaper

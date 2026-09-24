@@ -5,6 +5,8 @@ title: Attack on Titan Eren and Attack Titan Live Wallpaper
 description: No.20260320 进击的巨人 进击的艾伦 艾伦身后巨人形态动态壁纸
 keyword: Attack on Titan, Shingeki no Kyojin, Eren Jaeger, Attack Titan, transformation, titan form, powerful, anime
 tags : [Attack on Titan]
+download_baidu : https://pan.baidu.com/s/1iKmj3a63DupHVrOm6ZVU2w?pwd=live
+download_quark : https://pan.quark.cn/s/c407980d147e
 ---
 
 # No.20260320 Attack on Titan Eren and Attack Titan Live Wallpaper

@@ -5,6 +5,8 @@ title: Gundam Battle-Worn Hero Live Wallpaper
 description: No.20260309 高达 功勋战神 战损版高达帅气亮相动态壁纸
 keyword: Gundam, battle-worn, damaged, hero, energy, eyes, mecha, powerful, iconic
 tags : [Gundam]
+download_baidu : https://pan.baidu.com/s/1mcEIp0J13X59-AbZ6aeO8g?pwd=live
+download_quark : https://pan.quark.cn/s/6ec593d75e21
 ---
 
 # No.20260309 Gundam Battle-Worn Hero Live Wallpaper

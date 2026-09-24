@@ -5,6 +5,8 @@ title: Genshin Impact Raiden Shogun Live Wallpaper
 description: No.20260321 原神 雷电将军 动态壁纸
 keyword: Genshin Impact, Raiden Shogun, Ei, Electro, sword, powerful, anime, game, goddess
 tags : [Genshin Impact]
+download_baidu : https://pan.baidu.com/s/1fLI05akEVF7SI58nGqEA6g?pwd=live
+download_quark : https://pan.quark.cn/s/7df484bc619d
 ---
 
 # No.20260321 Genshin Impact Raiden Shogun Live Wallpaper

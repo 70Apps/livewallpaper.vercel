@@ -5,6 +5,8 @@ title: Naruto Kakashi Hatake Reading Under Tree Live Wallpaper
 description: No.20260330 火影忍者 好学的卡卡西 树下看书 动态壁纸
 keyword: Naruto, Kakashi Hatake, reading, book, tree, Icha Icha Paradise, sensei, lazy, casual, anime, leaf village
 tags : [Naruto]
+download_baidu : https://pan.baidu.com/s/1WmS2bqrONHfiBhfrJmQCtA?pwd=live
+download_quark : https://pan.quark.cn/s/d2af14781b50
 ---
 
 # No.20260330 Naruto Kakashi Hatake Reading Under Tree Live Wallpaper

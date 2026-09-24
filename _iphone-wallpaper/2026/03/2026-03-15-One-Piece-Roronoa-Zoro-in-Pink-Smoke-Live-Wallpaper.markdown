@@ -5,6 +5,8 @@ title: One Piece Roronoa Zoro in Pink Smoke Live Wallpaper
 description: No.20260315 海贼王 罗罗诺亚佐罗 粉红烟雾挥动双刀动态壁纸
 keyword: One Piece, Roronoa Zoro, pink smoke, dual swords, attack, dynamic, swordsman, anime
 tags : [One Piece]
+download_baidu : https://pan.baidu.com/s/1ANQ5hgjNsQuSsyL7jf3RGw?pwd=live
+download_quark : https://pan.quark.cn/s/0563605b0f73
 ---
 
 # No.20260315 One Piece Roronoa Zoro in Pink Smoke Live Wallpaper

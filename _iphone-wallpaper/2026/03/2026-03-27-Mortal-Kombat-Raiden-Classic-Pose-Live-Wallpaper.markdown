@@ -5,6 +5,8 @@ title: Mortal Kombat Raiden Classic Pose Live Wallpaper
 description: No.20260327 真人快打 雷电 经典pose 动态壁纸
 keyword: Mortal Kombat, Raiden, thunder god, lightning, classic pose, fighting game, Elder God, staff, electric, netherrealm
 tags : [Mortal Kombat]
+download_baidu : https://pan.baidu.com/s/1CGSJanvQsFP_9fdLanvBbA?pwd=live
+download_quark : https://pan.quark.cn/s/e3143f402220
 ---
 
 # No.20260327 Mortal Kombat Raiden Classic Pose Live Wallpaper

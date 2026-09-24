@@ -5,6 +5,8 @@ title: Seascape Ocean and Sky in Harmony Live Wallpaper
 description: No.20260319 风景 海天一色 宁静海边波浪起伏动态壁纸
 keyword: seascape, ocean, sky, waves, peaceful, calm, beach, nature, relaxing, blue
 tags : []
+download_baidu : https://pan.baidu.com/s/1VVCim-oqqb3qIbFPDmKLcA?pwd=live
+download_quark : https://pan.quark.cn/s/43abe34d5b49
 ---
 
 # No.20260319 Seascape Ocean and Sky in Harmony Live Wallpaper

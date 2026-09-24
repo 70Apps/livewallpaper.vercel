@@ -5,6 +5,8 @@ title: Crayon Shin-chan and Shiro on Water Lily Live Wallpaper
 description: No.20260308 蜡笔小新 睡莲 小新和小白池塘睡莲休息动态壁纸
 keyword: Crayon Shin-chan, Shin-chan, Shiro, water lily, pond, rest, cute, relaxing, nature
 tags : [Crayon Shin-chan]
+download_baidu : https://pan.baidu.com/s/1GkAJHwE6LfcWzlA1v-SWXw?pwd=live
+download_quark : https://pan.quark.cn/s/f64ad352b7f9
 ---
 
 # No.20260308 Crayon Shin-chan and Shiro on Water Lily Live Wallpaper

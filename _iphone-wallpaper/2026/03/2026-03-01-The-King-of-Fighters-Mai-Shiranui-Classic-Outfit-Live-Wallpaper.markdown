@@ -5,6 +5,8 @@ title: The King of Fighters Mai Shiranui Classic Outfit Live Wallpaper
 description: No.20260301 拳皇 不知火舞 经典装扮动态壁纸
 keyword: The King of Fighters, KOF, Mai Shiranui, classic, outfit, iconic, fighting game, anime, kunoichi
 tags : [The King of Fighters]
+download_baidu : https://pan.baidu.com/s/1f45J5trpk-2EVn3DIc0meQ?pwd=live
+download_quark : https://pan.quark.cn/s/fb3afc585026
 ---
 
 # No.20260301 The King of Fighters Mai Shiranui Classic Outfit Live Wallpaper
