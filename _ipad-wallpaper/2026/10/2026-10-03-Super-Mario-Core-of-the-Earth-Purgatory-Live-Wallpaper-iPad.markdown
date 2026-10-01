@@ -5,8 +5,8 @@ title: Super Mario Core of the Earth Purgatory Live Wallpaper
 description: No.20261003 超級瑪莉歐-地心煉獄動態壁紙
 keyword: Super Mario, 超級瑪麗, 超级玛丽, スーパーマリオ, 슈퍼마리오, Nintendo
 tags : [Super Mario, Game]
-download_baidu :
-download_quark :
+download_baidu : https://pan.baidu.com/s/18n3ZRBxg5G5XdiL07eWufA?pwd=live
+download_quark : https://pan.quark.cn/s/54b6631b6a95
 ---
 
 # No.20261003 Super Mario Core of the Earth Purgatory Live Wallpaper

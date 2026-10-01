@@ -5,8 +5,8 @@ title: Super Mario Underwater Exploration Live Wallpaper
 description: No.20261001 超級瑪莉歐-海底探險動態壁紙
 keyword: Super Mario, Super Mario, 超級瑪麗, 超级玛丽, スーパーマリオ, 슈퍼마리오
 tags : [Super Mario, Game]
-download_baidu :
-download_quark :
+download_baidu : https://pan.baidu.com/s/1V6trTdUueQj9WX6CwIkE8A?pwd=live
+download_quark : https://pan.quark.cn/s/0029be4091f7
 ---
 
 # No.20261001 Super Mario Underwater Exploration Live Wallpaper

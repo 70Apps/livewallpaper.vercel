@@ -5,8 +5,8 @@ title: Super Mario Midnight Desert Exploration Live Wallpaper
 description: No.20261002 超級瑪莉歐-午夜沙漠探險動態壁紙
 keyword: Super Mario, 超級瑪麗, 超级玛丽, スーパーマリオ, 슈퍼마리오, Nintendo
 tags : [Super Mario, Game]
-download_baidu :
-download_quark :
+download_baidu : https://pan.baidu.com/s/1On7wmD1_I3SEG2u0kSPnDw?pwd=live
+download_quark : https://pan.quark.cn/s/30ca8b8ab333
 ---
 
 # No.20261002 Super Mario Midnight Desert Exploration Live Wallpaper
