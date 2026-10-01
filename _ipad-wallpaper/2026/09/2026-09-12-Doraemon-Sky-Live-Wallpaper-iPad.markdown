@@ -5,6 +5,8 @@ title: Doraemon Sky Live Wallpaper
 description: No.20260912 哆啦A梦-天空 动态壁纸
 keyword: Doraemon,Sky,哆啦A梦,天空,哆啦A夢,天空,ドラえもん,空,도라에몽,하늘,डोरएमोन,आकाश
 tags : [Doraemon, Anime, Sky]
+download_baidu : https://pan.baidu.com/s/1WgVv6_2WFBz_B6pvFKNWQw?pwd=live
+download_quark : https://pan.quark.cn/s/6de6947ea11b
 ---
 
 # No.20260912 Doraemon Sky Live Wallpaper

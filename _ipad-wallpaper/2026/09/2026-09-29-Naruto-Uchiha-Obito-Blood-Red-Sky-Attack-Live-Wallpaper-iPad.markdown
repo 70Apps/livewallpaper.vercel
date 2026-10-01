@@ -5,8 +5,8 @@ title: Naruto Uchiha Obito Blood Red Sky Attack Live Wallpaper
 description: No.20260929 火影忍者-宇智波带土（血色天空下發動攻擊）動態壁紙
 keyword: Naruto,Uchiha Obito,火影忍者,宇智波带土,火影忍者,宇智波帶土,ナルト、うちはオビト,우치하 오토
 tags : [Naruto, Uchiha Obito, Anime]
-download_baidu :
-download_quark :
+download_baidu : https://pan.baidu.com/s/1PoABtzCP8P8G6AY3UZMciw?pwd=live
+download_quark : https://pan.quark.cn/s/6e76554aa5f2
 ---
 
 # No.20260929 Naruto Uchiha Obito Blood Red Sky Attack Live Wallpaper

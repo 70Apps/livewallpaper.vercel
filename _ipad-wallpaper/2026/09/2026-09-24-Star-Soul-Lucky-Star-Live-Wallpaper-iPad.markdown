@@ -5,8 +5,8 @@ title: Star Soul Lucky Star Live Wallpaper
 description: No.20260924 星星人-幸运星 动态壁纸
 keyword: Star Soul,Lucky Star,星星人,幸运星,スターソウル,ラッキースター
 tags : [Star Soul, Lucky Star, Anime]
-download_baidu :
-download_quark :
+download_baidu : https://pan.baidu.com/s/1pBAcle3XZLXtga-6-qcaQQ?pwd=live
+download_quark : https://pan.quark.cn/s/a7236f61cc23
 ---
 
 # No.20260924 Star Soul Lucky Star Live Wallpaper

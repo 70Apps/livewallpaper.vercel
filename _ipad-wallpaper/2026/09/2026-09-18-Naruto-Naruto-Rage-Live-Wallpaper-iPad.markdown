@@ -5,6 +5,8 @@ title: Naruto Naruto Rage Live Wallpaper
 description: No.20260918 火影忍者-鸣人之怒 動態壁紙
 keyword: Naruto,NarutoRage,火影忍者,鸣人之怒,ナルト,鳴人之怒,नारुतو नारुتو गुस्सा,ναρουτo ναρουτo θυμος
 tags : [Naruto, Anime, Nine-Tails]
+download_baidu : https://pan.baidu.com/s/1043dexvsMZ6rYgkNMdayTA?pwd=live
+download_quark : https://pan.quark.cn/s/605204a92193
 ---
 
 # No.20260918 Naruto Naruto Rage Live Wallpaper

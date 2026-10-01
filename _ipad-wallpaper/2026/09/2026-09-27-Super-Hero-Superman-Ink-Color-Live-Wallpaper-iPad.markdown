@@ -5,8 +5,8 @@ title: Super Hero Superman Ink Color Live Wallpaper
 description: No.20260927 超级英雄-超人（水墨粉彩酷炫登场）动态壁纸
 keyword: Superman,Super Hero,超级英雄,超人,スーパーマン,슈퍼맨,ink wash painting,watercolor
 tags : [Superman, Super Hero, Ink Wash]
-download_baidu :
-download_quark :
+download_baidu : https://pan.baidu.com/s/1pA2e0l6b-PvEBlxDmCmu3A?pwd=live
+download_quark : https://pan.quark.cn/s/fd6a8470f444
 ---
 
 # No.20260927 Super Hero Superman Ink Color Live Wallpaper

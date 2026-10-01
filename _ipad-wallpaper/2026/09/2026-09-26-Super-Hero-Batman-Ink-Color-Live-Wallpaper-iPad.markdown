@@ -5,8 +5,8 @@ title: Super Hero Batman Ink Color Live Wallpaper
 description: No.20260926 超级英雄-蝙蝠侠（水墨粉彩酷炫登场）动态壁纸
 keyword: Batman,Super Hero,超级英雄,蝙蝠侠,バットマン,배트맨,ink wash painting,watercolor
 tags : [Batman, Super Hero, Ink Wash]
-download_baidu :
-download_quark :
+download_baidu : https://pan.baidu.com/s/1yaD8wULnA0vGGYZ7A2ywIA?pwd=live
+download_quark : https://pan.quark.cn/s/22b2d8f48327
 ---
 
 # No.20260926 Super Hero Batman Ink Color Live Wallpaper

@@ -5,8 +5,8 @@ title: Demon Slayer Tanjiro Kamado Live Wallpaper
 description: No.20260919 鬼灭之刃-炭治郎 动态壁纸
 keyword: Demon Slayer,Tanjiro Kamado,Kyogai,鬼灭之刃,灶门炭治郎,竈門炭治郎,鬼滅の刃,Demon Slayer Tanjiro
 tags : [Demon Slayer, Tanjiro Kamado, Anime]
-download_baidu :
-download_quark :
+download_baidu : https://pan.baidu.com/s/1f26uZmCCXsc9DEaRp9FUHg?pwd=live
+download_quark : https://pan.quark.cn/s/a1303955759f
 ---
 
 # No.20260919 Demon Slayer Tanjiro Kamado Live Wallpaper

@@ -5,8 +5,8 @@ title: Super Hero Captain America Ink Wash Watercolor Live Wallpaper
 description: No.20260925 超级英雄-美国队长（水墨粉彩酷炫登场）动态壁纸
 keyword: Captain America,Super Hero,超级英雄,美国队长,キャプテン・アメリカ,미국隊長,ink wash painting,watercolor
 tags : [Captain America, Super Hero]
-download_baidu :
-download_quark :
+download_baidu : https://pan.baidu.com/s/1Qqwq62vZErUDzYQVY4-vdw?pwd=live
+download_quark : https://pan.quark.cn/s/9b01dad7f6b5
 ---
 
 # No.20260925 Super Hero Captain America Ink Wash Watercolor Live Wallpaper

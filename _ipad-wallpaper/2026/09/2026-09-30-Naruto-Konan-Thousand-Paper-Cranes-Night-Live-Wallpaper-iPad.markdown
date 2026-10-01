@@ -5,8 +5,8 @@ title: Naruto Konan Thousand Paper Cranes Night Live Wallpaper
 description: No.20260930 火影忍者-小南（夜色下漫天千紙鶴飛翔）動態壁紙
 keyword: Naruto,Konan,火影忍者,小南,火影忍者,小南,ナルト、小南,나루토,코난
 tags : [Naruto, Konan, Anime]
-download_baidu :
-download_quark :
+download_baidu : https://pan.baidu.com/s/1uHSRm6gwtAMJ0r2KxgVJlQ?pwd=live
+download_quark : https://pan.quark.cn/s/21cda759caa8
 ---
 
 # No.20260930 Naruto Konan Thousand Paper Cranes Night Live Wallpaper

@@ -5,6 +5,8 @@ title: Doraemon Forest Live Wallpaper
 description: No.20260911 哆啦A夢-森林 動態壁紙
 keyword: Doraemon,Forest,哆啦A梦,森林,哆啦A夢,森林,ドラえもん,森,도라에몽,숲,डोरएमोन,जंगल
 tags : [Doraemon, Anime, Forest]
+download_baidu : https://pan.baidu.com/s/1WbgDqL4Ls6ztNut8odu-yg?pwd=live
+download_quark : https://pan.quark.cn/s/3dbe14327195
 ---
 
 # No.20260911 Doraemon Forest Live Wallpaper

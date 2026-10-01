@@ -5,8 +5,8 @@ title: Demon Slayer Giyu Tomioka Live Wallpaper
 description: No.20260921 鬼灭之刃-富冈义勇 动态壁纸
 keyword: Demon Slayer,Giyu Tomioka,鬼灭之刃,富冈义勇,竈門富岡義勇,鬼滅の刃,Water Hashira
 tags : [Demon Slayer, Giyu Tomioka, Anime]
-download_baidu :
-download_quark :
+download_baidu : https://pan.baidu.com/s/1gAtxZzVbLuyjOZTWcHf72Q?pwd=live
+download_quark : https://pan.quark.cn/s/86815e70b1ac
 ---
 
 # No.20260921 Demon Slayer Giyu Tomioka Live Wallpaper

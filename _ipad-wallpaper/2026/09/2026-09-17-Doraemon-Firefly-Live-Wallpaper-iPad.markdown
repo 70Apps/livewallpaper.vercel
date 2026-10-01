@@ -5,6 +5,8 @@ title: Doraemon Firefly Live Wallpaper
 description: No.20260917 哆啦A夢-螢火蟲 動態壁紙
 keyword: Doraemon,Firefly,哆啦A梦,萤火虫,哆啦A夢,螢火蟲,ドラえもん,蛍,도라에몽,반딧불이,डोरएमोन,जुगनू
 tags : [Doraemon, Cartoon, Firefly]
+download_baidu : https://pan.baidu.com/s/1pJhpuZpiaoY8VaaySnPBDQ?pwd=live
+download_quark : https://pan.quark.cn/s/1d9335cb0a48
 ---
 
 # No.20260917 Doraemon Firefly Live Wallpaper

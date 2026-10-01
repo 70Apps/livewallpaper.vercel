@@ -5,6 +5,8 @@ title: Starperson Starry Bottle Live Wallpaper
 description: No.20260914 星星人-星星瓶 動態壁紙
 keyword: Starperson,Star Bottle,星星人,星星瓶,スターマン,星の瓶,우주인,별 병
 tags : [Star,Bottle,Chibi]
+download_baidu : https://pan.baidu.com/s/1RazQlZ6EluJiLSSOyqYbWw?pwd=live
+download_quark : https://pan.quark.cn/s/2b5379a9328d
 ---
 
 # No.20260914 Starperson Starry Bottle Live Wallpaper

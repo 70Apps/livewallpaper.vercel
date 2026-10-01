@@ -5,8 +5,8 @@ title: Demon Slayer Kyojuro Rengoku Live Wallpaper
 description: No.20260922 鬼灭之刃-炼狱杏寿郎 动态壁纸
 keyword: Demon Slayer,Kyojuro Rengoku,鬼灭之刃,炼狱杏寿郎,煉獄杏寿郎,鬼滅の刃,Flame Hashira
 tags : [Demon Slayer, Kyojuro Rengoku, Anime]
-download_baidu :
-download_quark :
+download_baidu : https://pan.baidu.com/s/1frzgZBCiXAJ3f4QAQYkOew?pwd=live
+download_quark : https://pan.quark.cn/s/f0b191955cea
 ---
 
 # No.20260922 Demon Slayer Kyojuro Rengoku Live Wallpaper

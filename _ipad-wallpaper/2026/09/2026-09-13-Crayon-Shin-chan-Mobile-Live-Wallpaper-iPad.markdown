@@ -5,6 +5,8 @@ title: Crayon Shin-chan Mobile Phone Live Wallpaper
 description: No.20260913 蠟筆小新-手機 動態壁紙
 keyword: Crayon Shin-chan,野原新之助,蜡笔小新,クレヨンしんちゃん,野原しんのすけ,CrayonShinChan
 tags : [Crayon Shin-chan, Cartoon, Phone]
+download_baidu : https://pan.baidu.com/s/1W6pj0TXXc3g5SpHLJvD2gQ?pwd=live
+download_quark : https://pan.quark.cn/s/57cdb34444ca
 ---
 
 # No.20260913 Crayon Shin-chan Mobile Phone Live Wallpaper

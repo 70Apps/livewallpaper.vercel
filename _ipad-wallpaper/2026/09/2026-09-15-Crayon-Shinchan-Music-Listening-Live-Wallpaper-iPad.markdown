@@ -5,6 +5,8 @@ title: Crayon Shin-chan Music Listening Live Wallpaper
 description: No.20260915 蠟筆小新-聽音樂 動態壁紙
 keyword: Crayon Shin-chan,蠟筆小新,蜡笔小新,クレヨンしんちゃん,野原しんのすけ,CrayonShinChan,Music,Listening
 tags : [Crayon Shin-chan, Cartoon, Music, Chibi]
+download_baidu : https://pan.baidu.com/s/1vfaazsfMqr46OmRFMrwuhw?pwd=live
+download_quark : https://pan.quark.cn/s/fc2d2925a09a
 ---
 
 # No.20260915 Crayon Shin-chan Music Listening Live Wallpaper

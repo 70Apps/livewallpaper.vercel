@@ -5,8 +5,8 @@ title: Naruto Uchiha Itachi Blood Moon Rooftop Live Wallpaper
 description: No.20260928 火影忍者-鼬（血月下屋頂上的鼬）動態壁紙
 keyword: Naruto,Uchiha Itachi,火影忍者,宇智波鼬,火影忍者,宇智波鼬,ナルト、うちはイタチ,우치하 이타치
 tags : [Naruto, Uchiha Itachi, Anime]
-download_baidu :
-download_quark :
+download_baidu : https://pan.baidu.com/s/1Gq8Ri6_dM-qFjNIqvLqIOw?pwd=live
+download_quark : https://pan.quark.cn/s/1fe7e92f2372
 ---
 
 # No.20260928 Naruto Uchiha Itachi Blood Moon Rooftop Live Wallpaper

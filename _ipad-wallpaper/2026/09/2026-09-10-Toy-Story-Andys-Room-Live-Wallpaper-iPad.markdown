@@ -5,8 +5,8 @@ title: Toy Story Andy's Room Live Wallpaper
 description: No.20260910 玩具总动员-安迪的房间 动态壁纸
 keyword: Toy Story,Andy's Room,玩具总动员,安迪的房间,玩具總動員,安迪的房間,トイ・ストーリー,アンディの部屋,토이스토리,앤디의방,टॉय स्टोरि,एंडी क कमरै
 tags : [Toy Story, "Andy's Room", Disney, Pixar]
-download_baidu : https://pan.baidu.com/s/16nr69xv4e5rC52Z6Wg_hBA?pwd=live
-download_quark : https://pan.quark.cn/s/9cfe3066d1a9
+download_baidu : https://pan.baidu.com/s/15fU-lz8UPBZpOLcnVdmG0A?pwd=live
+download_quark : https://pan.quark.cn/s/c28f954fd80c
 ---
 
 # No.20260910 Toy Story Andy's Room Live Wallpaper
