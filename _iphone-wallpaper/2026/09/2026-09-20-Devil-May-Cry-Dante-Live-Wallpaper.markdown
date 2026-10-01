@@ -5,6 +5,8 @@ title: Devil May Cry Dante Live Wallpaper
 description: No.20260920 鬼泣 惡魔獵人 但丁 動態壁紙
 keyword: Devil May Cry,Dante,鬼泣,但丁,鬼泣,但丁,デビルメイクライ,ダンテ,데빌메이크라이,단테
 tags : [Devil May Cry, Dante, Demon Hunter]
+download_baidu : https://pan.baidu.com/s/14wYiRG_30AngPANNiDEuUA?pwd=live
+download_quark : https://pan.quark.cn/s/10635314a793
 ---
 
 # No.20260920 Devil May Cry Dante Live Wallpaper

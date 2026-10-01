@@ -5,6 +5,8 @@ title: Naruto Sakura Haruno Dark Epic Style Leaf Guardian Live Wallpaper
 description: No.20260903 火影忍者 春野樱 暗黑史诗风格木叶守护者 动态壁纸
 keyword: Naruto,SakuraHaruno,火影忍者,春野樱,火影忍者,春野樱,NARUTO,春野サクラ,나루토,하루노사쿠라
 tags : [Naruto, Sakura Haruno]
+download_baidu : https://pan.baidu.com/s/1D4sLCcAPQsNFPTP3uAWnDw?pwd=live
+download_quark : https://pan.quark.cn/s/8680acd3fede
 ---
 
 # No.20260903 Naruto Sakura Haruno Dark Epic Style Leaf Guardian Live Wallpaper

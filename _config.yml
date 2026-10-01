@@ -68,7 +68,9 @@ collections:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
+exclude:
+  - _cdn/
+  - _local/
 paginate: 24
 paginate_path: "/page-:num/"
 

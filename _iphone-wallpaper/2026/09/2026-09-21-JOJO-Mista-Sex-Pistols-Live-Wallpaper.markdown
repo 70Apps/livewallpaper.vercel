@@ -5,6 +5,8 @@ title: JOJO Mista Sex Pistols Live Wallpaper
 description: No.20260921 JOJO 性感手槍 米斯達 動態壁紙
 keyword: JOJO,Mista,JOJO的奇妙冒险,米斯达,JOJO的奇妙冒險,米斯達,ジョジョの奇妙な冒険,ミスタ,죠죠의기묘한모험,미스타
 tags : [JOJO, Mista, Stand, Sex Pistols]
+download_baidu : https://pan.baidu.com/s/1VrpxdAtqm4Upl9N4DsErMQ?pwd=live
+download_quark : https://pan.quark.cn/s/e45565c70dcc
 ---
 
 # No.20260921 JOJO Mista Sex Pistols Live Wallpaper

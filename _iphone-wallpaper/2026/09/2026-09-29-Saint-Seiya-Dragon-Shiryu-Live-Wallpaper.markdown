@@ -5,6 +5,8 @@ title: Saint Seiya Dragon Shiryu Live Wallpaper
 description: No.20260929 聖鬥士星矢 紫龍 動態壁紙
 keyword: Saint Seiya,Dragon Shiryu,圣斗士星矢,紫龙,聖鬥士星矢,紫龍,聖闘士星矢,紫龍,세인트세이야,시류
 tags : [Saint Seiya, Shiryu]
+download_baidu : https://pan.baidu.com/s/1ce3rR1lolltvS7L2vGGMUQ?pwd=live
+download_quark : https://pan.quark.cn/s/74c999a69063
 ---
 
 # No.20260929 Saint Seiya Dragon Shiryu Live Wallpaper

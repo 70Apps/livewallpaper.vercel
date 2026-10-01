@@ -5,6 +5,8 @@ title: Mortal Journey Nangong Wan Evil Slaying Thorn Live Wallpaper
 description: No.20260913 凡人修仙傳 南宮婉的誅邪刺 動態壁紙
 keyword: MortalJourney,NangongWan,凡人修仙传,南宫婉,凡人修仙傳,南宮婉,凡人修仙伝,南宮婉,범인수선전,남궁완
 tags : ["A Record of a Mortal's Journey to Immortality", Nangong Wan]
+download_baidu : https://pan.baidu.com/s/1StXf3Erc7FqOPrXbAy4law?pwd=live
+download_quark : https://pan.quark.cn/s/26c125950687
 ---
 
 # No.20260913 Mortal Journey Nangong Wan Evil Slaying Thorn Live Wallpaper

@@ -5,6 +5,8 @@ title: Naruto Kakashi Hatake Dark Epic Style Leaf Guardian Live Wallpaper
 description: No.20260904 火影忍者 旗木卡卡西 暗黑史诗风格木叶守护者 动态壁纸
 keyword: Naruto,KakashiHatake,火影忍者,旗木卡卡西,火影忍者,旗木卡卡西,NARUTO,はたけカカシ,나루토,하타케카카시
 tags : [Naruto, Kakashi Hatake]
+download_baidu : https://pan.baidu.com/s/1chqjB_BeZguf5bpkgxnilA?pwd=live
+download_quark : https://pan.quark.cn/s/ef3169eb18dc
 ---
 
 # No.20260904 Naruto Kakashi Hatake Dark Epic Style Leaf Guardian Live Wallpaper
