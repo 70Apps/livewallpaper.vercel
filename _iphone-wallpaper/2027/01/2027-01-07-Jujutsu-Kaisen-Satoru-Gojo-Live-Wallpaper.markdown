@@ -5,8 +5,8 @@ title: Jujutsu Kaisen Satoru Gojo Live Wallpaper
 description: No.20270107 咒術回戦 五条悟 動態壁紙
 keyword: Jujutsu Kaisen, JJK, Satoru Gojo, 咒术回战, 五条悟, 呪術廻戦, ゴジョ, 주술전신, 고조
 tags : [Jujutsu Kaisen, Satoru Gojo, Anime]
-download_baidu : 
-download_quark : 
+download_baidu : https://pan.baidu.com/s/1-nqkkDImrzuEXpmpgYvtKQ?pwd=live
+download_quark : https://pan.quark.cn/s/f12660fa77ac
 ---
 
 # No.20270107 Jujutsu Kaisen Satoru Gojo Live Wallpaper

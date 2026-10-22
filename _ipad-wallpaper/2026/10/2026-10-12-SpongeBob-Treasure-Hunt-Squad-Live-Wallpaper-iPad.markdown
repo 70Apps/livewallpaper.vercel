@@ -5,8 +5,8 @@ title: SpongeBob Treasure Hunt Squad Live Wallpaper
 description: No.20261012 海綿寶寶 尋寶小分隊 動態壁紙
 keyword: SpongeBob, 海绵宝宝, 海綿寶寶, スポンジ・bob, 스폰지밥
 tags : [SpongeBob, Cartoon]
-download_baidu :
-download_quark :
+download_baidu : https://pan.baidu.com/s/1vFr6WyuC2hQSru1uwLu3Sw?pwd=live
+download_quark : https://pan.quark.cn/s/b66ea8bd22c7
 ---
 
 # No.20261012 SpongeBob Treasure Hunt Squad Live Wallpaper

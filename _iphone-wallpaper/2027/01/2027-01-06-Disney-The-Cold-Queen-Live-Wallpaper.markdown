@@ -5,8 +5,8 @@ title: Disney The Cold Queen Live Wallpaper
 description: No.20270106 迪士尼 冷酷的皇后 動態壁紙
 keyword: Disney, Disney Princess, Maleficent, 迪士尼, 冷酷的皇后, ディズニー, 디즈니, 디즈니 프린세스
 tags : [Disney, Disney Princess, Animation]
-download_baidu : 
-download_quark : 
+download_baidu : https://pan.baidu.com/s/1KQtoPWZyy0zWtDVre5c13w?pwd=live
+download_quark : https://pan.quark.cn/s/69102f440320
 ---
 
 # No.20270106 Disney The Cold Queen Live Wallpaper

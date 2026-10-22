@@ -5,8 +5,8 @@ title: Jujutsu Kaisen Ryomen Sukuna Half Face Flashy Wink Kill Live Wallpaper
 description: No.20270104 咒术回战 两面宿傩（半臉酷炫眨眼殺）動態壁紙
 keyword: Jujutsu Kaisen, Jujutsu Kaisen, Ryomen Sukuna, 咒术回战, 两面宿傩, 呪術廻戦, 両面宿儺, 주술전신, 류멘숙나
 tags : [Jujutsu Kaisen, Ryomen Sukuna, Anime]
-download_baidu :
-download_quark :
+download_baidu : https://pan.baidu.com/s/1aj4_G4uLQu6kKSIhAgRYsA?pwd=live
+download_quark : https://pan.quark.cn/s/460e6e57605a
 ---
 
 # No.20270104 Jujutsu Kaisen Ryomen Sukuna Half Face Flashy Wink Kill Live Wallpaper

@@ -5,6 +5,8 @@ title: Starperson Holding Starry Bottle Live Wallpaper
 description: 20270101星星人手持星星瓶Q版可爱动态壁纸，梦幻星空瓶中闪烁着温暖星光粒子
 keyword: Star,星星,星,별,Bottle,瓶子,ボトル,병,Chibi,Q版,ちび,큐비
 tags: [Star, Bottle, Chibi]
+download_baidu : https://pan.baidu.com/s/1zzG1Hr4A8o49ghbyh1LOwQ?pwd=live
+download_quark : https://pan.quark.cn/s/1198e7b94a04
 ---
 
 # No.20270101 Starperson Holding Starry Bottle Live Wallpaper

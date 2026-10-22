@@ -5,8 +5,8 @@ title: Solo Leveling Sung Jinwoo Half Face Flashy Wink Kill Live Wallpaper
 description: No.20270105 我独自升级 程肖宇（半脸酷炫眨眼杀）动态壁纸
 keyword: Solo Leveling, 我独自升级, 我獨自升級, 나 혼자만 레벨업, ソンジュンウ
 tags : [Solo Leveling, Sung Jinwoo, Anime]
-download_baidu :
-download_quark :
+download_baidu : https://pan.baidu.com/s/1bY4TFt48QXptb7oXJ7Rbjw?pwd=live
+download_quark : https://pan.quark.cn/s/69102f440320
 ---
 
 # No.20270105 Solo Leveling Sung Jinwoo Half Face Flashy Wink Kill Live Wallpaper

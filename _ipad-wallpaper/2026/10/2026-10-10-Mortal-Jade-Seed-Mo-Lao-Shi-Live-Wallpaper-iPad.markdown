@@ -5,8 +5,8 @@ title: Mortal Cultivation - Le Shangshi Live Wallpaper
 description: No.20261010 凡人修仙傳 樂上師 動態壁紙
 keyword: 凡人修仙传, 乐上师, Mortal Cultivation, Le Shangshi, 凡人修仙傳, 楽上師
 tags : [Mortal Cultivation, 凡人修仙传, Anime]
-download_baidu :
-download_quark :
+download_baidu : https://pan.baidu.com/s/1wSg9RacWx0cAOLMVIveh3g?pwd=live
+download_quark : https://pan.quark.cn/s/67898e03d339
 ---
 
 # No.20261010 Mortal Cultivation - Le Shangshi Live Wallpaper

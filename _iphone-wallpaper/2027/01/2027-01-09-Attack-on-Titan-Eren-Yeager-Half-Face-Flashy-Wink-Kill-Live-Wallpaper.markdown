@@ -5,8 +5,8 @@ title: Attack on Titan Eren Yeager Half-Face Flashy Wink Kill Live Wallpaper
 description: No.20270109 進擊的巨人 艾倫·耶格爾 半臉酷炫眨眼殺 動態壁紙
 keyword: Attack on Titan, Eren Yeager, 进击的巨人, 艾伦·耶格尔, 進擊的巨人, エレン・イェーガー, 진격의거인, 에렌 예거
 tags : [Attack on Titan, Eren Yeager]
-download_baidu : 
-download_quark : 
+download_baidu : https://pan.baidu.com/s/1tgHbeUqRw65-LAhnnxSCEA?pwd=live
+download_quark : https://pan.quark.cn/s/8d2899ea9c56
 ---
 
 # No.20270109 Attack on Titan Eren Yeager Half-Face Flashy Wink Kill Live Wallpaper

@@ -5,8 +5,8 @@ title: Demon Slayer Akaza Live Wallpaper
 description: No.20270103 鬼灭之刃 猗窝座 动态壁纸
 keyword: Demon Slayer, Demon Slayer Kimetsu no Yaiba, Akaza, 鬼灭之刃, 鬼滅の刃, 猗窩座, 猗窝座, 鬼灭
 tags : [Demon Slayer, Akaza]
-download_baidu :
-download_quark :
+download_baidu : https://pan.baidu.com/s/1ztuepUTWI40jM4dC-709Ww?pwd=live
+download_quark : https://pan.quark.cn/s/655d0620a9a1
 ---
 
 # No.20270103 Demon Slayer Akaza Live Wallpaper

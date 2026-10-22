@@ -5,8 +5,8 @@ title: Naruto Uchiha Itachi Half-Face Flashy Wink Kill Live Wallpaper
 description: No.20270110 火影忍者 宇智波鼬 半臉酷炫眨眼殺 動態壁紙
 keyword: Naruto, Uchiha Itachi, 火影忍者, 宇智波鼬, 火影忍者, うちはイタチ, 나루토, 이타치
 tags : [Naruto, Uchiha Itachi]
-download_baidu : 
-download_quark : 
+download_baidu : https://pan.baidu.com/s/1cJfup0kdk8f1xbi0-KeyXA?pwd=live
+download_quark : https://pan.quark.cn/s/17261a1399fc
 ---
 
 # No.20270110 Naruto Uchiha Itachi Half-Face Flashy Wink Kill Live Wallpaper

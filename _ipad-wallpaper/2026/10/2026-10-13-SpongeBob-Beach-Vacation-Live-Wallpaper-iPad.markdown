@@ -5,8 +5,8 @@ title: SpongeBob Beach Vacation Live Wallpaper
 description: No.20261013 海綿寶寶 沙灘度假 動態壁紙
 keyword: SpongeBob, 海绵宝宝, 海綿寶寶, スポンジbob, 스폰지밥
 tags : [SpongeBob, Cartoon]
-download_baidu :
-download_quark :
+download_baidu : https://pan.baidu.com/s/1c7rIFfHdV0Uv5INBI9ATDw?pwd=live
+download_quark : https://pan.quark.cn/s/1c543afeded0
 ---
 
 # No.20261013 SpongeBob Beach Vacation Live Wallpaper
