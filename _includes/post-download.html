@@ -17,16 +17,17 @@
   </div>
   <div class="pd-qr-area" id="pdQrArea">
     <div class="pd-qr-item" id="pdQrBaiduItem" style="display:none;">
-      <img id="pdQrBaidu" src="" alt="Baidu QR" />
+      <div id="pdQrBaidu" class="qr-code" style="border-radius:inherit;"></div>
       <span>Baidu NetDisk</span>
     </div>
     <div class="pd-qr-item" id="pdQrQuarkItem" style="display:none;">
-      <img id="pdQrQuark" src="" alt="Quark QR" />
+      <div id="pdQrQuark" class="qr-code" style="border-radius:inherit;"></div>
       <span>Quark NetDisk</span>
     </div>
   </div>
 </div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
 <script>
   (function(){
     var baiduLink   = "{{ page.download_baidu | default: '' }}";
@@ -67,15 +68,28 @@
       return;
     }
 
-    /* ---- PC 点击按钮显示对应二维码 ---- */
+    /* ---- PC 点击按钮显示对应二维码（qrcode.js 本地生成，使用按钮品牌色） ---- */
     if (!isMobile) {
-      var qrBaidu = document.getElementById('pdQrBaidu');
-      var qrQuark = document.getElementById('pdQrQuark');
       var itemBaidu = document.getElementById('pdQrBaiduItem');
       var itemQuark = document.getElementById('pdQrQuarkItem');
 
-      if (baiduLink) qrBaidu.src = 'https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=' + encodeURIComponent(baiduLink);
-      if (quarkLink) qrQuark.src = 'https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=' + encodeURIComponent(quarkLink);
+      // Baidu 品牌蓝 / Quark 品牌紫（与按钮渐变的深色端一致）
+      new QRCode(document.getElementById('pdQrBaidu'), {
+        text: baiduLink,
+        width: 120,
+        height: 120,
+        colorDark: '#1d4ed8',
+        colorLight: '#ffffff',
+        correctLevel: QRCode.CorrectLevel.M
+      });
+      new QRCode(document.getElementById('pdQrQuark'), {
+        text: quarkLink,
+        width: 120,
+        height: 120,
+        colorDark: '#6d28d9',
+        colorLight: '#ffffff',
+        correctLevel: QRCode.CorrectLevel.M
+      });
 
       document.getElementById('pdBaidu').addEventListener('click', function(e) {
         e.preventDefault();
@@ -83,7 +97,6 @@
         itemBaidu.style.display = 'flex';
         itemQuark.style.display = 'none';
         document.getElementById('pdQrArea').style.display = 'flex';
-        //if (baiduLink) window.open(baiduLink, '_blank');
       });
       document.getElementById('pdQuark').addEventListener('click', function(e) {
         e.preventDefault();
@@ -91,7 +104,6 @@
         itemQuark.style.display = 'flex';
         itemBaidu.style.display = 'none';
         document.getElementById('pdQrArea').style.display = 'flex';
-        //if (quarkLink) window.open(quarkLink, '_blank');
       });
     } else {
       /* Mobile: 直接跳转，隐藏二维码 */
