@@ -71,6 +71,7 @@ collections:
 exclude:
   - _cdn/
   - _local/
+  - .well-known/
 paginate: 24
 paginate_path: "/page-:num/"
 

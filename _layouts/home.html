@@ -128,6 +128,7 @@ title: xLiveWallpaper
     const imgElement = new Image();
     imgElement.onload = function() {
       preview.style.backgroundImage = "url('" + src + "')";
+      preview.style.backgroundSize = 'cover';
       setTimeout(function () { 
         preview.style.opacity = 1; 
         preview.classList.add('loaded');
