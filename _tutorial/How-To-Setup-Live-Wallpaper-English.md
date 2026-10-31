@@ -5,7 +5,7 @@ title: Guide to Setup live wallpaper for Android & iPhone
 description: This guide will teach you step-by-step how to download and set up the dedicated live wallpaper files provided by our website.
 keyword: lock screen, live photo, screensavers, live wallpaper
 tags : [Tutorial]
-ogimage: https://xlivewallpaper.70apps.com/images/ogimage.png
+ogimage: https://www.xlivewallpaper.com/images/ogimage.png
 ---
 
 # How to Set Live Wallpapers: A Complete Guide to Android Video Files & iPhone Live Photo Format
