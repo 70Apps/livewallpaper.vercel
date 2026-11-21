@@ -5,6 +5,8 @@ title: Demon Slayer Giyu Tomioka in Dark Live Wallpaper
 description: No.20261227 鬼灭之刃-黑暗里的富冈义勇 动态壁纸
 keyword: DemonSlayer,GiyuTomioka,WaterHashira,鬼灭之刃,富冈义勇,鬼滅の刃,水柱,데스노트 기유,기멸의 칼날 기유토미오카,Demon Slayer Giyu
 tags : [Anime, Demon Slayer, Action]
+download_baidu: https://pan.baidu.com/s/1ZOLYk_XnWIUcCWYuxgGDdQ?pwd=live
+download_quark: https://pan.quark.cn/s/5f2eeb0909c8
 ---
 
 # No.20261227 Demon Slayer Giyu Tomioka in Dark Live Wallpaper

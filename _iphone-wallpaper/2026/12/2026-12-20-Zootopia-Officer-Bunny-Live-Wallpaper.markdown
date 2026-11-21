@@ -5,6 +5,8 @@ title: Zootopia Officer Bunny Live Wallpaper
 description: No.20261220 疯狂动物城 兔子警官 动态壁纸
 keyword: Zootopia,Officer Bunny,疯狂动物城,兔子警官,瘋狂動物城,兔子警官,ズートピア,警官ウサギ,쿠팡동물도시,토끼경찰,ज़ूटोपिया,ऑफ़िसर बन्नी
 tags : [Zootopia, Officer Bunny, Cartoon]
+download_baidu: https://pan.baidu.com/s/1hMhk5ZnBjaUIAFRiQssBdg?pwd=live
+download_quark: https://pan.quark.cn/s/6a7069559b9f
 ---
 
 # No.20261220 Zootopia Officer Bunny Live Wallpaper

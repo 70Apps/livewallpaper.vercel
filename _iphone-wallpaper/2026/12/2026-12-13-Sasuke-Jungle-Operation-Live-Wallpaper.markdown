@@ -5,6 +5,8 @@ title: Sasuke Jungle Operation Live Wallpaper
 description: No.20261213 火影忍者 叢林作戰的佐助 動態壁紙
 keyword: Sasuke,Jungle Operation,佐助,丛林作战,佐助,叢林作戰,サスケ,ジャングル作戦,사스케,정글작전,सासुके,जंगल ऑपरेशन
 tags : [Sasuke, Jungle Operation, Anime]
+download_baidu: https://pan.baidu.com/s/1AOApjQYRDJFSrE_mitkbMg?pwd=live
+download_quark: https://pan.quark.cn/s/9ac9896eb555
 ---
 
 # No.20261213 Sasuke Jungle Operation Live Wallpaper

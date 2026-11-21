@@ -5,6 +5,8 @@ title: Delta Force medic Live Wallpaper
 description: No.20261219 三角洲部队 蜂医 动态壁纸
 keyword: Delta Force,Medic,三角洲部队,蜂医,三角洲突擊隊,蜂醫,デルタフォース,蜂医,델타 포스,메딕,डेल्टा फोर्स,मेडिक
 tags : [Delta Force, Medic, Game]
+download_baidu: https://pan.baidu.com/s/1Uv-1UzegB4DblcO4g0KAnw?pwd=live
+download_quark: https://pan.quark.cn/s/8762872ffd93
 ---
 
 # No.20261219 Delta Force medic Live Wallpaper

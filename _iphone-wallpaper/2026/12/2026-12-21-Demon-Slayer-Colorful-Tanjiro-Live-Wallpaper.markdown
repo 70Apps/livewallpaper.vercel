@@ -5,6 +5,8 @@ title: Demon Slayer Colorful Tanjiro Live Wallpaper
 description: No.20261221 鬼灭之刃-炫彩炭治郎 动态壁纸
 keyword: DemonSlayer,ColorfulTanjiro,鬼灭之刃,炫彩炭治郎,鬼滅の刃,色彩の炭治郎,鬼滅の刃 彩色炭治郎,데스노트 단지로,기멸의 칼날 채치랑,Demon Slayer Tanjiro
 tags : [Anime, Demon Slayer, Action]
+download_baidu: https://pan.baidu.com/s/1z8YL00Fm7XoK5JEZzBKnMA?pwd=live
+download_quark: https://pan.quark.cn/s/0e126d3b4b47
 ---
 
 # No.20261221 Demon Slayer Colorful Tanjiro Live Wallpaper

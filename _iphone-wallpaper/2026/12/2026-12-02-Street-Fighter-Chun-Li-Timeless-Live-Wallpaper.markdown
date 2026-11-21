@@ -5,6 +5,8 @@ title: Street Fighter Chun Li Timeless Live Wallpaper
 description: No.20261202 街霸 春丽 春丽不老 動態壁紙
 keyword: Street Fighter,Chun Li,Timeless,街霸,春丽,春丽不老,街頭霸王,春麗,春麗不老,ストリートファイター,春麗,ストリートファイター,춘리,시대를초월한
 tags : [Street Fighter, Chun Li, Timeless]
+download_baidu: https://pan.baidu.com/s/1r9V4aOcYemW1_Adclw1i4w?pwd=live
+download_quark: https://pan.quark.cn/s/bba80f1b8894
 ---
 
 # No.20261202 Street Fighter Chun Li Timeless Live Wallpaper

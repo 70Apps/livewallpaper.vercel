@@ -5,6 +5,8 @@ title: Naruto Jungle Operation Live Wallpaper
 description: No.20261212 火影忍者 叢林作戰的鳴人 動態壁紙
 keyword: Naruto,Jungle Operation,火影忍者,鸣人,叢林作戰,ナルト,ジャングル作戦,나루토,정글작전,नारुतो,जंगल ऑपरेशन
 tags : [Naruto, Jungle Operation, Anime]
+download_baidu: https://pan.baidu.com/s/1o95Fr5yzzq7B6omVCNrl5A?pwd=live
+download_quark: https://pan.quark.cn/s/69bb164bc801
 ---
 
 # No.20261212 Naruto Jungle Operation Live Wallpaper

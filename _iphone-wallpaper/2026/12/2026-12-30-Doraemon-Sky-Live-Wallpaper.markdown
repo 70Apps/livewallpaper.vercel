@@ -5,6 +5,8 @@ title: Doraemon Sky Adventure Live Wallpaper
 description: No.20261230 哆啦A梦-天空 动态壁纸
 keyword: Doraemon,哆啦A梦,ドラえもん,野比大雄,铜锣烧,Sky,Doraemon,Nobita
 tags : [Doraemon, Anime, Cartoon]
+download_baidu: https://pan.baidu.com/s/1zEViTkw_p3F-oE3fPhT5ng?pwd=live
+download_quark: https://pan.quark.cn/s/e9bae415e0e2
 ---
 
 # No.20261230 Doraemon Sky Adventure Live Wallpaper

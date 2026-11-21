@@ -5,6 +5,8 @@ title: Street Fighter Little Red Aged Live Wallpaper
 description: No.20261201 街霸 小红 小红老了 動態壁紙
 keyword: Street Fighter,Little Red,Aged,街霸,小红,小红老了,街頭霸王,小紅,小紅老了,ストリートファイター,レッド,老いた,ストリートファイター,레드,노인
 tags : [Street Fighter, Little Red, Aged]
+download_baidu: https://pan.baidu.com/s/1WgQGvjBS1tgCs8mZxdrdXQ?pwd=live
+download_quark: https://pan.quark.cn/s/b54c3ce3806b
 ---
 
 # No.20261201 Street Fighter Little Red Aged Live Wallpaper

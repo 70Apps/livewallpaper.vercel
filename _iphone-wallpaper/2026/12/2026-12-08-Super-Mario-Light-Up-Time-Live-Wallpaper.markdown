@@ -5,6 +5,8 @@ title: Super Mario Light Up Time Live Wallpaper
 description: No.20261208 超級瑪利歐 點亮時間 動態壁紙
 keyword: Super Mario,Light Up Time,超级马里奥,点亮时间,超級瑪利歐,點亮時間,スーパーマリオ,タイムライト,슈퍼마리오,타임라이트,सुपर मारियो,टाइम लाइट
 tags : [Super Mario, Light Up Time, Game]
+download_baidu: https://pan.baidu.com/s/1_pMOqFy4nubfFTsG2U1G1A?pwd=live
+download_quark: https://pan.quark.cn/s/2eacfb448189
 ---
 
 # No.20261208 Super Mario Light Up Time Live Wallpaper

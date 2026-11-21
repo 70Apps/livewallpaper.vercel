@@ -5,6 +5,8 @@ title: Sakura Jungle Operation Live Wallpaper
 description: No.20261214 火影忍者 叢林作戰的小櫻 動態壁紙
 keyword: Sakura,Jungle Operation,小樱,丛林作战,小櫻,叢林作戰,サクラ,ジャングル作戦,사쿠라,정글작전,साकुरा,जंगल ऑपरेशन
 tags : [Sakura, Jungle Operation, Anime]
+download_baidu: https://pan.baidu.com/s/1NJtWN8bPS0EC6ayQOL0xXw?pwd=live
+download_quark: https://pan.quark.cn/s/00df5263006c
 ---
 
 # No.20261214 Sakura Jungle Operation Live Wallpaper

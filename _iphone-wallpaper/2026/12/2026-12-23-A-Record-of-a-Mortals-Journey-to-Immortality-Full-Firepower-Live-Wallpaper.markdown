@@ -5,6 +5,8 @@ title: A Record of a Mortal Journey to Immortality Full Firepower Live Wallpaper
 description: No.20261223 凡人修仙传-火力全开 动态壁纸
 keyword: MortalJourney,FullFirepower,Immortality,凡人修仙传,火力全开,凡人修仙传 动画,데스노트 모라트자,기멸의 칼날 모라트자,Mortal Journey
 tags : [Drama, Fantasy, Action]
+download_baidu: https://pan.baidu.com/s/1-iU406n5Hi2w2rCz2LPYEQ?pwd=live
+download_quark: https://pan.quark.cn/s/60aa4c2cbc60
 ---
 
 # No.20261223 A Record of a Mortal Journey to Immortality Full Firepower Live Wallpaper
