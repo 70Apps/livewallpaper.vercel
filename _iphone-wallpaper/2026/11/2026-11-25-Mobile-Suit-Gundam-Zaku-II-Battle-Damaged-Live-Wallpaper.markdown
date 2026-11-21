@@ -5,6 +5,8 @@ title: Mobile Suit Gundam Zaku II Battle Damaged Live Wallpaper
 description: No.20261125 机动战士高达 扎古2代 战损高精度 動態壁紙
 keyword: Zaku II,MS-06,机动战士高达,扎古2代,機動戰士鋼彈,薩克II,機動戦士ガンダム,ザクII,기동전사건담,자쿠2
 tags : [Zaku II, MS-06, Anime]
+download_baidu: https://pan.baidu.com/s/1k60wI9U6tfNP0uElYxBGiA?pwd=live
+download_quark: https://pan.quark.cn/s/6e32820e5d82
 ---
 
 # No.20261125 Mobile Suit Gundam Zaku II Battle Damaged Live Wallpaper

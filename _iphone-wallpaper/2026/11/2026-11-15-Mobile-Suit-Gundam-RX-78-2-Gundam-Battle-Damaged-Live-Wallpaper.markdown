@@ -5,6 +5,8 @@ title: Mobile Suit Gundam RX-78-2 Gundam Battle Damaged Live Wallpaper
 description: No.20261115 机动战士高达 RX-78-2元祖高达 战损高精度 動態壁紙
 keyword: Mobile Suit Gundam,RX-78-2 Gundam,机动战士高达,RX-78-2元祖高达,機動戰士鋼彈,RX-78-2元祖鋼彈,機動戦士ガンダム,RX-78-2ガンダム,기동전사건담,RX-78-2건담
 tags : [Gundam, RX-78-2]
+download_baidu: https://pan.baidu.com/s/1JVvhpRK18TwiydN-RdOtCA?pwd=live
+download_quark: https://pan.quark.cn/s/bd0a82af6a02
 ---
 
 # No.20261115 Mobile Suit Gundam RX-78-2 Gundam Battle Damaged Live Wallpaper

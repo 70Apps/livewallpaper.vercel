@@ -5,6 +5,8 @@ title: Mobile Suit Gundam Wing Gundam Epyon Battle Damaged Live Wallpaper
 description: No.20261120 机动战士高达W OZ-13MS艾比安高达 战损高精度 動態壁紙
 keyword: Gundam Epyon,OZ-13MS,机动战士高达W,艾比安高达,機動戰士鋼彈W,艾比安鋼彈,新機動戦記ガンダムW,ガンダムエピオン,기동전사건담W,건담에피온
 tags : [Gundam Epyon, OZ-13MS, Anime]
+download_baidu: https://pan.baidu.com/s/1Ua7al7RTvd0pfL-5fUCO1g?pwd=live
+download_quark: https://pan.quark.cn/s/936d34ac7b2b
 ---
 
 # No.20261120 Mobile Suit Gundam Wing Gundam Epyon Battle Damaged Live Wallpaper

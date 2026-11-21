@@ -5,6 +5,8 @@ title: Bleach Ichigo Kurosaki Nightfall Live Wallpaper
 description: No.20261109 死神 夜色下的黑崎一护 動態壁紙
 keyword: Bleach,Ichigo Kurosaki,死神,黑崎一护,死神,黑崎一護,ブリーチ,黒崎一護,블리치,쿠로사키이치고
 tags : [Bleach, Ichigo]
+download_baidu: https://pan.baidu.com/s/1gg-gY8S4TAI9hWOwDtaviA?pwd=live
+download_quark: https://pan.quark.cn/s/dfcff2989824
 ---
 
 # No.20261109 Bleach Ichigo Kurosaki Nightfall Live Wallpaper

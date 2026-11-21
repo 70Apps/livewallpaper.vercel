@@ -5,6 +5,8 @@ title: One Piece Monkey D Luffy Nightfall Live Wallpaper
 description: No.20261110 海贼王 夜色下的路飞 動態壁紙
 keyword: One Piece,Monkey D Luffy,海贼王,路飞,航海王,魯夫,ワンピース,モンキー・D・ルフィ,원피스,루피
 tags : [One Piece, Luffy]
+download_baidu: https://pan.baidu.com/s/1-ikh_D_M8q-FtKIU7jfOHw?pwd=live
+download_quark: https://pan.quark.cn/s/347a98b2b257
 ---
 
 # No.20261110 One Piece Monkey D Luffy Nightfall Live Wallpaper

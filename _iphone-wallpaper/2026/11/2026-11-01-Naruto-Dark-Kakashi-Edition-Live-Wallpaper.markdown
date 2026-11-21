@@ -5,6 +5,8 @@ title: Naruto Dark Kakashi Edition Live Wallpaper
 description: No.20261101 火影忍者 黑卡卡西 暗黑风格 動態壁紙
 keyword: Naruto,Dark Kakashi,Kakashi Hatake,火影忍者,黑卡卡西,はたけカカシ,暗黒カカシ,나루토,다크 카카시,नारूटो,डार्क काकाशी
 tags : [Naruto, Anime, Dark Fantasy]
+download_baidu: https://pan.baidu.com/s/1XxDZ9NeHU-FxHvjDGxaJrQ?pwd=live
+download_quark: https://pan.quark.cn/s/a74daefeda93
 ---
 
 # No.20261101 Naruto Dark Kakashi Edition Live Wallpaper

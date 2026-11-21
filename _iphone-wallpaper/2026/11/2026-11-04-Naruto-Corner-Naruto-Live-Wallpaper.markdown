@@ -5,6 +5,8 @@ title: Naruto Corner Naruto Live Wallpaper
 description: No.20261104 火影忍者 墙角的鸣人 动态壁纸
 keyword: Naruto,Naruto Uzumaki,火影忍者,鸣人,火影忍者,鳴人,うずまきナルト,나루토,नारूटो
 tags : [Naruto, Anime, Emotional]
+download_baidu: https://pan.baidu.com/s/1zn5F5WU01iMwl5keWdkQsw?pwd=live
+download_quark: https://pan.quark.cn/s/38b4a5c5b245
 ---
 
 # No.20261104 Naruto Corner Naruto Live Wallpaper

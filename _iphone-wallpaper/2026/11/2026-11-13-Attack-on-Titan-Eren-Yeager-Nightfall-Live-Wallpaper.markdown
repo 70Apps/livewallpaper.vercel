@@ -5,6 +5,8 @@ title: Attack on Titan Eren Yeager Nightfall Live Wallpaper
 description: No.20261113 进击的巨人 夜色下的艾伦 動態壁紙
 keyword: Attack on Titan,Eren Yeager,进击的巨人,艾伦,進擊的巨人,艾連,進撃の巨人,エレン・イェーガー,진격의거인,에렌예거
 tags : [Attack on Titan, Eren]
+download_baidu: https://pan.baidu.com/s/1oB50UvYuzIiqiGLLFRNIQQ?pwd=live
+download_quark: https://pan.quark.cn/s/1bad8f81bcef
 ---
 
 # No.20261113 Attack on Titan Eren Yeager Nightfall Live Wallpaper

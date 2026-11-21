@@ -5,6 +5,8 @@ title: Mobile Suit Gundam SEED Destiny Destiny Gundam Battle Damaged Live Wallpa
 description: No.20261124 机动战士高达SEED DESTINY 命运高达 战损高精度 動態壁紙
 keyword: Destiny Gundam,ZGMF-X42S,机动战士高达SEED DESTINY,命运高达,機動戰士鋼彈SEED DESTINY,命運鋼彈,機動戦士ガンダムSEED DESTINY,デスティニーガンダム,기동전사건담SEEDDESTINY,데스티니건담
 tags : [Destiny Gundam, ZGMF-X42S, Anime]
+download_baidu: https://pan.baidu.com/s/1XXL9aFSk6x0DndcsOCODzg?pwd=live
+download_quark: https://pan.quark.cn/s/6b76282fabfd
 ---
 
 # No.20261124 Mobile Suit Gundam SEED Destiny Destiny Gundam Battle Damaged Live Wallpaper

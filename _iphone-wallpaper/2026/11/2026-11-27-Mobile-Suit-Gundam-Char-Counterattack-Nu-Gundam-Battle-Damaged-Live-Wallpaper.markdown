@@ -5,6 +5,8 @@ title: Mobile Suit Gundam Char's Counterattack Nu Gundam Battle Damaged Live Wal
 description: No.20261127 机动战士高达 逆袭的夏亚 牛高达 战损高精度 動態壁紙
 keyword: Nu Gundam,RX-93,机动战士高达逆袭的夏亚,牛高达,機動戰士鋼彈逆襲的夏亞,ν鋼彈,機動戦士ガンダム逆襲のシャア,νガンダム,기동전사건담역습의샤아,뉴건담
 tags : [Nu Gundam, RX-93, Anime]
+download_baidu: https://pan.baidu.com/s/1u4Dl1TMGgoi0e7h4DU7Dfg?pwd=live
+download_quark: https://pan.quark.cn/s/a8638b187270
 ---
 
 # No.20261127 Mobile Suit Gundam Char's Counterattack Nu Gundam Battle Damaged Live Wallpaper

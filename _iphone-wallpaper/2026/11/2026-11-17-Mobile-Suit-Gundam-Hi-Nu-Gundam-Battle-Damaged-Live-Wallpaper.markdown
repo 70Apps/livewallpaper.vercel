@@ -5,6 +5,8 @@ title: Mobile Suit Gundam Hi-Nu Gundam Battle Damaged Live Wallpaper
 description: No.20261117 机动战士高达 逆袭的夏亚 RX-93海牛高达 战损高精度 動態壁紙
 keyword: Hi-Nu Gundam,RX-93,机动战士高达逆袭的夏亚,RX-93海牛高达,機動戰士鋼彈逆襲的夏亞,RX-93海牛鋼彈,機動戦士ガンダム逆襲のシャア,RX-93ハイニューガンダム,기동전사건담역습의샤아,RX-93하이뉴건담
 tags : [Gundam, Hi-Nu Gundam]
+download_baidu: https://pan.baidu.com/s/1F1nRQ6sHjXRJ0p8yPS8ahQ?pwd=live
+download_quark: https://pan.quark.cn/s/6ef5b3a33c63
 ---
 
 # No.20261117 Mobile Suit Gundam Hi-Nu Gundam Battle Damaged Live Wallpaper

@@ -5,6 +5,8 @@ title: Mobile Suit Gundam Wing Wing Gundam Zero Battle Damaged Live Wallpaper
 description: No.20261114 新机动战记高达W 飞翼零式高达 战损高精度 動態壁紙
 keyword: Gundam Wing,Wing Gundam Zero,新机动战记高达W,飞翼零式高达,新機動戰記鋼彈W,飛翼零式鋼彈,新機動戦記ガンダムW,ウイングガンダムゼロ,신기동전기건담W,윙건담제로
 tags : [Gundam, Wing Gundam Zero]
+download_baidu: https://pan.baidu.com/s/1cjmvKst83AfpUPcW9jrvrw?pwd=live
+download_quark: https://pan.quark.cn/s/d74cbd014d1a
 ---
 
 # No.20261114 Mobile Suit Gundam Wing Wing Gundam Zero Battle Damaged Live Wallpaper

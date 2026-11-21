@@ -5,6 +5,8 @@ title: Mobile Suit Gundam Unicorn Sinanju Battle Damaged Live Wallpaper
 description: No.20261123 机动战士高达UC 新安洲 战损高精度 動態壁紙
 keyword: Sinanju,MSN-06S,机动战士高达UC,新安洲,機動戰士鋼彈UC,新安洲,機動戦士ガンダムUC,シナンジュ,기동전사건담UC,시난주
 tags : [Sinanju, MSN-06S, Anime]
+download_baidu: https://pan.baidu.com/s/1gS8C_fgEfBA2htJBBoU6CQ?pwd=live
+download_quark: https://pan.quark.cn/s/d941be1ecb2d
 ---
 
 # No.20261123 Mobile Suit Gundam Unicorn Sinanju Battle Damaged Live Wallpaper

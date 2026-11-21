@@ -5,6 +5,8 @@ title: Mobile Suit Gundam Chars Counterattack Sazabi Battle Damaged Live Wallpap
 description: No.20261122 机动战士高达逆袭的夏亚 MSN-04沙扎比 战损高精度 動態壁紙
 keyword: Sazabi,MSN-04,机动战士高达逆袭的夏亚,沙扎比,機動戰士鋼彈逆襲的夏亞,沙薩比,機動戦士ガンダム逆襲のシャア,サザビー,기동전사건담역습의샤아,사자비
 tags : [Sazabi, MSN-04, Anime]
+download_baidu: https://pan.baidu.com/s/1mvF6xuWWIZ1Ovd6mUaS9Dw?pwd=live
+download_quark: https://pan.quark.cn/s/3155634c7747
 ---
 
 # No.20261122 Mobile Suit Gundam Chars Counterattack Sazabi Battle Damaged Live Wallpaper

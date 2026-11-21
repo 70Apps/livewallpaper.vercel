@@ -5,6 +5,8 @@ title: Street Fighter Little White Aged Live Wallpaper
 description: No.20261130 街霸 小白 小白老了 動態壁紙
 keyword: Street Fighter,Little White,Aged,街霸,小白,小白老了,街頭霸王,小白,小白老了,ストリートファイター,シロ,老いた,ストリートファイター,화이트,노인
 tags : [Street Fighter, Little White, Aged]
+download_baidu: https://pan.baidu.com/s/1zpSvyjSIef1txvoO7IP_6Q?pwd=4yfc
+download_quark: https://pan.quark.cn/s/93ee12089517
 ---
 
 # No.20261130 Street Fighter Little White Aged Live Wallpaper

@@ -5,6 +5,8 @@ title: Mobile Suit Gundam Wing Deathscythe Hell Battle Damaged Live Wallpaper
 description: No.20261128 新机动战记高达W 地狱死神高达 战损高精度 動態壁紙
 keyword: Deathscythe Hell,XXXG-01D2,新机动战记高达W,地狱死神高达,新機動戰記鋼彈W,地獄死神鋼彈,新機動戦記ガンダムW,デスサイズヘル,신기동전기건담W,데스사이즈헬
 tags : [Deathscythe Hell, XXXG-01D2, Anime]
+download_baidu: https://pan.baidu.com/s/1-H16OEKPQh0HEMOSyeoOnA?pwd=live
+download_quark: https://pan.quark.cn/s/49b53677e5a2
 ---
 
 # No.20261128 Mobile Suit Gundam Wing Deathscythe Hell Battle Damaged Live Wallpaper

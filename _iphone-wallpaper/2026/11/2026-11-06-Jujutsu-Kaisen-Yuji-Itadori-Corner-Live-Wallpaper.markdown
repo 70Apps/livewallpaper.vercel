@@ -5,6 +5,8 @@ title: Jujutsu Kaisen Yuji Itadori Corner Live Wallpaper
 description: No.20261106 咒术回战 墙角的虎杖悠仁 动态壁纸
 keyword: Jujutsu Kaisen,Yuji Itadori,咒术回战,虎杖悠仁,咒術迴戰,虎杖悠仁,呪術廻戦,虎杖悠仁,주술회전,이타도리 유지,जूजुत्सु काइसेन,यूजी इटाडोरी
 tags : [Jujutsu Kaisen, Anime, Emotional]
+download_baidu: https://pan.baidu.com/s/1TfmF7X6ZJErhxiiTljf4Sw?pwd=live
+download_quark: https://pan.quark.cn/s/f0de28191d86
 ---
 
 # No.20261106 Jujutsu Kaisen Yuji Itadori Corner Live Wallpaper

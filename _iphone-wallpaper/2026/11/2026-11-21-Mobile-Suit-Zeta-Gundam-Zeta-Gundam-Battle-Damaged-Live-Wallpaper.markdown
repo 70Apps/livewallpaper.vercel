@@ -5,6 +5,8 @@ title: Mobile Suit Zeta Gundam Zeta Gundam Battle Damaged Live Wallpaper
 description: No.20261121 机动战士Z高达 Z高达 战损高精度 動態壁紙
 keyword: Zeta Gundam,MSZ-006,机动战士Z高达,Z高达,機動戰士Z鋼彈,Z鋼彈,機動戦士Zガンダム,Zガンダム,기동전사건담Z,Z건담
 tags : [Zeta Gundam, MSZ-006, Anime]
+download_baidu: https://pan.baidu.com/s/13VdqxaPjArQn0RnU5X2HYA?pwd=live
+download_quark: https://pan.quark.cn/s/e28a2f369b85
 ---
 
 # No.20261121 Mobile Suit Zeta Gundam Zeta Gundam Battle Damaged Live Wallpaper

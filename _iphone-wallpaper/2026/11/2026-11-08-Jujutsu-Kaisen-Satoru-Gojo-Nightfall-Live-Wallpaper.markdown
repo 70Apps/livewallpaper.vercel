@@ -5,6 +5,8 @@ title: Jujutsu Kaisen Satoru Gojo Nightfall Live Wallpaper
 description: No.20261108 咒术回战 夜色下的五条悟 動態壁紙
 keyword: Jujutsu Kaisen,Satoru Gojo,咒术回战,五条悟,咒術回戰,五條悟,呪術廻戦,五条悟,주술회전,고죠사토루
 tags : [Jujutsu Kaisen, Gojo]
+download_baidu: https://pan.baidu.com/s/1fr756nQR_fNGA8lXZxQh8g?pwd=live
+download_quark: https://pan.quark.cn/s/3acdfc7bf395
 ---
 
 # No.20261108 Jujutsu Kaisen Satoru Gojo Nightfall Live Wallpaper

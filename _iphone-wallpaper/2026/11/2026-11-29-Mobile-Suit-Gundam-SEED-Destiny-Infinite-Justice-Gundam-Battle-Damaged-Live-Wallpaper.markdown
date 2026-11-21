@@ -5,6 +5,8 @@ title: Mobile Suit Gundam SEED Destiny Infinite Justice Gundam Battle Damaged Li
 description: No.20261129 机动战士高达SEED DESTINY 无限正义高达 战损高精度 動態壁紙
 keyword: Infinite Justice Gundam,ZGMF-X19A,机动战士高达SEED DESTINY,无限正义高达,機動戰士鋼彈SEED DESTINY,無限正義鋼彈,機動戦士ガンダムSEED DESTINY,インフィニットジャスティスガンダム,기동전사건담SEEDDESTINY,인피니트저스티스건담
 tags : [Infinite Justice Gundam, ZGMF-X19A, Anime]
+download_baidu: https://pan.baidu.com/s/1Yomg-VicvFdOv-wmcrk0FQ?pwd=live
+download_quark: https://pan.quark.cn/s/3d641a71c6db
 ---
 
 # No.20261129 Mobile Suit Gundam SEED Destiny Infinite Justice Gundam Battle Damaged Live Wallpaper

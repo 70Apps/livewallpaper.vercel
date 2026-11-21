@@ -5,6 +5,8 @@ title: Mobile Suit Gundam Iron-Blooded Orphans Gundam Barbatos Battle Damaged Li
 description: No.20261118 机动战士高达 铁血的奥尔芬斯 ASW-G-08巴巴托斯高达 战损高精度 動態壁紙
 keyword: Gundam Barbatos,ASW-G-08,机动战士高达铁血的奥尔芬斯,巴巴托斯高达,機動戰士鋼彈鐵血的孤兒,巴巴托斯鋼彈,機動戦士ガンダム鉄血のオルフェンズ,ASW-G-08ガンダムバルバトス,기동전사건담철혈의오펀스,ASW-G-08건담걸바토스
 tags : [Gundam, ASW-G-08]
+download_baidu: https://pan.baidu.com/s/1JMBaUQYcSqGcjPP6Y5cbKg?pwd=live
+download_quark: https://pan.quark.cn/s/156ae8e8b49c
 ---
 
 # No.20261118 Mobile Suit Gundam Iron-Blooded Orphans Gundam Barbatos Battle Damaged Live Wallpaper

@@ -5,6 +5,8 @@ title: Naruto Uzumaki Nightfall Live Wallpaper
 description: No.20261112 火影忍者 夜色下的鸣人 動態壁紙
 keyword: Naruto,Naruto Uzumaki,火影忍者,漩涡鸣人,火影忍者,漩渦鳴人,NARUTO,うずまきナルト,나루토,우즈마키나루토
 tags : [Naruto, Naruto Uzumaki]
+download_baidu: https://pan.baidu.com/s/1ToJ8nNHf8SVFO4iUx8ltfA?pwd=live
+download_quark: https://pan.quark.cn/s/50f0dfe77616
 ---
 
 # No.20261112 Naruto Uzumaki Nightfall Live Wallpaper
